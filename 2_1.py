@@ -28,7 +28,14 @@ for t in range(3):
 plt.show()
 
 labels = target_names[target]
-print(target)
-print(labels)
+# print(target)
+# print(labels)
+print("Features.")
+
 plength = features[:,2]
 is_setosa = (labels == 'setosa')
+max_setosa = plength[is_setosa].max()
+min_non_setosa = plength[~is_setosa].min()
+print('Maximum of setosa: {0}.'.format(max_setosa))
+print('Minimum of others: {0}.'.format(min_non_setosa))
+
