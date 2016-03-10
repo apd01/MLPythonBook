@@ -25,7 +25,7 @@ for t in range(3):
                 features[target==t,1],
                 marker=marker,
                 c=c,s=100)
-plt.show()
+# plt.show()
 
 labels = target_names[target]
 # print(target)
@@ -39,3 +39,37 @@ min_non_setosa = plength[~is_setosa].min()
 print('Maximum of setosa: {0}.'.format(max_setosa))
 print('Minimum of others: {0}.'.format(min_non_setosa))
 
+features = features[~is_setosa]
+labels = labels[~is_setosa]
+is_virginica = (labels == 'virginica')
+
+best_acc = -1.0
+for fi in range(features.shape[1]):
+    thresh = features[:,fi]
+    for t in thresh:
+        feature_i = features[:,fi]
+        pred = (feature_i > t)
+        acc = (pred == is_virginica).mean()
+        rev_acc = (pred == ~is_virginica).mean()
+        if rev_acc > acc:
+            reverse = True
+            acc = rev_acc
+            print("Rev Acc")
+        else:
+            reverse = False
+
+        if acc > best_acc:
+            best_acc = acc
+            best_fi = fi
+            best_t = t
+            best_reverse = reverse
+
+
+
+
+def is_virginica_test(fi, t, reverse, example):
+    #"Apply threshold model to a new example"
+    test = example[fi] > t
+    if reverse:
+        test = not test
+    return test
