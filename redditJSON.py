@@ -1,7 +1,7 @@
 import praw
 import json
 
-debug_mode = False
+debug_mode = True
 
 # Todo: Probably only need one with open call in this file
 
@@ -12,6 +12,8 @@ r.config.store_json_result = True
 
 # Get submission
 submissions = r.get_subreddit('bjj').get_top_from_hour()
+submission = next(submissions)
+submission = next(submissions)
 submission = next(submissions)
 
 # Prepare file
@@ -51,12 +53,14 @@ with open(filename + '.txt', 'a') as outfile:
 
 
     for c in all_comments:
-        output += "\n" # outfile.write('\n')
+        output += '\n' # outfile.write('\n')
         #outfile.write(json.dumps(c, indent=4, sort_keys=True))
+        print('\n' + output + '\n')
         output += json.dumps(c.json_dict, indent=4, sort_keys=True, ensure_ascii=True) #outfile.write(json.dumps(c.json_dict, indent=4, sort_keys=True, ensure_ascii=True))
 
         output += ',\n'# outfile.write(',\n')
 
+    # Get rid of the last , (and \n), to comply with proper json formatting
     output = output[0:len(output)-2]# outfile.write(']')
     output += '\n]'
     outfile.write(output)
