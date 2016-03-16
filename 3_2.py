@@ -1,9 +1,12 @@
 import os
 import sys
 import scipy as sp
+import string
 import nltk.stem
+import nltk
 
-DIR = "SNIP\BuildingMachineLearningSystemsWithPython\ch03\data\\reddit"
+
+DIR = "c:\Users\Alan Dunne\workspace\ML with Python\BuildingMachineLearningSystemsWithPython\ch03\data\\reddit"
 posts = [open(os.path.join(DIR, f)).read() for f in os.listdir(DIR)]
 
 english_stemmer = nltk.stem.SnowballStemmer('english')
@@ -46,16 +49,56 @@ best_dist = sys.maxint
 best_i = None
 
 
-
+'''
 for i in range(0, num_samples):
     post = posts[i]
     if post == new_post:
         continue
     post_vec = X_train.getrow(i)
     d = dist_norm(post_vec, new_post_vec)
-    print("=== Post %i with dist=%.2f: %s" % (i, d, post))
+    # print("=== Post %i with dist=%.2f: %s" % (i, d, post))
     if d<best_dist:
         best_dist = d
         best_i = i
 print("Best post is %i with dist=%.2f"%(best_i, best_dist))
 
+vocab = vectorizer.get_feature_names()
+print vocab
+'''
+
+
+'''
+# Sum up the counts of each vocabulary word
+#
+corpus = X_train.toarray()
+dist = sp.sum(corpus, axis=0)
+for tag, count in zip(vocab, dist):
+    print count, tag
+'''
+
+
+new_posts = ''
+for p in posts:
+    if(p.__contains__('Tweets')):
+        continue
+    else:
+        new_posts = new_posts + p
+
+
+full_comments = ''.join(new_posts)
+
+'''
+file = open('comments.txt', 'a')
+for f in full_comments:
+    file.write(f)
+file.close()
+'''
+
+full_comments = full_comments.decode('utf-8')
+MmaText = string.join(full_comments, '').replace('\n', ' ').replace('.','').replace(',','').replace('[','').replace(']','')
+
+MmaText = MmaText.split(' ')
+# MmaText = MmaText.split('\n')
+MmaText = nltk.Text(MmaText)
+
+MmaText.collocations()
