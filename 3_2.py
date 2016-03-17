@@ -6,7 +6,7 @@ import nltk.stem
 import nltk
 
 
-DIR = "c:\Users\Alan Dunne\workspace\ML with Python\BuildingMachineLearningSystemsWithPython\ch03\data\\reddit"
+DIR = "ch03\\data\\reddit"
 posts = [open(os.path.join(DIR, f)).read() for f in os.listdir(DIR)]
 
 english_stemmer = nltk.stem.SnowballStemmer('english')
