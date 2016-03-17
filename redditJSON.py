@@ -16,6 +16,7 @@ r.config.store_json_result = True
 submissions = r.get_subreddit('mma').get_top_from_hour()
 submission = next(submissions)
 '''
+
 submissions = r.get_subreddit('mma').get_top_from_week(limit=5)
 # submission = r.get_submission(submission_id='49w6kw')
 

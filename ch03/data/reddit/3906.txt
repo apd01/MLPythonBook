@@ -1,3 +1,0 @@
-t3_4965yf
-1
-I guess we're training RNC from now on
