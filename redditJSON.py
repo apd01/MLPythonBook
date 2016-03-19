@@ -2,9 +2,10 @@ import praw
 import json
 import os.path
 
-debug_mode = False
+debug_mode = True
 
 # Todo: Probably only need one with open call in this file
+# Todo: The syntax gets screwed up if there are zero comments
 
 # Setup praw
 r = praw.Reddit(user_agent = 'tmp_app')
@@ -17,7 +18,7 @@ submissions = r.get_subreddit('mma').get_top_from_hour()
 submission = next(submissions)
 '''
 
-submissions = r.get_subreddit('mma').get_top_from_week(limit=5)
+submissions = r.get_subreddit('mma').get_top_from_month(limit=25)
 # submission = r.get_submission(submission_id='49w6kw')
 
 for submission in submissions:
@@ -28,9 +29,11 @@ for submission in submissions:
 
     # if we're not in debug mode, check if the submission has already been scraped
     # if we're in debug mode, go ahead anyway (probably need to test other things)
-    if(~debug_mode):
-        if os.path.isfile(filename):
-            continue
+    # Should eventually do this on a per-comment basis
+    # if(~debug_mode):
+    if os.path.isfile(filename):
+        print("Already have " + filename)
+        continue
 
     if debug_mode:
         print(filename)
@@ -41,8 +44,6 @@ for submission in submissions:
 
     # Dump submission data as json
     with open(filename, 'a') as outfile:
-        if debug_mode:
-            print(type(submission.json_dict))
         outfile.write(json.dumps(submission.json_dict, indent=4,sort_keys=True))
 
     if debug_mode:

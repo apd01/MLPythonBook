@@ -1,12 +1,13 @@
 import nltk
+import json
 from nltk.text import FreqDist
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 
 outputDirectory = './ch03/data/output/'
 with open(outputDirectory + 'comment_corpus.txt', 'r') as infile:
-    full_comments = infile.read().decode('utf-8')
-    full_comments = full_comments.split()
+    #full_comments = infile.read().decode('utf-8')
+    #full_comments = full_comments.split()
     #for word in full_comments:
     #    word.replace('\n', '')
     # full_comments = nltk.Text(full_comments)
@@ -17,6 +18,18 @@ with open(outputDirectory + 'comment_corpus.txt', 'r') as infile:
     # A Lemmatizer is a stemmer that tries to preserve word context
     lem = nltk.WordNetLemmatizer()
     processed_tokens = []
+
+
+    #print(full_comments[3])
+    comments = json.loads(infile.read(), encoding='utf-8')
+    print(comments["Length"])
+    print(comments["Comments"][12])
+
+    full_comments = ''
+    for comment in comments["Comments"]:
+        full_comments += comment
+    full_comments = full_comments.split()
+
 
     # Process the words in comments (no further sentiment analysis can be done after this step)
     # It's basically creating an mma wordlist
@@ -30,5 +43,5 @@ with open(outputDirectory + 'comment_corpus.txt', 'r') as infile:
 
 
     fdist = FreqDist(processed_tokens)
-    for x in sorted(w for w in set(processed_tokens) if fdist[w] > 1000):
+    for x in sorted(w for w in set(processed_tokens) if fdist[w] > 200):
         print(x.encode('utf-8'))
