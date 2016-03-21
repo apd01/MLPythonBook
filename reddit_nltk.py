@@ -1,5 +1,6 @@
 import nltk
 import json
+import math
 from nltk.text import FreqDist
 from nltk import word_tokenize
 from nltk.corpus import stopwords
@@ -25,23 +26,39 @@ with open(outputDirectory + 'comment_corpus.txt', 'r') as infile:
     print(comments["Length"])
     print(comments["Comments"][12])
 
+
+
+    #
+
+
+
+'''
+    com_dict = comments["Comments"]
+    counter = 0.1
     full_comments = ''
-    for comment in comments["Comments"]:
+    for idx, comment in enumerate(com_dict):
         full_comments += comment
+        if((float(idx)/float(len(com_dict))) > counter):
+           counter += 0.1
+           print("%f percent of the way through" % (100 * float(idx)/float(len(com_dict))))
     full_comments = full_comments.split()
+'''
+
+# Process the words in comments (no further sentiment analysis can be done after this step)
+# It's basically creating an mma wordlist
+'''
+stopwords = nltk.corpus.stopwords.words('english')
+print("00 of the way through")
+for t, idx in full_comments:
+    t = t.lower()
+    t = t.replace('.', '').replace(',', '').replace('?','')
+    t = lem.lemmatize(t)
+    if t not in stopwords:
+        processed_tokens.append(t)
+    print("\r %f of the way through" % (idx/comments["Length"]))
 
 
-    # Process the words in comments (no further sentiment analysis can be done after this step)
-    # It's basically creating an mma wordlist
-    stopwords = nltk.corpus.stopwords.words('english')
-    for t in full_comments:
-        t = t.lower()
-        t = t.replace('.', '').replace(',', '').replace('?','')
-        t = lem.lemmatize(t)
-        if t not in stopwords:
-            processed_tokens.append(t)
-
-
-    fdist = FreqDist(processed_tokens)
-    for x in sorted(w for w in set(processed_tokens) if fdist[w] > 200):
-        print(x.encode('utf-8'))
+fdist = FreqDist(processed_tokens)
+for x in sorted(w for w in set(processed_tokens) if fdist[w] > 2000):
+    print(x.encode('utf-8'))
+'''
