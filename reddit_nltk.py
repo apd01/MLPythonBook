@@ -1,12 +1,13 @@
 import nltk
 import json
+import gzip
 import math
 from nltk.text import FreqDist
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 
 outputDirectory = './ch03/data/output/'
-with open(outputDirectory + 'comment_corpus.txt', 'r') as infile:
+with gzip.GzipFile(outputDirectory + 'comment_corpus.txt', 'r') as infile:
     #full_comments = infile.read().decode('utf-8')
     #full_comments = full_comments.split()
     #for word in full_comments:
@@ -20,16 +21,10 @@ with open(outputDirectory + 'comment_corpus.txt', 'r') as infile:
     lem = nltk.WordNetLemmatizer()
     processed_tokens = []
 
-
     #print(full_comments[3])
     comments = json.loads(infile.read(), encoding='utf-8')
     print(comments["Length"])
     print(comments["Comments"][12])
-
-
-
-    #
-
 
 
 '''
@@ -57,8 +52,26 @@ for t, idx in full_comments:
         processed_tokens.append(t)
     print("\r %f of the way through" % (idx/comments["Length"]))
 
-
 fdist = FreqDist(processed_tokens)
 for x in sorted(w for w in set(processed_tokens) if fdist[w] > 2000):
     print(x.encode('utf-8'))
 '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

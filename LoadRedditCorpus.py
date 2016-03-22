@@ -3,9 +3,11 @@
 
 from nltk.corpus import PlaintextCorpusReader
 import json
+import gzip
 from pprint import pprint
 from os import listdir
 from os.path import isfile, join
+
 
 
 '''
@@ -49,10 +51,11 @@ for currentFile in files:
             for comment in comments:
                 #outfile.write('"Comment":' + json.dumps(comment["id"], indent=4, ))
                 json_comments["Comments"].append(comment["body"])
-        except Exception as e:
+        except Exception as e: # If there's an error here, it's probably because there are no comments in the file
+            print("Exception")
             print(e)
 
-with open(outputDirectory + 'comment_corpus.txt', 'a') as outfile:
+with gzip.GzipFile(outputDirectory + 'comment_corpus.txt', 'w') as outfile:
     json_comments["Length"] = (len(json_comments["Comments"]))
-    outfile.write(json.dumps(json_comments, indent=4))
+    outfile.write(json.dumps(json_comments)) # , indent=4 taken out for smaller filesize
             #all_comments += comment["body"] + '\n'
