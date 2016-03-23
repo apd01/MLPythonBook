@@ -33,33 +33,39 @@ for submission in submissions:
     # if(~debug_mode):
     if os.path.isfile(filename):
         print("Already have " + filename)
-        continue
+        with open(filename, 'r') as sub_file:
+            data = json.load(sub_file)
+            # only get comments if the number of comments has increased by more than 20%
+            # In this case, just replace the file, as number of votes, edits etc. will be different
+            if submission.num_comments > data["Submission"]["num_comments"] * 1.2:
+                print(submission.num_comments)
+                print(data["Submission"]["num_comments"])
+            else:
+                continue
 
     if debug_mode:
         print(filename)
+
     # Prepare json structure
     with open(filename, 'w') as outfile:
         outfile.write('{\n"Submission":\n')
 
-
-    # Dump submission data as json
-    with open(filename, 'a') as outfile:
+        # Dump submission data as json. This is currently unzipped and formatted for readability
         outfile.write(json.dumps(submission.json_dict, indent=4,sort_keys=True))
 
-    if debug_mode:
-        print("Wrote data to " + filename)
+        if debug_mode:
+            print("Wrote data to " + filename)
 
-    # Get all comments for the submission
-    if debug_mode:
-        print("Submission = %s" % submission.title)
-    submission.replace_more_comments(limit=None, threshold=0)
-    if debug_mode:
-        print("Received comments")
+        # Get all comments for the submission
+        if debug_mode:
+            print("Submission = %s" % submission.title)
+        submission.replace_more_comments(limit=None, threshold=0)
+        if debug_mode:
+            print("Received comments")
 
-    all_comments = praw.helpers.flatten_tree(submission.comments)
-    if debug_mode:
-        print("Flattened comments")
-
+        all_comments = praw.helpers.flatten_tree(submission.comments)
+        if debug_mode:
+            print("Flattened comments")
 
     def remakeCommentDict(comment_json):
         dictObjects = ["approved_by", "archived", "author", "author_flair_css_class", "author_flair_text", "banned_by",
@@ -68,10 +74,10 @@ for submission in submissions:
         "removal_reason", "report_reasons", "saved", "score", "score_hidden", "stickied",
         "subreddit", "subreddit_id", "ups", "user_reports"]
 
-        newComment = {}
+        new_comment = {}
         for item in dictObjects:
-            newComment[item] = comment_json[item]
-        return newComment
+            new_comment[item] = comment_json[item]
+        return new_comment
 
     # print(type(enumerate(all_comments)))
     with open(filename, 'a') as outfile:
@@ -88,7 +94,6 @@ for submission in submissions:
         output = output[0:len(output)-2]#
         output += '\n]'
         outfile.write(output)
-
 
     # End file
     with open(filename, 'a') as outfile:
