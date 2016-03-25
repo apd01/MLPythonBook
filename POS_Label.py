@@ -25,7 +25,7 @@ tagger = PerceptronTagger()
 
 
 if debug_mode:
-    with file(outputDirectory + 'comment_corpus_short.txt', 'r') as infile:
+    with file(outputDirectory + 'comment_corpus.txt', 'r') as infile:
         comments = json.loads(infile.read(), encoding='utf-8')
         for comment in comments["Comments"]:
             cmt = nltk.sent_tokenize(comment)
