@@ -1,0 +1,139 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "BaconAndEggsBernays", 
+    "author_flair_css_class": null, 
+    "author_flair_text": null, 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458886072.0, 
+    "created_utc": 1458857272.0, 
+    "distinguished": null, 
+    "domain": "youtu.be", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4bttoy", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": "vid", 
+    "link_flair_text": "Video", 
+    "locked": false, 
+    "media": {
+        "oembed": {
+            "author_name": "MMAWeekly.com", 
+            "author_url": "https://www.youtube.com/user/MMAWeeklyVideos", 
+            "description": "http://www.MMAWeekly.com/ -- An openly emotional Daniel Cormier breaks down his performance against Jon Jones at UFC 182, admitting that Jones was the better fighter and won the fight.", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoiHcbS7sqMM%3Fstart%3D273%26feature%3Doembed%26start%3D273&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoiHcbS7sqMM%26feature%3Dyoutu.be%26t%3D273&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoiHcbS7sqMM%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.ytimg.com/vi/oiHcbS7sqMM/hqdefault.jpg", 
+            "thumbnail_width": 480, 
+            "title": "UFC 182 Video: An Emotional Daniel Cormier Breaks Down His Loss to Jon Jones", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=oiHcbS7sqMM", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoiHcbS7sqMM%3Fstart%3D273%26feature%3Doembed%26start%3D273&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoiHcbS7sqMM%26feature%3Dyoutu.be%26t%3D273&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoiHcbS7sqMM%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "mod_reports": [], 
+    "name": "t3_4bttoy", 
+    "num_comments": 0, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4bttoy/dc_emotionally_talks_about_first_fight_with_jones/", 
+    "post_hint": "rich:video", 
+    "preview": {
+        "images": [
+            {
+                "id": "2BuqnNJ_-YNCO469hAjpNqcpM7sQfyesc1Sb9bWnrGM", 
+                "resolutions": [
+                    {
+                        "height": 81, 
+                        "url": "https://i.redditmedia.com/FB4UFdu6JPQbB4U-zjBe0608_ugzzJhY_GMfEOY8JSs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=df6dfe5e87ef23f8ffeb8855385882b3", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 162, 
+                        "url": "https://i.redditmedia.com/FB4UFdu6JPQbB4U-zjBe0608_ugzzJhY_GMfEOY8JSs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a4167c2ed32cf07cab5e1f673af40255", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 240, 
+                        "url": "https://i.redditmedia.com/FB4UFdu6JPQbB4U-zjBe0608_ugzzJhY_GMfEOY8JSs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f39d74a38e23ee591056e41d61974f23", 
+                        "width": 320
+                    }
+                ], 
+                "source": {
+                    "height": 360, 
+                    "url": "https://i.redditmedia.com/FB4UFdu6JPQbB4U-zjBe0608_ugzzJhY_GMfEOY8JSs.jpg?s=6ed632f3da2b4ab6b16161caaf070e08", 
+                    "width": 480
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 1, 
+    "secure_media": {
+        "oembed": {
+            "author_name": "MMAWeekly.com", 
+            "author_url": "https://www.youtube.com/user/MMAWeeklyVideos", 
+            "description": "http://www.MMAWeekly.com/ -- An openly emotional Daniel Cormier breaks down his performance against Jon Jones at UFC 182, admitting that Jones was the better fighter and won the fight.", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoiHcbS7sqMM%3Fstart%3D273%26feature%3Doembed%26start%3D273&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoiHcbS7sqMM%26feature%3Dyoutu.be%26t%3D273&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoiHcbS7sqMM%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoiHcbS7sqMM%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+            "thumbnail_width": 480, 
+            "title": "UFC 182 Video: An Emotional Daniel Cormier Breaks Down His Loss to Jon Jones", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=oiHcbS7sqMM", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "secure_media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoiHcbS7sqMM%3Fstart%3D273%26feature%3Doembed%26start%3D273&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoiHcbS7sqMM%26feature%3Dyoutu.be%26t%3D273&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoiHcbS7sqMM%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://b.thumbs.redditmedia.com/1TA40MU7WoY8w7fsUwjmb9tcCChbK1fF6u06NIKTgrM.jpg", 
+    "title": "DC (Emotionally) Talks About First Fight With Jones'", 
+    "ups": 1, 
+    "url": "https://youtu.be/oiHcbS7sqMM?t=273", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList"
+]
+}

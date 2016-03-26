@@ -1,0 +1,139 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "nugz69", 
+    "author_flair_css_class": null, 
+    "author_flair_text": null, 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458885150.0, 
+    "created_utc": 1458856350.0, 
+    "distinguished": null, 
+    "domain": "youtube.com", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4btrer", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": "vid", 
+    "link_flair_text": "Video", 
+    "locked": false, 
+    "media": {
+        "oembed": {
+            "author_name": "Christo Alves", 
+            "author_url": "https://www.youtube.com/channel/UCcPROwxMxl8fuyQf2KUlqWQ", 
+            "description": "Just two dudes talking MMA", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjgscwomdTxs%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjgscwomdTxs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjgscwomdTxs%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.ytimg.com/vi/jgscwomdTxs/hqdefault.jpg", 
+            "thumbnail_width": 480, 
+            "title": "Mike Tyson And Rosie O'Donnell Talk Shared Love Of MMA On 'The Rosie Show'", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=jgscwomdTxs", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtube.com"
+    }, 
+    "media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjgscwomdTxs%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjgscwomdTxs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjgscwomdTxs%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "mod_reports": [], 
+    "name": "t3_4btrer", 
+    "num_comments": 0, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4btrer/mike_tyson_and_rosie_odonnell_talk_shared_love_of/", 
+    "post_hint": "rich:video", 
+    "preview": {
+        "images": [
+            {
+                "id": "XG-E7iWsSpSF6KoHunE60Pgmyvi79CRA7ymj3M0NtXg", 
+                "resolutions": [
+                    {
+                        "height": 81, 
+                        "url": "https://i.redditmedia.com/djYlOUtJFzPcFfQSkII7ljfzVgoZuy1OAD8BkNK5Q_A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e7fb0f7e2675174abd811e844380f93f", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 162, 
+                        "url": "https://i.redditmedia.com/djYlOUtJFzPcFfQSkII7ljfzVgoZuy1OAD8BkNK5Q_A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=0aba938d247a5205ffe9189e1486e373", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 240, 
+                        "url": "https://i.redditmedia.com/djYlOUtJFzPcFfQSkII7ljfzVgoZuy1OAD8BkNK5Q_A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=15f7d5349b1887a7a466caa16bfa448b", 
+                        "width": 320
+                    }
+                ], 
+                "source": {
+                    "height": 360, 
+                    "url": "https://i.redditmedia.com/djYlOUtJFzPcFfQSkII7ljfzVgoZuy1OAD8BkNK5Q_A.jpg?s=fe53f9d858b10a647524a398bc32ae57", 
+                    "width": 480
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 2, 
+    "secure_media": {
+        "oembed": {
+            "author_name": "Christo Alves", 
+            "author_url": "https://www.youtube.com/channel/UCcPROwxMxl8fuyQf2KUlqWQ", 
+            "description": "Just two dudes talking MMA", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjgscwomdTxs%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjgscwomdTxs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjgscwomdTxs%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjgscwomdTxs%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+            "thumbnail_width": 480, 
+            "title": "Mike Tyson And Rosie O'Donnell Talk Shared Love Of MMA On 'The Rosie Show'", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=jgscwomdTxs", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtube.com"
+    }, 
+    "secure_media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjgscwomdTxs%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjgscwomdTxs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjgscwomdTxs%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://b.thumbs.redditmedia.com/19c4SFxXpFWDdnvEGy8X9dQsBfg6Ez84Luu_YC4iJnE.jpg", 
+    "title": "Mike Tyson And Rosie O'Donnell Talk Shared Love Of MMA On 'The Rosie Show'", 
+    "ups": 2, 
+    "url": "https://www.youtube.com/watch?v=jgscwomdTxs", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList"
+]
+}

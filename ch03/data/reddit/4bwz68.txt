@@ -1,0 +1,175 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "tekprodfx16", 
+    "author_flair_css_class": "AF", 
+    "author_flair_text": "Afghanistan", 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458949393.0, 
+    "created_utc": 1458920593.0, 
+    "distinguished": null, 
+    "domain": "mmamania.com", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4bwz68", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": null, 
+    "link_flair_text": null, 
+    "locked": false, 
+    "media": null, 
+    "media_embed": {}, 
+    "mod_reports": [], 
+    "name": "t3_4bwz68", 
+    "num_comments": 2, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4bwz68/ufc_fight_night_88_thomas_almeida_anticipates/", 
+    "post_hint": "link", 
+    "preview": {
+        "images": [
+            {
+                "id": "msjiUxD6wPDRsGN0ALRqlq_04eXebccP3o1Eeon5qI8", 
+                "resolutions": [
+                    {
+                        "height": 60, 
+                        "url": "https://i.redditmedia.com/1ScXRpBJy4_8YcWCrxv7N9QeBpFEPymcQiIm5gpIg3o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=7f68cf19a1b16a2c520be99b9a75e9b8", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 121, 
+                        "url": "https://i.redditmedia.com/1ScXRpBJy4_8YcWCrxv7N9QeBpFEPymcQiIm5gpIg3o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ac19e71b8f0d867fed4f23a3b2097a3c", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 180, 
+                        "url": "https://i.redditmedia.com/1ScXRpBJy4_8YcWCrxv7N9QeBpFEPymcQiIm5gpIg3o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7a9fea9a754a1e2a2ef1e0d38aa1edf8", 
+                        "width": 320
+                    }, 
+                    {
+                        "height": 360, 
+                        "url": "https://i.redditmedia.com/1ScXRpBJy4_8YcWCrxv7N9QeBpFEPymcQiIm5gpIg3o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=8bf03c078bac922b96b9be538e2fc2f8", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 540, 
+                        "url": "https://i.redditmedia.com/1ScXRpBJy4_8YcWCrxv7N9QeBpFEPymcQiIm5gpIg3o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f52ea2181bb43d07d4c18a4b5f677263", 
+                        "width": 960
+                    }, 
+                    {
+                        "height": 607, 
+                        "url": "https://i.redditmedia.com/1ScXRpBJy4_8YcWCrxv7N9QeBpFEPymcQiIm5gpIg3o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=36c46f493cfb7f1bfca9279989e4c25d", 
+                        "width": 1080
+                    }
+                ], 
+                "source": {
+                    "height": 900, 
+                    "url": "https://i.redditmedia.com/1ScXRpBJy4_8YcWCrxv7N9QeBpFEPymcQiIm5gpIg3o.jpg?s=508f88a0fc9bd44e0333fc00ef94daa3", 
+                    "width": 1600
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 1, 
+    "secure_media": null, 
+    "secure_media_embed": {}, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://a.thumbs.redditmedia.com/p3grOBP-8yUma4oD-Sq7eTRndc_7pNXrLVOVyHtRXw4.jpg", 
+    "title": "UFC Fight Night 88: Thomas Almeida anticipates second-round knockout of Cody Garbrandt", 
+    "ups": 1, 
+    "url": "http://www.mmamania.com/2016/3/25/11296520/ufc-fight-night-88-thomas-almeida-anticipates-second-round-knockout", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList":[
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "octobadger", 
+    "author_flair_css_class": null, 
+    "author_flair_text": null, 
+    "banned_by": null, 
+    "body": "I anticipate the reverse, actually. Almeida takes too much punishment.", 
+    "body_html": "<div class=\"md\"><p>I anticipate the reverse, actually. Almeida takes too much punishment.</p>\n</div>", 
+    "controversiality": 0, 
+    "created": 1458949587.0, 
+    "created_utc": 1458920787.0, 
+    "distinguished": null, 
+    "downs": 0, 
+    "edited": false, 
+    "gilded": 0, 
+    "id": "d1d3un0", 
+    "likes": null, 
+    "link_id": "t3_4bwz68", 
+    "mod_reports": [], 
+    "name": "t1_d1d3un0", 
+    "num_reports": null, 
+    "parent_id": "t3_4bwz68", 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 1, 
+    "score_hidden": false, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "ups": 1, 
+    "user_reports": []
+},
+
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "ceboxing", 
+    "author_flair_css_class": null, 
+    "author_flair_text": null, 
+    "banned_by": null, 
+    "body": "Garbrandt takes hits too, he doesen't have better head movement than Almeida really. I think speed is a big advantage for Garbrandt here but other than i think he is outclassed.", 
+    "body_html": "<div class=\"md\"><p>Garbrandt takes hits too, he doesen&#39;t have better head movement than Almeida really. I think speed is a big advantage for Garbrandt here but other than i think he is outclassed.</p>\n</div>", 
+    "controversiality": 0, 
+    "created": 1458949998.0, 
+    "created_utc": 1458921198.0, 
+    "distinguished": null, 
+    "downs": 0, 
+    "edited": false, 
+    "gilded": 0, 
+    "id": "d1d44z5", 
+    "likes": null, 
+    "link_id": "t3_4bwz68", 
+    "mod_reports": [], 
+    "name": "t1_d1d44z5", 
+    "num_reports": null, 
+    "parent_id": "t1_d1d3un0", 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 2, 
+    "score_hidden": false, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "ups": 2, 
+    "user_reports": []
+}
+]
+}

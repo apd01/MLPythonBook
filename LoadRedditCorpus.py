@@ -38,24 +38,31 @@ for currentFile in files:
 # with open(outputDirectory + 'comment_corpus.txt', 'a') as outfile:
     # json.dump('{\n"Comments":\n', outfile)
 
-json_comments = {"Length":'',"Comments":[]}
+json_comments = {'Submission':'', 'Comments':[]}
+reddit_threads = {"Threads":[]}
 
 for currentFile in files:
     with open(inputDirectory + currentFile, 'r') as data_file:
+        json_comments = {'Submission':'', 'Comments':[]}
+
         print("%s" % data_file)
-        data = json.load(data_file)
-        # Error here if there's no "CommentList" key. Consider rewriting redditJson to append
-        # comments as json objects like in _nltk.py
         try:
+            data = json.load(data_file)
+            submission = data["Submission"]
             comments = data["CommentList"]
-            for comment in comments:
-                #outfile.write('"Comment":' + json.dumps(comment["id"], indent=4, ))
-                json_comments["Comments"].append(comment["body"])
+            if(len(comments)>0):
+                json_comments['Submission'] = {'Title':submission['title']} # Two different ways of doing the same JSON thing
+                json_comments['Submission']['Url'] = [submission['url']] #
+                for comment in comments:
+                    #outfile.write('"Comment":' + json.dumps(comment["id"], indent=4, ))
+                    json_comments['Comments'].append(comment['body'].replace('[','\[').replace(']', '\]'))
+                reddit_threads["Threads"].append(json_comments)
         except Exception as e: # If there's an error here, it's probably because there are no comments in the file
             print("Exception")
-            print(e)
+            print(type(e))
 
-with gzip.GzipFile(outputDirectory + 'comment_corpus.txt', 'w') as outfile:
-    json_comments["Length"] = (len(json_comments["Comments"]))
-    outfile.write(json.dumps(json_comments)) # , indent=4 taken out for smaller filesize
-            #all_comments += comment["body"] + '\n'
+
+
+with open(outputDirectory + 'comment_corpus.txt', 'w') as outfile:
+    outfile.write(json.dumps(reddit_threads)) # , indent=4 taken out for smaller filesize
+    #all_comments += comment["body"] + '\n

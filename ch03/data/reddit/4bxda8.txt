@@ -1,0 +1,139 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "kelly009", 
+    "author_flair_css_class": null, 
+    "author_flair_text": null, 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458954818.0, 
+    "created_utc": 1458926018.0, 
+    "distinguished": null, 
+    "domain": "youtube.com", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4bxda8", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": "vid", 
+    "link_flair_text": "Video", 
+    "locked": false, 
+    "media": {
+        "oembed": {
+            "author_name": "Funny Video Clips", 
+            "author_url": "https://www.youtube.com/channel/UCeAabHzuawan7gBxp5ej8EQ", 
+            "description": "Here we have included some funny moments of UFC. You will enjoy UFC funny moments - Collection.", 
+            "height": 450, 
+            "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fb7fy89a0CIA%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db7fy89a0CIA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb7fy89a0CIA%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.ytimg.com/vi/b7fy89a0CIA/hqdefault.jpg", 
+            "thumbnail_width": 480, 
+            "title": "UFC Funny Moments - Collection", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=b7fy89a0CIA", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtube.com"
+    }, 
+    "media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fb7fy89a0CIA%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db7fy89a0CIA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb7fy89a0CIA%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 450, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "mod_reports": [], 
+    "name": "t3_4bxda8", 
+    "num_comments": 0, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4bxda8/some_funny_moments_ufc/", 
+    "post_hint": "rich:video", 
+    "preview": {
+        "images": [
+            {
+                "id": "gDTYjANUbPgSOcg6G_VQ-LT_xfiwDiV0jgtJOZNzf3I", 
+                "resolutions": [
+                    {
+                        "height": 81, 
+                        "url": "https://i.redditmedia.com/T2PWqDs7Kmtqb6qDyBFm_rGT-XoRCkoRwVcdjP7Tpzo.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=32e4e699ea9d12424ca6da76ff48bb22", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 162, 
+                        "url": "https://i.redditmedia.com/T2PWqDs7Kmtqb6qDyBFm_rGT-XoRCkoRwVcdjP7Tpzo.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d32c0cd2afdff3ed324e6567f90bbee9", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 240, 
+                        "url": "https://i.redditmedia.com/T2PWqDs7Kmtqb6qDyBFm_rGT-XoRCkoRwVcdjP7Tpzo.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7026a7e54f5dd202fa9c00575c6f9d34", 
+                        "width": 320
+                    }
+                ], 
+                "source": {
+                    "height": 360, 
+                    "url": "https://i.redditmedia.com/T2PWqDs7Kmtqb6qDyBFm_rGT-XoRCkoRwVcdjP7Tpzo.jpg?s=cb46ebb7a7a9bfd4a87362a7766c615e", 
+                    "width": 480
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 1, 
+    "secure_media": {
+        "oembed": {
+            "author_name": "Funny Video Clips", 
+            "author_url": "https://www.youtube.com/channel/UCeAabHzuawan7gBxp5ej8EQ", 
+            "description": "Here we have included some funny moments of UFC. You will enjoy UFC funny moments - Collection.", 
+            "height": 450, 
+            "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fb7fy89a0CIA%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db7fy89a0CIA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb7fy89a0CIA%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb7fy89a0CIA%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+            "thumbnail_width": 480, 
+            "title": "UFC Funny Moments - Collection", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=b7fy89a0CIA", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtube.com"
+    }, 
+    "secure_media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fb7fy89a0CIA%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db7fy89a0CIA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb7fy89a0CIA%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 450, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://b.thumbs.redditmedia.com/VlTq91UyqGDZq3JXNytiQC8QiceyqLxgd-JPJWyVgrY.jpg", 
+    "title": "Some Funny Moments UFC", 
+    "ups": 1, 
+    "url": "https://www.youtube.com/watch?v=b7fy89a0CIA", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList"
+]
+}

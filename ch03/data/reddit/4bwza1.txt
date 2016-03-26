@@ -1,0 +1,140 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "tekprodfx16", 
+    "author_flair_css_class": "AF", 
+    "author_flair_text": "Afghanistan", 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458949435.0, 
+    "created_utc": 1458920635.0, 
+    "distinguished": null, 
+    "domain": "mmafighting.com", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4bwza1", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": null, 
+    "link_flair_text": null, 
+    "locked": false, 
+    "media": null, 
+    "media_embed": {}, 
+    "mod_reports": [], 
+    "name": "t3_4bwza1", 
+    "num_comments": 1, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4bwza1/last_man_to_win_a_ufc_fight_in_new_york_marco/", 
+    "post_hint": "link", 
+    "preview": {
+        "images": [
+            {
+                "id": "MITNTNI3syd_rB-3FvZ8xw6-uLXFAf1Xqowi2lBhmKo", 
+                "resolutions": [
+                    {
+                        "height": 60, 
+                        "url": "https://i.redditmedia.com/DeVqkOpnHUI2XBSTw9_iVMheN74G0n5RRoBJMSPZB7Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2e193ff36697a6e39e4f7b617be53ef0", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 121, 
+                        "url": "https://i.redditmedia.com/DeVqkOpnHUI2XBSTw9_iVMheN74G0n5RRoBJMSPZB7Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=b54e02148d6a8ead1831f1fdabfeae71", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 180, 
+                        "url": "https://i.redditmedia.com/DeVqkOpnHUI2XBSTw9_iVMheN74G0n5RRoBJMSPZB7Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=27581c7dde84741678b8cca5bc016618", 
+                        "width": 320
+                    }, 
+                    {
+                        "height": 360, 
+                        "url": "https://i.redditmedia.com/DeVqkOpnHUI2XBSTw9_iVMheN74G0n5RRoBJMSPZB7Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af9bb4724fde055b6a0f7ffe1bf63a07", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 540, 
+                        "url": "https://i.redditmedia.com/DeVqkOpnHUI2XBSTw9_iVMheN74G0n5RRoBJMSPZB7Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=345acc373a3e41163bc6be5710d40be6", 
+                        "width": 960
+                    }, 
+                    {
+                        "height": 607, 
+                        "url": "https://i.redditmedia.com/DeVqkOpnHUI2XBSTw9_iVMheN74G0n5RRoBJMSPZB7Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=de6063c0f752b7c2a9f394c1c3ecf6ff", 
+                        "width": 1080
+                    }
+                ], 
+                "source": {
+                    "height": 900, 
+                    "url": "https://i.redditmedia.com/DeVqkOpnHUI2XBSTw9_iVMheN74G0n5RRoBJMSPZB7Q.jpg?s=032ec899911abfa76d9fa70bd31bfd87", 
+                    "width": 1600
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 2, 
+    "secure_media": null, 
+    "secure_media_embed": {}, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://b.thumbs.redditmedia.com/QJqLFb1fA7aXXDi4kiEHM2jPTQApdGqmvIMnhxliO7U.jpg", 
+    "title": "Last man to win a UFC fight in New York, Marco Ruas says legalization will revolutionize MMA", 
+    "ups": 2, 
+    "url": "http://www.mmafighting.com/2016/3/25/11294176/last-man-to-win-a-ufc-fight-in-new-york-marco-ruas-says-legalization", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList":[
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "ergoegthatis", 
+    "author_flair_css_class": null, 
+    "author_flair_text": null, 
+    "banned_by": null, 
+    "body": "the king of the streets!  this guy's a legit badass\n", 
+    "body_html": "<div class=\"md\"><p>the king of the streets!  this guy&#39;s a legit badass</p>\n</div>", 
+    "controversiality": 0, 
+    "created": 1458950171.0, 
+    "created_utc": 1458921371.0, 
+    "distinguished": null, 
+    "downs": 0, 
+    "edited": false, 
+    "gilded": 0, 
+    "id": "d1d499s", 
+    "likes": null, 
+    "link_id": "t3_4bwza1", 
+    "mod_reports": [], 
+    "name": "t1_d1d499s", 
+    "num_reports": null, 
+    "parent_id": "t3_4bwza1", 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 2, 
+    "score_hidden": false, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "ups": 2, 
+    "user_reports": []
+}
+]
+}

@@ -1,0 +1,139 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "TheCooligan", 
+    "author_flair_css_class": "", 
+    "author_flair_text": "Team Cruz", 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458956427.0, 
+    "created_utc": 1458927627.0, 
+    "distinguished": null, 
+    "domain": "youtu.be", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4bxhkm", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": "vid", 
+    "link_flair_text": "Video", 
+    "locked": false, 
+    "media": {
+        "oembed": {
+            "author_name": "AXS TV Fights", 
+            "author_url": "https://www.youtube.com/user/HDNetFights", 
+            "description": "Former UFC Light Heavyweight Champion Vitor Belfort appeared on AXS TV's INSIDE MMA tonight to discuss a number of subjects, including his prior issues with elevated testosterone levels, UFC fighter Luke Rockhold's recent statement about Belfort's fighting style, and drug testing during his current training camp.", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fx1P5drFPjfY%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx1P5drFPjfY%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx1P5drFPjfY%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.ytimg.com/vi/x1P5drFPjfY/hqdefault.jpg", 
+            "thumbnail_width": 480, 
+            "title": "Vitor Belfort Opens Up on Deadspin, TRT, and More on Inside MMA", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=x1P5drFPjfY", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fx1P5drFPjfY%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx1P5drFPjfY%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx1P5drFPjfY%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "mod_reports": [], 
+    "name": "t3_4bxhkm", 
+    "num_comments": 0, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4bxhkm/vitor_belfort_interview_from_october_2015_talking/", 
+    "post_hint": "rich:video", 
+    "preview": {
+        "images": [
+            {
+                "id": "lBvilIrz11SB-FCHbg6eJTdElBIrKPsiFewA37_ipRc", 
+                "resolutions": [
+                    {
+                        "height": 81, 
+                        "url": "https://i.redditmedia.com/4Voyg1HwCv5Mb4Jz9PRDnX4oNohkE3sU9JrbJWsB6I4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=61b4cf46587a2fbf1149df4b4802d339", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 162, 
+                        "url": "https://i.redditmedia.com/4Voyg1HwCv5Mb4Jz9PRDnX4oNohkE3sU9JrbJWsB6I4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=29f720bf08be9ce463f8ddd405eb1794", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 240, 
+                        "url": "https://i.redditmedia.com/4Voyg1HwCv5Mb4Jz9PRDnX4oNohkE3sU9JrbJWsB6I4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1a59bea76134564784260958ee233849", 
+                        "width": 320
+                    }
+                ], 
+                "source": {
+                    "height": 360, 
+                    "url": "https://i.redditmedia.com/4Voyg1HwCv5Mb4Jz9PRDnX4oNohkE3sU9JrbJWsB6I4.jpg?s=f83eaca1391a11798f74313736b8a928", 
+                    "width": 480
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 3, 
+    "secure_media": {
+        "oembed": {
+            "author_name": "AXS TV Fights", 
+            "author_url": "https://www.youtube.com/user/HDNetFights", 
+            "description": "Former UFC Light Heavyweight Champion Vitor Belfort appeared on AXS TV's INSIDE MMA tonight to discuss a number of subjects, including his prior issues with elevated testosterone levels, UFC fighter Luke Rockhold's recent statement about Belfort's fighting style, and drug testing during his current training camp.", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fx1P5drFPjfY%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx1P5drFPjfY%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx1P5drFPjfY%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx1P5drFPjfY%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+            "thumbnail_width": 480, 
+            "title": "Vitor Belfort Opens Up on Deadspin, TRT, and More on Inside MMA", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=x1P5drFPjfY", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "secure_media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fx1P5drFPjfY%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx1P5drFPjfY%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx1P5drFPjfY%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://b.thumbs.redditmedia.com/mhnwQemZpox-w7psBlwEwY5f_7_igy47cz-vgebUGIc.jpg", 
+    "title": "Vitor Belfort interview from October 2015 talking about TRT and steroids accusations", 
+    "ups": 3, 
+    "url": "https://youtu.be/x1P5drFPjfY", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList"
+]
+}

@@ -19,6 +19,9 @@ cmt_lda = lda[id2word.doc2bow('The whole thing fucked, the reason RDA Vs Conor i
 print(cmt_lda)
 cmt_lda = lda
 
-pickle.dump(lda, open('lda.p', 'wb'))
+# Looks like lda.save does the same thing
+# pickle.dump(lda, open('lda.p', 'wb'))
 
 lda.save('lda_new.p')
+
+# cmt_hdp = gensim.models.LdaMulticore

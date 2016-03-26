@@ -11,11 +11,12 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 #lda = pickle.load(open('lda.p', 'rb'))
 lda = gensim.models.LdaModel.load('lda_new.p')
+# hdp = gensim.models.HdpModel
 
 outputDirectory = './ch03/data/output/'
 dict = corpora.Dictionary.load(outputDirectory + 'tmp.dict')
 # cmt_lda = lda[dict.doc2bow('No Holly to be the baddest chick on the planet and earn Dana\'s respect you need to hide inside your room and eat tubs of ice cream until Ronda beats Tate then text Dana "I guess it\'s time to get back to work"'.lower().split())]
-cmt_lda = lda[dict.doc2bow('bjj triangle'.lower().split())]
+cmt_lda = lda[dict.doc2bow('Why do people keep bringing up Frankie? Even if he were fighting to defend the belt he would be fighting Jose'.lower().split())]
 
 print(cmt_lda)
 # for a in [lda.print_topics(20)]:

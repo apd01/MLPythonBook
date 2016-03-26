@@ -1,0 +1,173 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "TheCooligan", 
+    "author_flair_css_class": "", 
+    "author_flair_text": "Team Cruz", 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458948275.0, 
+    "created_utc": 1458919475.0, 
+    "distinguished": null, 
+    "domain": "youtu.be", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4bwwam", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": "vid", 
+    "link_flair_text": "Video", 
+    "locked": false, 
+    "media": {
+        "oembed": {
+            "author_name": "MMAFightingonSBN", 
+            "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+            "description": "Demetrious Johnson looks back on his improbable road to the UFC with MMA Fighting's Ariel Helwani. Subscribe: http://www.youtube.com/subscription_center?add_user=mmafightingonsbn Check out our full video catalog: http://www.youtube.com/mmafightingonsbn/videos Visit our playlists: http://www.youtube.com/mmafightingonsbn/playlists Like MMAF on Facebook: http://www.facebook.com/mmafighting Follow on Twitter: http://www.twitter.com/mmafighting Read More: http://www.mmafighting.com", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_mghrSxGZ_M%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_mghrSxGZ_M%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_mghrSxGZ_M%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.ytimg.com/vi/_mghrSxGZ_M/hqdefault.jpg", 
+            "thumbnail_width": 480, 
+            "title": "Demetrious Johnson Reflects on Improbable Journey", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=_mghrSxGZ_M", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_mghrSxGZ_M%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_mghrSxGZ_M%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_mghrSxGZ_M%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "mod_reports": [], 
+    "name": "t3_4bwwam", 
+    "num_comments": 1, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4bwwam/awesome_mighty_mouse_interview_prior_to_his/", 
+    "post_hint": "rich:video", 
+    "preview": {
+        "images": [
+            {
+                "id": "D41EAoV4OlIT5WfbjybW7QlcwCNv0asVb0udfKVOqiI", 
+                "resolutions": [
+                    {
+                        "height": 81, 
+                        "url": "https://i.redditmedia.com/GSsxT8mYWjGnOZ8obixEF6qc6GSIanFEi9ECQlHyPwM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=50c36f1ad9628cc0dce59ba8ed5da63e", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 162, 
+                        "url": "https://i.redditmedia.com/GSsxT8mYWjGnOZ8obixEF6qc6GSIanFEi9ECQlHyPwM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c1b853cbd4739b1351cb96fa291a0785", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 240, 
+                        "url": "https://i.redditmedia.com/GSsxT8mYWjGnOZ8obixEF6qc6GSIanFEi9ECQlHyPwM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4612cfd6eb878b17e3f4eaebdac70326", 
+                        "width": 320
+                    }
+                ], 
+                "source": {
+                    "height": 360, 
+                    "url": "https://i.redditmedia.com/GSsxT8mYWjGnOZ8obixEF6qc6GSIanFEi9ECQlHyPwM.jpg?s=ba1163594c2fe6131702101f07ff5372", 
+                    "width": 480
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 0, 
+    "secure_media": {
+        "oembed": {
+            "author_name": "MMAFightingonSBN", 
+            "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+            "description": "Demetrious Johnson looks back on his improbable road to the UFC with MMA Fighting's Ariel Helwani. Subscribe: http://www.youtube.com/subscription_center?add_user=mmafightingonsbn Check out our full video catalog: http://www.youtube.com/mmafightingonsbn/videos Visit our playlists: http://www.youtube.com/mmafightingonsbn/playlists Like MMAF on Facebook: http://www.facebook.com/mmafighting Follow on Twitter: http://www.twitter.com/mmafighting Read More: http://www.mmafighting.com", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_mghrSxGZ_M%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_mghrSxGZ_M%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_mghrSxGZ_M%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_mghrSxGZ_M%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+            "thumbnail_width": 480, 
+            "title": "Demetrious Johnson Reflects on Improbable Journey", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=_mghrSxGZ_M", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "secure_media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_mghrSxGZ_M%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_mghrSxGZ_M%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_mghrSxGZ_M%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://b.thumbs.redditmedia.com/f2630rScqsWHabodoePzlW0ge12luTbbyMlmueLy4oQ.jpg", 
+    "title": "Awesome Mighty Mouse interview prior to his rematch with John Dodson last year.", 
+    "ups": 0, 
+    "url": "https://youtu.be/_mghrSxGZ_M", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList":[
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "dada5000ismyhero", 
+    "author_flair_css_class": null, 
+    "author_flair_text": "The Doctor has put you to sleep.", 
+    "banned_by": null, 
+    "body": "Mighty Mouse keeps it real. Love the guy. ", 
+    "body_html": "<div class=\"md\"><p>Mighty Mouse keeps it real. Love the guy. </p>\n</div>", 
+    "controversiality": 0, 
+    "created": 1458950635.0, 
+    "created_utc": 1458921835.0, 
+    "distinguished": null, 
+    "downs": 0, 
+    "edited": false, 
+    "gilded": 0, 
+    "id": "d1d4l2v", 
+    "likes": null, 
+    "link_id": "t3_4bwwam", 
+    "mod_reports": [], 
+    "name": "t1_d1d4l2v", 
+    "num_reports": null, 
+    "parent_id": "t3_4bwwam", 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 1, 
+    "score_hidden": false, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "ups": 1, 
+    "user_reports": []
+}
+]
+}

@@ -4,16 +4,38 @@ import json
 from nltk.corpus import stopwords
 from gensim import corpora
 import string
+import gc
 
 outputDirectory = './ch03/data/output/'
-with gzip.GzipFile(outputDirectory + 'comment_corpus.txt', 'r') as infile:
-    comments = json.loads(infile.read(), encoding='utf-8')
+with open(outputDirectory + 'comment_corpus.txt', 'r') as infile:
+    corp = json.loads(infile.read(), encoding='utf-8')
 
+    # gc.disable()
+
+    texts = []
+    # for sub in comments
+
+    stp = stopwords.words('english')
+
+
+    for idx in range(0, len(corp['Threads'])):
+        for idy in range(0, len(corp['Threads'][idx]['Comments'])):
+            for comment in corp['Threads'][idx]['Comments']:
+                #print(comment)
+                texts = [(word for word in comment.lower().split() if word not in stp)]
+
+    print(len(texts))
+
+
+    '''
     # for comment in comments["Comments"]
-    texts = [[word for word in comment.lower().split() if word not in stopwords.words('english')]
-             for comment in comments["Comments"]]
+    for sub, bfda in corp['Threads']:
+        texts = [[word for word in comment.lower().split()
+                        if word not in stopwords.words('english')]
+                        for comment in sub]
     #texts = [word.translate(string.punctuation) for word in texts]
     print('asdf')
+    '''
 
     from collections import defaultdict
     frequency = defaultdict(int)

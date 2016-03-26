@@ -1,0 +1,208 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "BaconAndEggsBernays", 
+    "author_flair_css_class": null, 
+    "author_flair_text": null, 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458954471.0, 
+    "created_utc": 1458925671.0, 
+    "distinguished": null, 
+    "domain": "youtu.be", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4bxcce", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": "vid", 
+    "link_flair_text": "Video", 
+    "locked": false, 
+    "media": {
+        "oembed": {
+            "author_name": "UFC ON FOX", 
+            "author_url": "https://www.youtube.com/user/UFCONFOXofficial", 
+            "description": "UFC legend Bas Rutten and MMA commentator Mauro Ranallo join The Fighter and The Kid podcast. Rutten and Ranallo: https://itunes.apple.com/us/podcast/rutten-ranallo/id1073542596?mt=2 The Fighter and The Kid: https://itunes.apple.com/us/podcast/the-fighter-the-kid/id706421907?mt=2 The Fighter and The Kid 3D Series: www.TFATK3D.com Watch the latest UFC ON FOX content: http://foxs.pt/ZEONsH Connect with UFC ON FOX Online: Visit the UFC ON FOX WEBSITE: http://www.foxsports.com/ufc Like UFC ON FOX on FACEBOOK: https://www.facebook.com/UFCONFOX Follow UFC ON FOX on TWITTER: https://twitter.com/UFCONFOX About UFC ON FOX: The official FOX Sports home of UFC coverage.", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FBTm77gY0Cls%3Fstart%3D3033%26feature%3Doembed%26start%3D3033&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBTm77gY0Cls%26feature%3Dyoutu.be%26t%3D3033&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBTm77gY0Cls%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.ytimg.com/vi/BTm77gY0Cls/hqdefault.jpg", 
+            "thumbnail_width": 480, 
+            "title": "The Fighter and The Kid - Episode 134: Bas Rutten and Mauro Ranallo", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=BTm77gY0Cls", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FBTm77gY0Cls%3Fstart%3D3033%26feature%3Doembed%26start%3D3033&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBTm77gY0Cls%26feature%3Dyoutu.be%26t%3D3033&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBTm77gY0Cls%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "mod_reports": [], 
+    "name": "t3_4bxcce", 
+    "num_comments": 2, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4bxcce/bas_indirectly_talks_about_dcs_i_will_die/", 
+    "post_hint": "rich:video", 
+    "preview": {
+        "images": [
+            {
+                "id": "NcHXlieaU6UGLDuKeMlmDBzYtoNeBS1jd5QGKuHCv-w", 
+                "resolutions": [
+                    {
+                        "height": 81, 
+                        "url": "https://i.redditmedia.com/_xYVTCl2feO-MBvbtTzKWaPgCbmYy7fvA4nZcQfMPvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a12d00d74854bf61a775b3675ed70bdd", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 162, 
+                        "url": "https://i.redditmedia.com/_xYVTCl2feO-MBvbtTzKWaPgCbmYy7fvA4nZcQfMPvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1e092eb7479e9a6524c57f53d8a84aa2", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 240, 
+                        "url": "https://i.redditmedia.com/_xYVTCl2feO-MBvbtTzKWaPgCbmYy7fvA4nZcQfMPvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=649b8fac62ab43d5096eb5f8b0164173", 
+                        "width": 320
+                    }
+                ], 
+                "source": {
+                    "height": 360, 
+                    "url": "https://i.redditmedia.com/_xYVTCl2feO-MBvbtTzKWaPgCbmYy7fvA4nZcQfMPvc.jpg?s=c5995815034b3e3b793f51731cd93ef9", 
+                    "width": 480
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 0, 
+    "secure_media": {
+        "oembed": {
+            "author_name": "UFC ON FOX", 
+            "author_url": "https://www.youtube.com/user/UFCONFOXofficial", 
+            "description": "UFC legend Bas Rutten and MMA commentator Mauro Ranallo join The Fighter and The Kid podcast. Rutten and Ranallo: https://itunes.apple.com/us/podcast/rutten-ranallo/id1073542596?mt=2 The Fighter and The Kid: https://itunes.apple.com/us/podcast/the-fighter-the-kid/id706421907?mt=2 The Fighter and The Kid 3D Series: www.TFATK3D.com Watch the latest UFC ON FOX content: http://foxs.pt/ZEONsH Connect with UFC ON FOX Online: Visit the UFC ON FOX WEBSITE: http://www.foxsports.com/ufc Like UFC ON FOX on FACEBOOK: https://www.facebook.com/UFCONFOX Follow UFC ON FOX on TWITTER: https://twitter.com/UFCONFOX About UFC ON FOX: The official FOX Sports home of UFC coverage.", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FBTm77gY0Cls%3Fstart%3D3033%26feature%3Doembed%26start%3D3033&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBTm77gY0Cls%26feature%3Dyoutu.be%26t%3D3033&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBTm77gY0Cls%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBTm77gY0Cls%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+            "thumbnail_width": 480, 
+            "title": "The Fighter and The Kid - Episode 134: Bas Rutten and Mauro Ranallo", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=BTm77gY0Cls", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "secure_media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FBTm77gY0Cls%3Fstart%3D3033%26feature%3Doembed%26start%3D3033&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBTm77gY0Cls%26feature%3Dyoutu.be%26t%3D3033&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBTm77gY0Cls%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://b.thumbs.redditmedia.com/TmhzETXqpLtIgaJ2jCj7v-_kwDZoN8Pj3DA2PVYi3Ck.jpg", 
+    "title": "Bas Indirectly Talks About DC's \"I will die\" attitude in the cage", 
+    "ups": 0, 
+    "url": "https://youtu.be/BTm77gY0Cls?t=3033", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList":[
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "SvenTheImmortal", 
+    "author_flair_css_class": null, 
+    "author_flair_text": "orifice insertion", 
+    "banned_by": null, 
+    "body": "[Impressive](http://i.imgur.com/zGkcOBr.png)", 
+    "body_html": "<div class=\"md\"><p><a href=\"http://i.imgur.com/zGkcOBr.png\">Impressive</a></p>\n</div>", 
+    "controversiality": 0, 
+    "created": 1458955540.0, 
+    "created_utc": 1458926740.0, 
+    "distinguished": null, 
+    "downs": 0, 
+    "edited": false, 
+    "gilded": 0, 
+    "id": "d1d82qz", 
+    "likes": null, 
+    "link_id": "t3_4bxcce", 
+    "mod_reports": [], 
+    "name": "t1_d1d82qz", 
+    "num_reports": null, 
+    "parent_id": "t3_4bxcce", 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 1, 
+    "score_hidden": false, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "ups": 1, 
+    "user_reports": []
+},
+
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "BaconAndEggsBernays", 
+    "author_flair_css_class": null, 
+    "author_flair_text": null, 
+    "banned_by": null, 
+    "body": "Thanks.", 
+    "body_html": "<div class=\"md\"><p>Thanks.</p>\n</div>", 
+    "controversiality": 0, 
+    "created": 1458955572.0, 
+    "created_utc": 1458926772.0, 
+    "distinguished": null, 
+    "downs": 0, 
+    "edited": 1458929047.0, 
+    "gilded": 0, 
+    "id": "d1d83lx", 
+    "likes": null, 
+    "link_id": "t3_4bxcce", 
+    "mod_reports": [], 
+    "name": "t1_d1d83lx", 
+    "num_reports": null, 
+    "parent_id": "t1_d1d82qz", 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": -1, 
+    "score_hidden": false, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "ups": -1, 
+    "user_reports": []
+}
+]
+}

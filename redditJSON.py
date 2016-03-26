@@ -18,7 +18,7 @@ submissions = r.get_subreddit('mma').get_top_from_hour()
 submission = next(submissions)
 '''
 
-submissions = r.get_subreddit('mma').get_top_from_hour(limit=25)
+submissions = r.get_subreddit('mma').get_top_from_day(limit=25)
 # submission = r.get_submission(submission_id='49w6kw')
 
 for submission in submissions:

@@ -1,0 +1,208 @@
+{
+"Submission":
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "MMA_JimEdwards", 
+    "author_flair_css_class": "verified", 
+    "author_flair_text": "Jim Edwards | Journalist", 
+    "banned_by": null, 
+    "clicked": false, 
+    "created": 1458965965.0, 
+    "created_utc": 1458937165.0, 
+    "distinguished": null, 
+    "domain": "youtu.be", 
+    "downs": 0, 
+    "edited": false, 
+    "from": null, 
+    "from_id": null, 
+    "from_kind": null, 
+    "gilded": 0, 
+    "hidden": false, 
+    "hide_score": true, 
+    "id": "4by77j", 
+    "is_self": false, 
+    "likes": null, 
+    "link_flair_css_class": "vid", 
+    "link_flair_text": "Video", 
+    "locked": false, 
+    "media": {
+        "oembed": {
+            "author_name": "MMA Latest", 
+            "author_url": "https://www.youtube.com/user/MMALatest", 
+            "description": "This evening, Jim Edwards of MMA Latest News got the chance to speak with Emil Weber Meek, the man brave enough to fight Rousimar Palhares at Venator III on May 21st. Thanks for watching! Please subscribe to our channel! We're building a big project on Patreon.", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7xOAJL0IjKE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7xOAJL0IjKE%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7xOAJL0IjKE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.ytimg.com/vi/7xOAJL0IjKE/hqdefault.jpg", 
+            "thumbnail_width": 480, 
+            "title": "\"PALHARES IS ACTING LIKE A DOUCHE & IS DISRESPECTFUL\" - EMIL WEBER MEEK | MMA Latest", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=7xOAJL0IjKE", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7xOAJL0IjKE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7xOAJL0IjKE%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7xOAJL0IjKE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "mod_reports": [], 
+    "name": "t3_4by77j", 
+    "num_comments": 2, 
+    "num_reports": null, 
+    "over_18": false, 
+    "permalink": "/r/MMA/comments/4by77j/meet_emil_meek_the_man_fighting_palhares_on/", 
+    "post_hint": "rich:video", 
+    "preview": {
+        "images": [
+            {
+                "id": "bGbX67KhEQAE1udXiJ7SokpkiTRqNFzgPnP3MfhxY_c", 
+                "resolutions": [
+                    {
+                        "height": 81, 
+                        "url": "https://i.redditmedia.com/TVfdBbC92t4Weh-kfWTqw0Na6GCSSmc4euyjSx1OyII.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a8a19a891b02816fdd7899284b4172c2", 
+                        "width": 108
+                    }, 
+                    {
+                        "height": 162, 
+                        "url": "https://i.redditmedia.com/TVfdBbC92t4Weh-kfWTqw0Na6GCSSmc4euyjSx1OyII.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=61b8403c5deef1a7c1194dcc2f836d3c", 
+                        "width": 216
+                    }, 
+                    {
+                        "height": 240, 
+                        "url": "https://i.redditmedia.com/TVfdBbC92t4Weh-kfWTqw0Na6GCSSmc4euyjSx1OyII.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bd9de408e62cdb1b75abd3292a004410", 
+                        "width": 320
+                    }
+                ], 
+                "source": {
+                    "height": 360, 
+                    "url": "https://i.redditmedia.com/TVfdBbC92t4Weh-kfWTqw0Na6GCSSmc4euyjSx1OyII.jpg?s=66bf90b44531b398278b8029fa50b470", 
+                    "width": 480
+                }, 
+                "variants": {}
+            }
+        ]
+    }, 
+    "quarantine": false, 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 4, 
+    "secure_media": {
+        "oembed": {
+            "author_name": "MMA Latest", 
+            "author_url": "https://www.youtube.com/user/MMALatest", 
+            "description": "This evening, Jim Edwards of MMA Latest News got the chance to speak with Emil Weber Meek, the man brave enough to fight Rousimar Palhares at Venator III on May 21st. Thanks for watching! Please subscribe to our channel! We're building a big project on Patreon.", 
+            "height": 338, 
+            "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7xOAJL0IjKE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7xOAJL0IjKE%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7xOAJL0IjKE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+            "provider_name": "YouTube", 
+            "provider_url": "https://www.youtube.com/", 
+            "thumbnail_height": 360, 
+            "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7xOAJL0IjKE%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+            "thumbnail_width": 480, 
+            "title": "\"PALHARES IS ACTING LIKE A DOUCHE & IS DISRESPECTFUL\" - EMIL WEBER MEEK | MMA Latest", 
+            "type": "video", 
+            "url": "http://www.youtube.com/watch?v=7xOAJL0IjKE", 
+            "version": "1.0", 
+            "width": 600
+        }, 
+        "type": "youtu.be"
+    }, 
+    "secure_media_embed": {
+        "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7xOAJL0IjKE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7xOAJL0IjKE%26feature%3Dyoutu.be&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7xOAJL0IjKE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "height": 338, 
+        "scrolling": false, 
+        "width": 600
+    }, 
+    "selftext": "", 
+    "selftext_html": null, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "suggested_sort": null, 
+    "thumbnail": "http://b.thumbs.redditmedia.com/ouruuMyH7YqKN0OPUbIyEj_Z7dW2G_Ci1LqGURePJnU.jpg", 
+    "title": "Meet Emil Meek - the man fighting Palhares on Venator 3 - called him a \"douche and disrespectful\"", 
+    "ups": 4, 
+    "url": "https://youtu.be/7xOAJL0IjKE", 
+    "user_reports": [], 
+    "visited": false
+},
+
+"CommentList":[
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "Snelltime", 
+    "author_flair_css_class": null, 
+    "author_flair_text": "\"Snakes love peanut butta\"", 
+    "banned_by": null, 
+    "body": "This guy is going to get heel hooked for days", 
+    "body_html": "<div class=\"md\"><p>This guy is going to get heel hooked for days</p>\n</div>", 
+    "controversiality": 0, 
+    "created": 1458967511.0, 
+    "created_utc": 1458938711.0, 
+    "distinguished": null, 
+    "downs": 0, 
+    "edited": false, 
+    "gilded": 0, 
+    "id": "d1dgavh", 
+    "likes": null, 
+    "link_id": "t3_4by77j", 
+    "mod_reports": [], 
+    "name": "t1_d1dgavh", 
+    "num_reports": null, 
+    "parent_id": "t3_4by77j", 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 1, 
+    "score_hidden": false, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "ups": 1, 
+    "user_reports": []
+},
+
+{
+    "approved_by": null, 
+    "archived": false, 
+    "author": "Aphill717", 
+    "author_flair_css_class": "", 
+    "author_flair_text": "Team Magny", 
+    "banned_by": null, 
+    "body": "I read Emil Meek as \"Meek Mill\" for some reason. I don't even like rap.", 
+    "body_html": "<div class=\"md\"><p>I read Emil Meek as &quot;Meek Mill&quot; for some reason. I don&#39;t even like rap.</p>\n</div>", 
+    "controversiality": 0, 
+    "created": 1458967637.0, 
+    "created_utc": 1458938837.0, 
+    "distinguished": null, 
+    "downs": 0, 
+    "edited": false, 
+    "gilded": 0, 
+    "id": "d1dgdp1", 
+    "likes": null, 
+    "link_id": "t3_4by77j", 
+    "mod_reports": [], 
+    "name": "t1_d1dgdp1", 
+    "num_reports": null, 
+    "parent_id": "t3_4by77j", 
+    "removal_reason": null, 
+    "report_reasons": null, 
+    "saved": false, 
+    "score": 1, 
+    "score_hidden": false, 
+    "stickied": false, 
+    "subreddit": "MMA", 
+    "subreddit_id": "t5_2qhj4", 
+    "ups": 1, 
+    "user_reports": []
+}
+]
+}
