@@ -1,0 +1,3 @@
+{"sources":
+["http://www.sherdog.com/rss/news2.xml",
+"eqwrqwerq"]}
