@@ -51,6 +51,8 @@ for currentFile in files:
             submission = data["Submission"]
             comments = data["CommentList"]
             if(len(comments)>0):
+                # Structure the comments such that each comment is put into a separate dict entry along with
+                # its respective parent comment.
                 json_comments['Submission'] = {'Title':submission['title']} # Two different ways of doing the same JSON thing
                 json_comments['Submission']['Url'] = [submission['url']] #
                 for comment in comments:

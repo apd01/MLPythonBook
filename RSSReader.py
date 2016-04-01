@@ -10,6 +10,6 @@ with file('rss_list.txt', 'r') as rss_file_list:
         d = feedparser.parse(url)
         pprint(d, depth=4)
     with file('tmprss.txt', 'w') as outfile:
-
-    # What is this file for?
-    # Identify news stories as they happen, perhaps feed into an algorithm to predict front-page mma news?
+        print("asdf")
+        # What is this file for?
+        # Identify news stories as they happen, perhaps feed into an algorithm to predict front-page mma news?
