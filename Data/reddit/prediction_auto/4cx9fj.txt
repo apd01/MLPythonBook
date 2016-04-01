@@ -1,0 +1,3776 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459538548.878, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 14, 
+            "upvote_ratio": 0.8, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459539124.65, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 17, 
+            "upvote_ratio": 0.78, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459539150.671, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 17, 
+            "upvote_ratio": 0.78, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 19, 
+            "scrape_time": 1459539724.506, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 19, 
+            "upvote_ratio": 0.79, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 19, 
+            "scrape_time": 1459539756.448, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 19, 
+            "upvote_ratio": 0.79, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 18, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 24, 
+            "scrape_time": 1459540324.518, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 24, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 18, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 24, 
+            "scrape_time": 1459540364.41, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 24, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 22, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459540924.583, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 26, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 22, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459540964.435, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 26, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459541524.593, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 31, 
+            "upvote_ratio": 0.85, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459541572.428, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 31, 
+            "upvote_ratio": 0.85, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 29, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 33, 
+            "scrape_time": 1459542124.566, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 33, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 29, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 33, 
+            "scrape_time": 1459542172.459, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 33, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 34, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 39, 
+            "scrape_time": 1459542726.588, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 39, 
+            "upvote_ratio": 0.85, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 34, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 39, 
+            "scrape_time": 1459542774.468, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 39, 
+            "upvote_ratio": 0.85, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 35, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 46, 
+            "scrape_time": 1459543324.636, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 46, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 35, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 46, 
+            "scrape_time": 1459543374.441, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 46, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 37, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 47, 
+            "scrape_time": 1459543924.721, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 47, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 37, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 47, 
+            "scrape_time": 1459543978.453, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 47, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 43, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 51, 
+            "scrape_time": 1459544524.641, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 51, 
+            "upvote_ratio": 0.87, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 43, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 51, 
+            "scrape_time": 1459544582.458, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 51, 
+            "upvote_ratio": 0.87, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 44, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 55, 
+            "scrape_time": 1459545124.633, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 55, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 44, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 55, 
+            "scrape_time": 1459545186.474, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 55, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 53, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 58, 
+            "scrape_time": 1459545724.768, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 58, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 53, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 58, 
+            "scrape_time": 1459545788.491, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 58, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 60, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 61, 
+            "scrape_time": 1459546325.039, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 61, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 60, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 61, 
+            "scrape_time": 1459546392.473, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 61, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 63, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 73, 
+            "scrape_time": 1459546924.74, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 73, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 63, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 73, 
+            "scrape_time": 1459547002.48, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 73, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 63, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 77, 
+            "scrape_time": 1459547524.749, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 77, 
+            "upvote_ratio": 0.87, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 63, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 73, 
+            "scrape_time": 1459547614.723, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 73, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 63, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 81, 
+            "scrape_time": 1459548124.707, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 81, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 63, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 81, 
+            "scrape_time": 1459548214.467, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 81, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 64, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 91, 
+            "scrape_time": 1459548724.805, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 91, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 64, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 88, 
+            "scrape_time": 1459548816.858, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 88, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 68, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 90, 
+            "scrape_time": 1459549341.841, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 90, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 69, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 96, 
+            "scrape_time": 1459549927.721, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 96, 
+            "upvote_ratio": 0.89, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 71, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 95, 
+            "scrape_time": 1459550524.721, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 95, 
+            "upvote_ratio": 0.89, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 72, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 100, 
+            "scrape_time": 1459551124.691, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 100, 
+            "upvote_ratio": 0.89, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 73, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 102, 
+            "scrape_time": 1459551724.719, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 102, 
+            "upvote_ratio": 0.89, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459564804.0, 
+            "created_utc": 1459536004.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx9fj", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cx9fj", 
+            "num_comments": 74, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx9fj/sterlings_message_to_mr_tate/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MrJX5Db1F4s-htTCDfu6QzjbCA3QIUXvyiujRU38S0c", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e0ece353e9cfbab21a59120fa5b92720", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cc4c7ce7f01fc5df71739464e418f24e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=34cafb316d57ae709707e8743180f2d7", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e65d4ba77d79b59cba16214689fe56ef", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/ShikDCTgP6KCTrQk9mW82hWCh3ccaHtpci0lsNZOp_E.jpg?s=4ce23154a98e24fc73efd57bce58c5e2", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 102, 
+            "scrape_time": 1459552324.885, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/bBfr5x3Y7nbaeaSirv9kcRrx1KNbMJxWtX__atr5PVk.jpg", 
+            "title": "Sterlings message to \"Mr. Tate\"", 
+            "ups": 102, 
+            "upvote_ratio": 0.89, 
+            "url": "https://www.instagram.com/p/BDqRScCPiZT/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

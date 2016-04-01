@@ -1,0 +1,1108 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459455090.813, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 1, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459455960.995, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459455975.008, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459457764.626, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459457790.764, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459458590.443, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459458630.4, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459518098.941, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 1, 
+            "upvote_ratio": 0.53, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459520270.208, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 2, 
+            "upvote_ratio": 0.58, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459522170.108, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 1, 
+            "upvote_ratio": 0.53, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523374.037, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "django187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483759.0, 
+            "created_utc": 1459454959.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crtiw", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crtiw", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9TZ4U0K0MWAyFt6xwfcOkrd8KTxLqaktHAwIROSLA28", 
+                        "resolutions": [
+                            {
+                                "height": 82, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=db4d4de9ef9b12d559d1e72b2b9095dd", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 164, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3361b5ee81bf1fa544560adbc57d929b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 243, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=75e3dc227d9f8f8eccd13e44defedc1d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 487, 
+                                "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7f24abad66e506f8d066eaa255b0b8d", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 500, 
+                            "url": "https://i.redditmedia.com/LJzjS9DP1-n6gnj1hYY5nR9sX5dyD8B09xUjx2juTKA.jpg?s=312d6bb265e92d927ba26c3e0b837b47", 
+                            "width": 656
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459524788.568, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\n\n\"We know that Conor doesn't want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don't know that he's at 175. He wants to say that he's gone up two weight classes but in reality he's a 155er fighting another 155er. But if he could sell it that he's going up two weight classes, he thinks everybody's dumb enough to believe that he's realistically going up two weight classes,\" said Henry.\n\n\"Yeah that's reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,\" said Henry with more than a hint of sarcasm, saying he \"feels more bad for Aldo\".\n\n\"I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it's gone the way it's gone. It's a total disaster.\n\n\"You have the 145 pound champion fighting the same day as the 145 pound interim and the champion's healthy. I's just a joke. It's laughable. It makes everything sound ridiculous.\"\n\nUsing a parenting analogy, Henry says McGregor \"gets his way\" within the UFC, although he says the organisation has \"always treated Frankie well\". \n\nBut comparing the situation with the NFL, he wishes the UFC would follow its lead by \"making the UFC and MMA more important than Conor\".\n\nHenry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his \"tight pants\".\n\n\"He buys his clothes in a little boy's store. He needs to buy some regular sized pants or something because he thinks everyone's scared but they're not.\"", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.newstalk.com/mark-henry-on-mcgregor-dia-2\">https://www.newstalk.com/mark-henry-on-mcgregor-dia-2</a></p>\n\n<p>&quot;We know that Conor doesn&#39;t want any part of Frankie. The 170 thing, that he has to fight at 170, he thinks that fans are just so stupid. He thinks that people don&#39;t know that he&#39;s at 175. He wants to say that he&#39;s gone up two weight classes but in reality he&#39;s a 155er fighting another 155er. But if he could sell it that he&#39;s going up two weight classes, he thinks everybody&#39;s dumb enough to believe that he&#39;s realistically going up two weight classes,&quot; said Henry.</p>\n\n<p>&quot;Yeah that&#39;s reasonable that Jose Aldo is champion for over 10 years and Conor McGregor is fighting Nate Diaz for a 170 meaningless fight because he got whooped in the second round,&quot; said Henry with more than a hint of sarcasm, saying he &quot;feels more bad for Aldo&quot;.</p>\n\n<p>&quot;I believe that the fight that should have happened was Frankie right after at this past fight that Conor had and the next fight should have been Aldo fighting the winner of Frankie and Conor. But it&#39;s gone the way it&#39;s gone. It&#39;s a total disaster.</p>\n\n<p>&quot;You have the 145 pound champion fighting the same day as the 145 pound interim and the champion&#39;s healthy. I&#39;s just a joke. It&#39;s laughable. It makes everything sound ridiculous.&quot;</p>\n\n<p>Using a parenting analogy, Henry says McGregor &quot;gets his way&quot; within the UFC, although he says the organisation has &quot;always treated Frankie well&quot;. </p>\n\n<p>But comparing the situation with the NFL, he wishes the UFC would follow its lead by &quot;making the UFC and MMA more important than Conor&quot;.</p>\n\n<p>Henry also expects Diaz to defeat McGregor again and said that the only scary thing about the featherweight champ is his &quot;tight pants&quot;.</p>\n\n<p>&quot;He buys his clothes in a little boy&#39;s store. He needs to buy some regular sized pants or something because he thinks everyone&#39;s scared but they&#39;re not.&quot;</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Mark Henry, Frankie Edgars coach on Irish radio Tonight (Recap)", 
+            "ups": 1, 
+            "upvote_ratio": 0.54, 
+            "url": "https://www.reddit.com/r/MMA/comments/4crtiw/mark_henry_frankie_edgars_coach_on_irish_radio/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

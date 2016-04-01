@@ -1,0 +1,1942 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459546982.458, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 3, 
+            "upvote_ratio": 1.0, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459547584.466, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459547592.498, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459548184.561, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 3, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459548192.659, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 3, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459548784.473, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 2, 
+            "upvote_ratio": 0.6, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459548794.531, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 2, 
+            "upvote_ratio": 0.6, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459549401.547, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 4, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459549419.621, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 4, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459549987.404, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 4, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459550009.531, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 4, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459550584.489, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 3, 
+            "upvote_ratio": 0.62, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459550610.697, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 3, 
+            "upvote_ratio": 0.62, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459551184.502, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 2, 
+            "upvote_ratio": 0.56, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459551212.721, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 2, 
+            "upvote_ratio": 0.56, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459551784.489, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 5, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459551820.422, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 5, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459552384.493, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 4, 
+            "upvote_ratio": 0.61, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575396.0, 
+            "created_utc": 1459546596.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya42", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya42/ufcs_marc_ratner_on_new_york_legalization_i_didnt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "erR1iUn96Im7RTutaktVIf9bKgBoeaYuBkneayh9x-o", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=4d45343d48fac255f10742321b00a272", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=e0ed93969da7ae4b7e6a416b1dc996e4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=22dae7aaa2d0fddc8247a98c5a58f5f1", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c42b4a201c0eab6ad00cc53e5961b38d", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=4b0e9788d0b2b4a5162e42e25e7bf9f6", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3e2c904cb30b90921d8cff63b67aa689", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/Kg4k10e4nV_hT7SMTa1jW-WSKNgREcKnxYL4yMWGRsk.jpg?s=1065666b51e02d45b230a01232ba4daf", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459552424.43, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/7RJmNM7wpYPOFUjlSQ4D3smYDChh6PxVmxLrRdxvQgw.jpg", 
+            "title": "UFC's Marc Ratner on New York legalization: 'I didn't see thank yous from our competitors'", 
+            "ups": 4, 
+            "upvote_ratio": 0.61, 
+            "url": "http://www.mmafighting.com/2016/4/1/11319080/ufcs-marc-ratner-on-new-york-legalization-i-didnt-see-thank-yous-from", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

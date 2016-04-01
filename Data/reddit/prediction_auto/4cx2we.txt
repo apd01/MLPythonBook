@@ -1,0 +1,3803 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459534156.66, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 1, 
+            "upvote_ratio": 1.0, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459534754.662, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459534756.897, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459535354.663, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.29, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459535356.831, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.29, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459538524.777, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.21, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459539122.447, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459539722.497, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540322.425, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540922.449, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.2, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459541522.435, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.27, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459542122.453, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459542724.436, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.27, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459543322.465, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.2, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459543922.442, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459544522.434, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.21, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459545122.445, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.24, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459545722.431, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.19, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459546322.451, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459546922.43, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.21, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459547522.439, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.21, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548122.43, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.31, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548722.457, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.27, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459549339.544, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.29, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459549925.383, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.25, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459550522.435, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.31, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459551122.453, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.24, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459551722.462, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.31, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "bulletcunt", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459562935.0, 
+            "created_utc": 1459534135.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cx2we", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cx2we", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cx2we/video_in_response_to_the_abq_police_thread_here/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "wpprt1uZaR0X3fM_L67pbTQqK5mFDFoBY7eRZFLK28E", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e2b318916349d17963271a24846e3a17", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ed7f07757153cb987b15cf583dbc66b2", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=407708dfbe0b69e3b61c3acb95ed2822", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/p6aMGQ0matcOOd2MLCnF8Vb_TaQoY-jBNuNZn63e7wA.jpg?s=7679c26d36095ef823858a976681bb00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459552322.867, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMontageKing", 
+                    "author_url": "https://www.youtube.com/user/TheMontageKing", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/eCs6RV3hkhg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "TOP 10 Jon Jones Controversies (UFC Champion)", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/eCs6RV3hkhg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/c340_SPaULfkVCa9bkoR1PZO-9VkUpuMtK9ha5K-GzQ.jpg", 
+            "title": "[Video] In response to the ABQ police thread, here is the top 10 Jones controversies up to March 2015.", 
+            "ups": 0, 
+            "upvote_ratio": 0.21, 
+            "url": "https://youtu.be/eCs6RV3hkhg", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

@@ -1,0 +1,780 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "atrainedbear", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484829.0, 
+            "created_utc": 1459456029.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crwdh", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crwdh", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crwdh/travis_browne_casting_shade_on_tbt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "YuwKkJhQUftvGa8bElakaU0OzMx4E6JudHfBBVzxQVw", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e767166d0f728e879b4d879b416cd959", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=277cb33e378e1bf0108bd600b069981a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f24435579aaa004603d0752f1aa3fff3", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 426, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=223919af5dbf3c789263afedc0a4d9cf", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f32b1fd5e8786d6987dad5fa56eea900", 
+                                "width": 960
+                            }
+                        ], 
+                        "source": {
+                            "height": 682, 
+                            "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?s=20471b437fca28b9ffcaff3c77c075ad", 
+                            "width": 1023
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459457790.675, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BNYUCC1IagI1tbZhT_bu6lG62BLwq1iMahFmi4SIz1A.jpg", 
+            "title": "Travis Browne casting shade on TBT", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "https://twitter.com/travisbrowneMMA/status/715634779861999616", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "atrainedbear", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484829.0, 
+            "created_utc": 1459456029.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crwdh", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crwdh", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crwdh/travis_browne_casting_shade_on_tbt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "YuwKkJhQUftvGa8bElakaU0OzMx4E6JudHfBBVzxQVw", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e767166d0f728e879b4d879b416cd959", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=277cb33e378e1bf0108bd600b069981a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f24435579aaa004603d0752f1aa3fff3", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 426, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=223919af5dbf3c789263afedc0a4d9cf", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f32b1fd5e8786d6987dad5fa56eea900", 
+                                "width": 960
+                            }
+                        ], 
+                        "source": {
+                            "height": 682, 
+                            "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?s=20471b437fca28b9ffcaff3c77c075ad", 
+                            "width": 1023
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458604.506, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BNYUCC1IagI1tbZhT_bu6lG62BLwq1iMahFmi4SIz1A.jpg", 
+            "title": "Travis Browne casting shade on TBT", 
+            "ups": 5, 
+            "upvote_ratio": 0.67, 
+            "url": "https://twitter.com/travisbrowneMMA/status/715634779861999616", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "atrainedbear", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484829.0, 
+            "created_utc": 1459456029.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crwdh", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crwdh", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crwdh/travis_browne_casting_shade_on_tbt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "YuwKkJhQUftvGa8bElakaU0OzMx4E6JudHfBBVzxQVw", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e767166d0f728e879b4d879b416cd959", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=277cb33e378e1bf0108bd600b069981a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f24435579aaa004603d0752f1aa3fff3", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 426, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=223919af5dbf3c789263afedc0a4d9cf", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f32b1fd5e8786d6987dad5fa56eea900", 
+                                "width": 960
+                            }
+                        ], 
+                        "source": {
+                            "height": 682, 
+                            "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?s=20471b437fca28b9ffcaff3c77c075ad", 
+                            "width": 1023
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458624.511, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BNYUCC1IagI1tbZhT_bu6lG62BLwq1iMahFmi4SIz1A.jpg", 
+            "title": "Travis Browne casting shade on TBT", 
+            "ups": 5, 
+            "upvote_ratio": 0.67, 
+            "url": "https://twitter.com/travisbrowneMMA/status/715634779861999616", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "atrainedbear", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484829.0, 
+            "created_utc": 1459456029.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crwdh", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crwdh", 
+            "num_comments": 66, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crwdh/travis_browne_casting_shade_on_tbt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "YuwKkJhQUftvGa8bElakaU0OzMx4E6JudHfBBVzxQVw", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e767166d0f728e879b4d879b416cd959", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=277cb33e378e1bf0108bd600b069981a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f24435579aaa004603d0752f1aa3fff3", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 426, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=223919af5dbf3c789263afedc0a4d9cf", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f32b1fd5e8786d6987dad5fa56eea900", 
+                                "width": 960
+                            }
+                        ], 
+                        "source": {
+                            "height": 682, 
+                            "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?s=20471b437fca28b9ffcaff3c77c075ad", 
+                            "width": 1023
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459518113.146, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BNYUCC1IagI1tbZhT_bu6lG62BLwq1iMahFmi4SIz1A.jpg", 
+            "title": "Travis Browne casting shade on TBT", 
+            "ups": 28, 
+            "upvote_ratio": 0.69, 
+            "url": "https://twitter.com/travisbrowneMMA/status/715634779861999616", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "atrainedbear", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484829.0, 
+            "created_utc": 1459456029.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crwdh", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crwdh", 
+            "num_comments": 66, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crwdh/travis_browne_casting_shade_on_tbt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "YuwKkJhQUftvGa8bElakaU0OzMx4E6JudHfBBVzxQVw", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e767166d0f728e879b4d879b416cd959", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=277cb33e378e1bf0108bd600b069981a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f24435579aaa004603d0752f1aa3fff3", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 426, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=223919af5dbf3c789263afedc0a4d9cf", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f32b1fd5e8786d6987dad5fa56eea900", 
+                                "width": 960
+                            }
+                        ], 
+                        "source": {
+                            "height": 682, 
+                            "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?s=20471b437fca28b9ffcaff3c77c075ad", 
+                            "width": 1023
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459520284.478, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BNYUCC1IagI1tbZhT_bu6lG62BLwq1iMahFmi4SIz1A.jpg", 
+            "title": "Travis Browne casting shade on TBT", 
+            "ups": 27, 
+            "upvote_ratio": 0.68, 
+            "url": "https://twitter.com/travisbrowneMMA/status/715634779861999616", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "atrainedbear", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484829.0, 
+            "created_utc": 1459456029.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crwdh", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crwdh", 
+            "num_comments": 67, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crwdh/travis_browne_casting_shade_on_tbt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "YuwKkJhQUftvGa8bElakaU0OzMx4E6JudHfBBVzxQVw", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e767166d0f728e879b4d879b416cd959", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=277cb33e378e1bf0108bd600b069981a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f24435579aaa004603d0752f1aa3fff3", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 426, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=223919af5dbf3c789263afedc0a4d9cf", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f32b1fd5e8786d6987dad5fa56eea900", 
+                                "width": 960
+                            }
+                        ], 
+                        "source": {
+                            "height": 682, 
+                            "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?s=20471b437fca28b9ffcaff3c77c075ad", 
+                            "width": 1023
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459522184.452, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BNYUCC1IagI1tbZhT_bu6lG62BLwq1iMahFmi4SIz1A.jpg", 
+            "title": "Travis Browne casting shade on TBT", 
+            "ups": 26, 
+            "upvote_ratio": 0.67, 
+            "url": "https://twitter.com/travisbrowneMMA/status/715634779861999616", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "atrainedbear", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484829.0, 
+            "created_utc": 1459456029.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crwdh", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crwdh", 
+            "num_comments": 67, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crwdh/travis_browne_casting_shade_on_tbt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "YuwKkJhQUftvGa8bElakaU0OzMx4E6JudHfBBVzxQVw", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e767166d0f728e879b4d879b416cd959", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=277cb33e378e1bf0108bd600b069981a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f24435579aaa004603d0752f1aa3fff3", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 426, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=223919af5dbf3c789263afedc0a4d9cf", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f32b1fd5e8786d6987dad5fa56eea900", 
+                                "width": 960
+                            }
+                        ], 
+                        "source": {
+                            "height": 682, 
+                            "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?s=20471b437fca28b9ffcaff3c77c075ad", 
+                            "width": 1023
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459523388.293, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BNYUCC1IagI1tbZhT_bu6lG62BLwq1iMahFmi4SIz1A.jpg", 
+            "title": "Travis Browne casting shade on TBT", 
+            "ups": 25, 
+            "upvote_ratio": 0.67, 
+            "url": "https://twitter.com/travisbrowneMMA/status/715634779861999616", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "atrainedbear", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484829.0, 
+            "created_utc": 1459456029.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crwdh", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crwdh", 
+            "num_comments": 67, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crwdh/travis_browne_casting_shade_on_tbt/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "YuwKkJhQUftvGa8bElakaU0OzMx4E6JudHfBBVzxQVw", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e767166d0f728e879b4d879b416cd959", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=277cb33e378e1bf0108bd600b069981a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=f24435579aaa004603d0752f1aa3fff3", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 426, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=223919af5dbf3c789263afedc0a4d9cf", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=f32b1fd5e8786d6987dad5fa56eea900", 
+                                "width": 960
+                            }
+                        ], 
+                        "source": {
+                            "height": 682, 
+                            "url": "https://i.redditmedia.com/O8nYaRd9x6yakUMWhARCHce9UH5NYibrzg6fwGmemms.jpg?s=20471b437fca28b9ffcaff3c77c075ad", 
+                            "width": 1023
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 30, 
+            "scrape_time": 1459524802.908, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BNYUCC1IagI1tbZhT_bu6lG62BLwq1iMahFmi4SIz1A.jpg", 
+            "title": "Travis Browne casting shade on TBT", 
+            "ups": 30, 
+            "upvote_ratio": 0.69, 
+            "url": "https://twitter.com/travisbrowneMMA/status/715634779861999616", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

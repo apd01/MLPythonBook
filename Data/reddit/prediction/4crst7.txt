@@ -1,0 +1,1576 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459455092.814, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459455958.991, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 1, 
+            "upvote_ratio": 0.6, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459455975.024, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 1, 
+            "upvote_ratio": 0.6, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459457762.62, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 3, 
+            "upvote_ratio": 0.71, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459457790.781, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 3, 
+            "upvote_ratio": 0.71, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459458588.434, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459458632.428, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 21, 
+            "scrape_time": 1459518096.845, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 21, 
+            "upvote_ratio": 0.85, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 18, 
+            "scrape_time": 1459520268.243, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 18, 
+            "upvote_ratio": 0.8, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 21, 
+            "scrape_time": 1459522168.113, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 21, 
+            "upvote_ratio": 0.85, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 18, 
+            "scrape_time": 1459523372.058, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 18, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MrNillows", 
+            "author_flair_css_class": "CA", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483502.0, 
+            "created_utc": 1459454702.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crst7", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crst7", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crst7/video_dmxs_teaser_for_ufc_196_still_works_really/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "S-pj8Fl0qi2pmv-wkZHhmKLLtadOGIvftSWiV1mPZVA", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=614e39b806913395db2a7298b970ccfa", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=619df12c6bc284c34b85e3d8b2bf8299", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=19cd09977c1821d83ab3064d54133f15", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TDdHjaX1CoDIhc8TxRgVNt4UV0lDZJYkXK4otxnIGKU.jpg?s=2bc70fea8f8b2ea5060b60358c4b27d9", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 21, 
+            "scrape_time": 1459524786.54, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YyXccv52EHA/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 196: Teaser featuring DMX", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YyXccv52EHA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Mp4fojo35J49rmE2yhgcRIYqRKy-kQbuDSntS5LXl4I.jpg", 
+            "title": "[Video] DMX'S teaser for UFC 196 still works really well for 200 it just has the opposite feel now", 
+            "ups": 21, 
+            "upvote_ratio": 0.85, 
+            "url": "https://www.youtube.com/watch?v=YyXccv52EHA", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

@@ -1,0 +1,961 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459549419.532, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 6, 
+            "upvote_ratio": 1.0, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459549997.381, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 13, 
+            "upvote_ratio": 1.0, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459550009.44, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 13, 
+            "upvote_ratio": 1.0, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 22, 
+            "scrape_time": 1459550594.489, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 22, 
+            "upvote_ratio": 1.0, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 22, 
+            "scrape_time": 1459550610.595, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 22, 
+            "upvote_ratio": 1.0, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 30, 
+            "scrape_time": 1459551194.488, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 30, 
+            "upvote_ratio": 1.0, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 30, 
+            "scrape_time": 1459551212.622, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 30, 
+            "upvote_ratio": 1.0, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 35, 
+            "scrape_time": 1459551794.512, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 35, 
+            "upvote_ratio": 0.93, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 35, 
+            "scrape_time": 1459551816.625, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 35, 
+            "upvote_ratio": 0.93, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 42, 
+            "scrape_time": 1459552394.524, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 42, 
+            "upvote_ratio": 0.94, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Pyne87", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577953.0, 
+            "created_utc": 1459549153.0, 
+            "distinguished": null, 
+            "domain": "severemma.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyhxa", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyhxa", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyhxa/norman_parke_released_from_the_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SrKJgU28zyJkyN-zHoo3OWVBE8oYX9b3jGTuK3rayPY", 
+                        "resolutions": [
+                            {
+                                "height": 69, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5763e4a9ac2963dec6b98766a5697864", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 139, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a96f414701b6f93bd39a04e8c2c42ae6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 206, 
+                                "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=4acef67597638fdf2edf3405ff8ddda8", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/dolIcAT36jCAza68WmWQb4-qMQxW9C-6EqYih6Pvj0s.jpg?s=43022d5e51201453a613b4dd440f989e", 
+                            "width": 620
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 42, 
+            "scrape_time": 1459552418.65, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4pWwdaSgXBBW3GjUgg80oPinhWYQWNs3jwstGcmlRXY.jpg", 
+            "title": "Norman Parke released from the UFC", 
+            "ups": 42, 
+            "upvote_ratio": 0.94, 
+            "url": "http://severemma.com/2016/04/norman-parke-released-ufc/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

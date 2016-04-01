@@ -1,0 +1,1421 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "sobrix", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "51zuSrixLxmIKq0FwDYR--niEeSKbSgESeG0t3cZEbI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f026e65f9f4711a17be63764d1693e18", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=39dd497f1583282e867331f45c9a1bb3", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=59abcf563ec9655a34ae448bba026828", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?s=40aecb2711282c5aa4a254efd7c894ea", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459455098.811, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7azNfirzQg7gO7zz_VrCLCSwHlg08BztfuyzmCKeEV0.jpg", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.43, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "sobrix", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "51zuSrixLxmIKq0FwDYR--niEeSKbSgESeG0t3cZEbI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f026e65f9f4711a17be63764d1693e18", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=39dd497f1583282e867331f45c9a1bb3", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=59abcf563ec9655a34ae448bba026828", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?s=40aecb2711282c5aa4a254efd7c894ea", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459455953.009, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7azNfirzQg7gO7zz_VrCLCSwHlg08BztfuyzmCKeEV0.jpg", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "sobrix", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "51zuSrixLxmIKq0FwDYR--niEeSKbSgESeG0t3cZEbI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f026e65f9f4711a17be63764d1693e18", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=39dd497f1583282e867331f45c9a1bb3", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=59abcf563ec9655a34ae448bba026828", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?s=40aecb2711282c5aa4a254efd7c894ea", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459455975.066, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7azNfirzQg7gO7zz_VrCLCSwHlg08BztfuyzmCKeEV0.jpg", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "sobrix", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "51zuSrixLxmIKq0FwDYR--niEeSKbSgESeG0t3cZEbI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f026e65f9f4711a17be63764d1693e18", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=39dd497f1583282e867331f45c9a1bb3", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=59abcf563ec9655a34ae448bba026828", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?s=40aecb2711282c5aa4a254efd7c894ea", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459457756.596, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7azNfirzQg7gO7zz_VrCLCSwHlg08BztfuyzmCKeEV0.jpg", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "sobrix", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "51zuSrixLxmIKq0FwDYR--niEeSKbSgESeG0t3cZEbI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f026e65f9f4711a17be63764d1693e18", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=39dd497f1583282e867331f45c9a1bb3", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=59abcf563ec9655a34ae448bba026828", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?s=40aecb2711282c5aa4a254efd7c894ea", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459457796.533, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7azNfirzQg7gO7zz_VrCLCSwHlg08BztfuyzmCKeEV0.jpg", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "sobrix", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "51zuSrixLxmIKq0FwDYR--niEeSKbSgESeG0t3cZEbI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f026e65f9f4711a17be63764d1693e18", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=39dd497f1583282e867331f45c9a1bb3", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=59abcf563ec9655a34ae448bba026828", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?s=40aecb2711282c5aa4a254efd7c894ea", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458582.466, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7azNfirzQg7gO7zz_VrCLCSwHlg08BztfuyzmCKeEV0.jpg", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "sobrix", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "51zuSrixLxmIKq0FwDYR--niEeSKbSgESeG0t3cZEbI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f026e65f9f4711a17be63764d1693e18", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=39dd497f1583282e867331f45c9a1bb3", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=59abcf563ec9655a34ae448bba026828", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/uexM8rq-1pyLYT_HpDVVfPhdkKie9H9Hq31Nf51XVmM.jpg?s=40aecb2711282c5aa4a254efd7c894ea", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458638.425, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7azNfirzQg7gO7zz_VrCLCSwHlg08BztfuyzmCKeEV0.jpg", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "[deleted]", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459518090.83, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "[deleted]", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>[deleted]</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "[deleted]", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520262.187, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "[deleted]", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>[deleted]</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "[deleted]", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459522162.119, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "[deleted]", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>[deleted]</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 1, 
+            "upvote_ratio": 0.53, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "[deleted]", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459523366.035, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "[deleted]", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>[deleted]</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 1, 
+            "upvote_ratio": 0.53, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "[deleted]", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482430.0, 
+            "created_utc": 1459453630.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crpwc", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crpwc", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crpwc/videoufc_200_diaz_vs_mcgregor_ii_promo/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459524780.506, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Fox MMA Promo's", 
+                    "author_url": "https://www.youtube.com/user/ThaSneakyFox", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/EBCBPsTAzzs/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200: Diaz vs McGregor II Promo", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/EBCBPsTAzzs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "[deleted]", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>[deleted]</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "[Video]UFC 200: Diaz vs McGregor II Promo", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=EBCBPsTAzzs", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

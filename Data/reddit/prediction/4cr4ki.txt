@@ -1,0 +1,1306 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459447151.62, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 2, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459447273.165, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 0, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459447300.97, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 0, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459450151.762, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 3, 
+            "upvote_ratio": 0.71, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459450188.804, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 3, 
+            "upvote_ratio": 0.71, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459455055.486, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 5, 
+            "upvote_ratio": 0.78, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459455130.773, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 5, 
+            "upvote_ratio": 0.78, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459455902.984, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459457703.513, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 4, 
+            "upvote_ratio": 0.7, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458532.399, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459518040.793, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 6, 
+            "upvote_ratio": 0.71, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459520212.162, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 7, 
+            "upvote_ratio": 0.73, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459522112.083, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 8, 
+            "upvote_ratio": 0.75, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459523315.941, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 7, 
+            "upvote_ratio": 0.68, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "SubbyDoo", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474938.0, 
+            "created_utc": 1459446138.0, 
+            "distinguished": null, 
+            "domain": "lastwordonsports.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr4ki", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr4ki", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr4ki/paulie_gloves_of_american_top_team_on_the_true/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "JIm4I-qiky6iwOLsDD83zywXAN6lFMBnIQJq_-uc6b0", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=654c7563b2bf8d0e1a070c2667a18511", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=89c704e8a2bd8057665bdcae23b3ae4f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f0aabb8dd2b865f55633046f93e0e2b", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/Aoro_SX8b28hXmrTetn1jbEIgwy-dgJpesUXak6bauA.jpg?s=8ac5410ccd2d51d4d888a5c7210f43e1", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459524730.449, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5BUI8CiXsOs31lzLccJu3rW0j7-8sOwHD_gtjJi_Bvg.jpg", 
+            "title": "Paulie Gloves of American Top Team on The True Science Behind the \u201cSweet Science\u201d in MMA", 
+            "ups": 7, 
+            "upvote_ratio": 0.7, 
+            "url": "http://lastwordonsports.com/2016/03/31/true-science-behind-sweet-science-mma/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

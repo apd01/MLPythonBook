@@ -1,0 +1,1568 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459547588.547, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 2, 
+            "upvote_ratio": 1.0, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459548190.431, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 1, 
+            "upvote_ratio": 0.67, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459548192.612, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 1, 
+            "upvote_ratio": 0.67, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459548790.429, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459548794.486, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459549407.76, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459549419.566, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459549993.414, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459550009.471, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459550590.53, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 3, 
+            "upvote_ratio": 0.67, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459550610.627, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 3, 
+            "upvote_ratio": 0.67, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459551190.494, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 3, 
+            "upvote_ratio": 0.67, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459551212.656, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 3, 
+            "upvote_ratio": 0.67, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 19, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459551790.628, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 1, 
+            "upvote_ratio": 0.56, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 19, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459551816.665, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 1, 
+            "upvote_ratio": 0.56, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 21, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459552390.549, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 2, 
+            "upvote_ratio": 0.6, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "justcroozing", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576282.0, 
+            "created_utc": 1459547482.0, 
+            "distinguished": null, 
+            "domain": "mmajunkie.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycut", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycut", 
+            "num_comments": 21, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycut/john_dodson_calling_out_entire_division_in_return/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "xXXttDeIJ7SVuvBoHBLEHFq8J4GXLhvCGKdBzi_ek5g", 
+                        "resolutions": [
+                            {
+                                "height": 70, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=298e9f71debffddbb956e96b9e890442", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 141, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=efdf73952d230c0150db8497c6af8754", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 210, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ac73a6134bedfb8bc9321578560c7ea", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 420, 
+                                "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d71cff605ccf6aaa57c32133d56f20e6", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 420, 
+                            "url": "https://i.redditmedia.com/hovUPd16RQLnB8slJbn0fMk7BhcRa7cFeYqFmBstpNw.jpg?s=00f4bff7fd8c280b80d5944a852a11c5", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459552418.691, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/gp18hYzOu5ifu3Dq7cZWS5aWitjFvmUSW7NtTf72D3g.jpg", 
+            "title": "John Dodson calling out entire division in return to bantamweight", 
+            "ups": 2, 
+            "upvote_ratio": 0.6, 
+            "url": "http://mmajunkie.com/2016/04/ufc-on-fox-19s-john-dodson-calling-out-entire-division-in-return-to-bantamweight", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

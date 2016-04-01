@@ -1,0 +1,772 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Powerdance", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459525715.0, 
+            "created_utc": 1459496915.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuka2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xpa1/v/t15.0-10/p128x128/12514533_10154134170674479_1884756826_n.jpg?oh=2340fe2a76faf12abd32689b3a4a827d&oe=57754AE0", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuka2", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuka2/jon_jones_training_for_rampage_jackson_or_watch/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "u9Wi_9HD9lgJ06PYj33GjVhnmYWChMRmGSD-mzWMF9k", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=472ec058637ea670eeab61091aac6933", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85728526fe53757cad8bc089d9189313", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?s=f4590b76a320cc2f75598f93d62604be", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459518176.87, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/-VDxaavgn1Z8-94LTLFhVFTYrpK2CyRVWqHVdFezt7E.jpg", 
+            "title": "Jon Jones training for Rampage Jackson or watch how the best fighter in the world and the best MMA coach in the world work togther", 
+            "ups": 2, 
+            "upvote_ratio": 0.56, 
+            "url": "https://www.facebook.com/mmafighting/videos/10154134154844479/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Powerdance", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459525715.0, 
+            "created_utc": 1459496915.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuka2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xpa1/v/t15.0-10/p128x128/12514533_10154134170674479_1884756826_n.jpg?oh=2340fe2a76faf12abd32689b3a4a827d&oe=57754AE0", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuka2", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuka2/jon_jones_training_for_rampage_jackson_or_watch/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "u9Wi_9HD9lgJ06PYj33GjVhnmYWChMRmGSD-mzWMF9k", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=472ec058637ea670eeab61091aac6933", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85728526fe53757cad8bc089d9189313", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?s=f4590b76a320cc2f75598f93d62604be", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459520310.244, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/-VDxaavgn1Z8-94LTLFhVFTYrpK2CyRVWqHVdFezt7E.jpg", 
+            "title": "Jon Jones training for Rampage Jackson or watch how the best fighter in the world and the best MMA coach in the world work togther", 
+            "ups": 4, 
+            "upvote_ratio": 0.61, 
+            "url": "https://www.facebook.com/mmafighting/videos/10154134154844479/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Powerdance", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459525715.0, 
+            "created_utc": 1459496915.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuka2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xpa1/v/t15.0-10/p128x128/12514533_10154134170674479_1884756826_n.jpg?oh=2340fe2a76faf12abd32689b3a4a827d&oe=57754AE0", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuka2", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuka2/jon_jones_training_for_rampage_jackson_or_watch/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "u9Wi_9HD9lgJ06PYj33GjVhnmYWChMRmGSD-mzWMF9k", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=472ec058637ea670eeab61091aac6933", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85728526fe53757cad8bc089d9189313", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?s=f4590b76a320cc2f75598f93d62604be", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459520385.556, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/-VDxaavgn1Z8-94LTLFhVFTYrpK2CyRVWqHVdFezt7E.jpg", 
+            "title": "Jon Jones training for Rampage Jackson or watch how the best fighter in the world and the best MMA coach in the world work togther", 
+            "ups": 4, 
+            "upvote_ratio": 0.61, 
+            "url": "https://www.facebook.com/mmafighting/videos/10154134154844479/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Powerdance", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459525715.0, 
+            "created_utc": 1459496915.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuka2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xpa1/v/t15.0-10/p128x128/12514533_10154134170674479_1884756826_n.jpg?oh=2340fe2a76faf12abd32689b3a4a827d&oe=57754AE0", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuka2", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuka2/jon_jones_training_for_rampage_jackson_or_watch/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "u9Wi_9HD9lgJ06PYj33GjVhnmYWChMRmGSD-mzWMF9k", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=472ec058637ea670eeab61091aac6933", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85728526fe53757cad8bc089d9189313", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?s=f4590b76a320cc2f75598f93d62604be", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459522216.137, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/-VDxaavgn1Z8-94LTLFhVFTYrpK2CyRVWqHVdFezt7E.jpg", 
+            "title": "Jon Jones training for Rampage Jackson or watch how the best fighter in the world and the best MMA coach in the world work togther", 
+            "ups": 4, 
+            "upvote_ratio": 0.6, 
+            "url": "https://www.facebook.com/mmafighting/videos/10154134154844479/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Powerdance", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459525715.0, 
+            "created_utc": 1459496915.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuka2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xpa1/v/t15.0-10/p128x128/12514533_10154134170674479_1884756826_n.jpg?oh=2340fe2a76faf12abd32689b3a4a827d&oe=57754AE0", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuka2", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuka2/jon_jones_training_for_rampage_jackson_or_watch/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "u9Wi_9HD9lgJ06PYj33GjVhnmYWChMRmGSD-mzWMF9k", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=472ec058637ea670eeab61091aac6933", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85728526fe53757cad8bc089d9189313", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?s=f4590b76a320cc2f75598f93d62604be", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459522298.015, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/-VDxaavgn1Z8-94LTLFhVFTYrpK2CyRVWqHVdFezt7E.jpg", 
+            "title": "Jon Jones training for Rampage Jackson or watch how the best fighter in the world and the best MMA coach in the world work togther", 
+            "ups": 4, 
+            "upvote_ratio": 0.6, 
+            "url": "https://www.facebook.com/mmafighting/videos/10154134154844479/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Powerdance", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459525715.0, 
+            "created_utc": 1459496915.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuka2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xpa1/v/t15.0-10/p128x128/12514533_10154134170674479_1884756826_n.jpg?oh=2340fe2a76faf12abd32689b3a4a827d&oe=57754AE0", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuka2", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuka2/jon_jones_training_for_rampage_jackson_or_watch/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "u9Wi_9HD9lgJ06PYj33GjVhnmYWChMRmGSD-mzWMF9k", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=472ec058637ea670eeab61091aac6933", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85728526fe53757cad8bc089d9189313", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/DRMs9RviGd6ufavZ-oF2uUsOx_bTiifm9gezKTubUh8.jpg?s=f4590b76a320cc2f75598f93d62604be", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459523419.953, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFighting.com - The Mixed Martial Arts News Website", 
+                    "author_url": "http://facebook.com/6176684478", 
+                    "description": "FlashbackFriday In the summer of 2011, our own, E. Casey Leydon: Filmmaker, got an exclusive look into the training camp of Jon \"Bones\" Jones at the JacksonWink MMA Academy as he prepared for his #UFC135 championship bout against Quinton \"Rampage\" Jackson", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "Flashback Friday: Jon Jones prepares for... - MMAFighting.com - The Mixed Martial Arts News Website | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D10154134154844479&url=https%3A%2F%2Fwww.facebook.com%2Fmmafighting%2Fvideos%2F10154134154844479%2F&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xpa1%2Fv%2Ft15.0-10%2Fp128x128%2F12514533_10154134170674479_1884756826_n.jpg%3Foh%3D2340fe2a76faf12abd32689b3a4a827d%26oe%3D57754AE0&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/-VDxaavgn1Z8-94LTLFhVFTYrpK2CyRVWqHVdFezt7E.jpg", 
+            "title": "Jon Jones training for Rampage Jackson or watch how the best fighter in the world and the best MMA coach in the world work togther", 
+            "ups": 3, 
+            "upvote_ratio": 0.56, 
+            "url": "https://www.facebook.com/mmafighting/videos/10154134154844479/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

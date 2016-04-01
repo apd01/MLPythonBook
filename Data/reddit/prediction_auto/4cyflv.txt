@@ -1,0 +1,1135 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459548794.476, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 7, 
+            "upvote_ratio": 0.89, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459549409.559, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 14, 
+            "upvote_ratio": 0.94, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459549419.549, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 14, 
+            "upvote_ratio": 0.94, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459549995.418, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 20, 
+            "upvote_ratio": 0.95, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459550009.453, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 20, 
+            "upvote_ratio": 0.95, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 23, 
+            "scrape_time": 1459550592.473, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 23, 
+            "upvote_ratio": 0.96, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 23, 
+            "scrape_time": 1459550610.609, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 23, 
+            "upvote_ratio": 0.96, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459551192.46, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 28, 
+            "upvote_ratio": 0.95, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459551212.636, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 28, 
+            "upvote_ratio": 0.95, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459551792.5, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.92, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459551816.64, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.92, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 34, 
+            "scrape_time": 1459552392.527, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 34, 
+            "upvote_ratio": 0.93, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "c_more", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team \u00c9ire - Celtic Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459577184.0, 
+            "created_utc": 1459548384.0, 
+            "distinguished": null, 
+            "domain": "mobile.twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyflv", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cyflv", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyflv/alan_jouban_signs_new_4_fight_contract_with_ufc/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "SDmkeXEYC8GTij0sn7OmbXkIsOrh38IXFgn9EcC2eVU", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=dfbf3699242a4831495ebd9136137fcc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=419d173528fbf6153098dccf5ca77756", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=8fb3bdb60823204851ebf6767eb47373", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 340, 
+                            "url": "https://i.redditmedia.com/USMhdpiZMWupLBaxhdby1xaqjh6o-vLZUlv9aPIEQVc.jpg?s=ec89899d2b4dce9f2dfeb307821d5109", 
+                            "width": 340
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 34, 
+            "scrape_time": 1459552418.666, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/vB4iTNh3QudtN4UtPr4zYN635-V-KYCGmcpp-1uiAII.jpg", 
+            "title": "Alan Jouban signs new 4 fight contract with UFC", 
+            "ups": 34, 
+            "upvote_ratio": 0.93, 
+            "url": "https://mobile.twitter.com/AlanJouban/status/716020365005352960", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FANTASMABOBB", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459545905.0, 
+            "created_utc": 1459517105.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvlqr", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvlqr", 
+            "num_comments": 24, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvlqr/lawler_v_magny_ufc200/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MpjMOI5oGuOICK7eR5GQiqxhbTrHq38HH8eX83l0pm4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=b37b5678bebc33bfa9d21f73378da691", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ab572e774cf92360ec715759c578fc64", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7e3c3f8eb382cdadeffc5fbde9d02b65", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?s=a906f832155e7c4158623d5f4c5ee05b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459518134.934, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/a1rNaOvEI1s8I_Dbe3UDMtXFqGT_rYeBjmHdUH6l3wo.jpg", 
+            "title": "Lawler v Magny UFC200", 
+            "ups": 6, 
+            "upvote_ratio": 0.62, 
+            "url": "https://twitter.com/neilmagny/status/715886461690580992", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FANTASMABOBB", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459545905.0, 
+            "created_utc": 1459517105.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvlqr", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvlqr", 
+            "num_comments": 54, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvlqr/lawler_v_magny_ufc200/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MpjMOI5oGuOICK7eR5GQiqxhbTrHq38HH8eX83l0pm4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=b37b5678bebc33bfa9d21f73378da691", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ab572e774cf92360ec715759c578fc64", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7e3c3f8eb382cdadeffc5fbde9d02b65", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?s=a906f832155e7c4158623d5f4c5ee05b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459520355.861, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/a1rNaOvEI1s8I_Dbe3UDMtXFqGT_rYeBjmHdUH6l3wo.jpg", 
+            "title": "Lawler v Magny UFC200", 
+            "ups": 27, 
+            "upvote_ratio": 0.66, 
+            "url": "https://twitter.com/neilmagny/status/715886461690580992", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FANTASMABOBB", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459545905.0, 
+            "created_utc": 1459517105.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvlqr", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvlqr", 
+            "num_comments": 55, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvlqr/lawler_v_magny_ufc200/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MpjMOI5oGuOICK7eR5GQiqxhbTrHq38HH8eX83l0pm4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=b37b5678bebc33bfa9d21f73378da691", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ab572e774cf92360ec715759c578fc64", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7e3c3f8eb382cdadeffc5fbde9d02b65", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?s=a906f832155e7c4158623d5f4c5ee05b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 33, 
+            "scrape_time": 1459522258.4, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/a1rNaOvEI1s8I_Dbe3UDMtXFqGT_rYeBjmHdUH6l3wo.jpg", 
+            "title": "Lawler v Magny UFC200", 
+            "ups": 33, 
+            "upvote_ratio": 0.68, 
+            "url": "https://twitter.com/neilmagny/status/715886461690580992", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FANTASMABOBB", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459545905.0, 
+            "created_utc": 1459517105.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvlqr", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvlqr", 
+            "num_comments": 55, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvlqr/lawler_v_magny_ufc200/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MpjMOI5oGuOICK7eR5GQiqxhbTrHq38HH8eX83l0pm4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=b37b5678bebc33bfa9d21f73378da691", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=ab572e774cf92360ec715759c578fc64", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7e3c3f8eb382cdadeffc5fbde9d02b65", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/3ug0dbrfepJo4QH7Iz1Y7mOUzyl6URm1s8GFMHmSTXM.jpg?s=a906f832155e7c4158623d5f4c5ee05b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 29, 
+            "scrape_time": 1459523464.255, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/a1rNaOvEI1s8I_Dbe3UDMtXFqGT_rYeBjmHdUH6l3wo.jpg", 
+            "title": "Lawler v Magny UFC200", 
+            "ups": 29, 
+            "upvote_ratio": 0.67, 
+            "url": "https://twitter.com/neilmagny/status/715886461690580992", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

@@ -1,0 +1,3310 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540358.431, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540954.431, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540958.587, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459541554.448, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.44, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459541562.457, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.44, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459542154.456, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459542164.541, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459542756.498, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.44, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459542766.683, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.44, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459543354.466, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.44, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459543366.507, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.44, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459543954.47, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.47, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459543970.532, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.47, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459544554.445, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459544574.592, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459545154.474, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459545176.607, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459545754.496, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459545778.638, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459546354.49, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459546380.655, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459546954.512, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459546988.467, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459547554.504, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459547600.429, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548154.529, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548200.427, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548754.498, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548802.425, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459549371.598, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 2, 
+            "upvote_ratio": 0.54, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459549435.514, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 2, 
+            "upvote_ratio": 0.54, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459549957.392, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 1, 
+            "upvote_ratio": 0.52, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459550027.341, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 1, 
+            "upvote_ratio": 0.52, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459550554.525, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 4, 
+            "upvote_ratio": 0.58, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459550632.46, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 4, 
+            "upvote_ratio": 0.58, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459551154.504, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 4, 
+            "upvote_ratio": 0.58, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459551754.474, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 5, 
+            "upvote_ratio": 0.59, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MishaNakMuayBJJ", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459568634.0, 
+            "created_utc": 1459539834.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxn83", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxn83", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxn83/the_problem_with_diazmcgregor_2/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "qOSfc39kEFLGiRlLj5a-P8_AsrkMvp6oEWQPgb-CI6w", 
+                        "resolutions": [
+                            {
+                                "height": 53, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=66e25c8ed60726e529d2f82d40d7899d", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 106, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=d0cd3c406ece3a1194f35a83ad128750", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 157, 
+                                "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0e83306a71796fe5a1d5e020777dd384", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 280, 
+                            "url": "https://i.redditmedia.com/KnYhCQ5Qo06hL8GK4Z33j6JjqVWDpyIVtLZ-24hdF3w.jpg?s=7a22d0b237754ef540d7c972848f160e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459552354.467, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/m2ZgziVaJjTebKRldwHSnAKsWKt6cocUbULrBRA-ofA.jpg", 
+            "title": "THE PROBLEM WITH DIAZ-MCGREGOR 2", 
+            "ups": 5, 
+            "upvote_ratio": 0.6, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Problem-with-DiazMcGregor-2-102701", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

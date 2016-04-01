@@ -1,0 +1,1942 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459546984.448, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459547582.464, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459547592.513, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459548182.449, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 3, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459548192.671, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 3, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459548782.455, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459548794.543, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459549399.547, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 5, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459549419.635, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 5, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459549985.387, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 7, 
+            "upvote_ratio": 0.73, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459550009.547, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 7, 
+            "upvote_ratio": 0.73, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459550582.504, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 7, 
+            "upvote_ratio": 0.73, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459550610.717, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 7, 
+            "upvote_ratio": 0.73, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459551182.458, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 8, 
+            "upvote_ratio": 0.75, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459551214.421, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 8, 
+            "upvote_ratio": 0.75, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459551782.489, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 8, 
+            "upvote_ratio": 0.75, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459551822.45, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 8, 
+            "upvote_ratio": 0.75, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459552382.477, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 8, 
+            "upvote_ratio": 0.75, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "tekprodfx16", 
+            "author_flair_css_class": "AF", 
+            "author_flair_text": "Afghanistan", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575371.0, 
+            "created_utc": 1459546571.0, 
+            "distinguished": null, 
+            "domain": "mmamania.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cya0s", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cya0s", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cya0s/ronda_rousey_revolution_video_for_ufc_193_fight/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "aW_A8H6wfYXKRv2bI3My3PmUlNTkMm9IokqPxgTNtck", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24d3c5a249238a7de9244720bf31d627", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c40414a21f52ef76811bcebcea383bbe", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=0abe640612771ba4f4d47a582dc2725a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=3eb2add310ac40231d63a0a23f23fb85", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=e517f931c5c5a2acc129475a93b5dca4", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=cd7a6f8f37e4c5dbe48dca16eb64a3c4", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/KPlMGKyu_1aDjxjEoJSTyOXlc3B1ahUyturws6yT5_c.jpg?s=09705d98a7a7fee78098a28846a012fe", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459552426.429, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Be3wj0wWJiS--LznLeDQpawsMzSODIvhgyuhGiHHj40.jpg", 
+            "title": "Ronda Rousey 'Revolution' video for UFC 193 fight against Holly Holm nabs Sports Emmy Award nomination", 
+            "ups": 8, 
+            "upvote_ratio": 0.75, 
+            "url": "http://www.mmamania.com/2016/4/1/11348328/ronda-rousey-revolution-video-ufc-193-fight-holly-holm-sports-emmy-award-nomination-mma", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

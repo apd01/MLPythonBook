@@ -1,0 +1,921 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheCooligan", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Cruz", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459535828.0, 
+            "created_utc": 1459507028.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv0c3", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv0c3", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv0c3/ufc_197_free_fight_henry_cejudo_vs_dustin_kimura/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OreM0tNc97ZMs_VtME9YgfzJPZ1zCxAxoirjkqMurhk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=7f7baf4a57bb78817e142a13eb0fd5b3", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4793d8652ac50b66ed9f9172913746cc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d40bc3ce73a756386446699cbbbdc5af", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?s=b11bdbfb8f6888079b2efc46b97cda00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459518158.809, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4Kr4izElYXpHfghYrTRYSUEYrPs_2L6Y0V6UbabsBWU.jpg", 
+            "title": "UFC 197 free fight - Henry cejudo vs Dustin Kimura", 
+            "ups": 15, 
+            "upvote_ratio": 0.81, 
+            "url": "https://youtu.be/B_mErNLZO6w", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheCooligan", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Cruz", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459535828.0, 
+            "created_utc": 1459507028.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv0c3", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv0c3", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv0c3/ufc_197_free_fight_henry_cejudo_vs_dustin_kimura/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OreM0tNc97ZMs_VtME9YgfzJPZ1zCxAxoirjkqMurhk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=7f7baf4a57bb78817e142a13eb0fd5b3", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4793d8652ac50b66ed9f9172913746cc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d40bc3ce73a756386446699cbbbdc5af", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?s=b11bdbfb8f6888079b2efc46b97cda00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459520328.201, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4Kr4izElYXpHfghYrTRYSUEYrPs_2L6Y0V6UbabsBWU.jpg", 
+            "title": "UFC 197 free fight - Henry cejudo vs Dustin Kimura", 
+            "ups": 20, 
+            "upvote_ratio": 0.83, 
+            "url": "https://youtu.be/B_mErNLZO6w", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheCooligan", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Cruz", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459535828.0, 
+            "created_utc": 1459507028.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv0c3", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv0c3", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv0c3/ufc_197_free_fight_henry_cejudo_vs_dustin_kimura/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OreM0tNc97ZMs_VtME9YgfzJPZ1zCxAxoirjkqMurhk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=7f7baf4a57bb78817e142a13eb0fd5b3", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4793d8652ac50b66ed9f9172913746cc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d40bc3ce73a756386446699cbbbdc5af", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?s=b11bdbfb8f6888079b2efc46b97cda00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459520367.541, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4Kr4izElYXpHfghYrTRYSUEYrPs_2L6Y0V6UbabsBWU.jpg", 
+            "title": "UFC 197 free fight - Henry cejudo vs Dustin Kimura", 
+            "ups": 20, 
+            "upvote_ratio": 0.83, 
+            "url": "https://youtu.be/B_mErNLZO6w", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheCooligan", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Cruz", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459535828.0, 
+            "created_utc": 1459507028.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv0c3", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv0c3", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv0c3/ufc_197_free_fight_henry_cejudo_vs_dustin_kimura/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OreM0tNc97ZMs_VtME9YgfzJPZ1zCxAxoirjkqMurhk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=7f7baf4a57bb78817e142a13eb0fd5b3", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4793d8652ac50b66ed9f9172913746cc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d40bc3ce73a756386446699cbbbdc5af", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?s=b11bdbfb8f6888079b2efc46b97cda00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459522234.144, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4Kr4izElYXpHfghYrTRYSUEYrPs_2L6Y0V6UbabsBWU.jpg", 
+            "title": "UFC 197 free fight - Henry cejudo vs Dustin Kimura", 
+            "ups": 26, 
+            "upvote_ratio": 0.86, 
+            "url": "https://youtu.be/B_mErNLZO6w", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheCooligan", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Cruz", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459535828.0, 
+            "created_utc": 1459507028.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv0c3", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv0c3", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv0c3/ufc_197_free_fight_henry_cejudo_vs_dustin_kimura/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OreM0tNc97ZMs_VtME9YgfzJPZ1zCxAxoirjkqMurhk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=7f7baf4a57bb78817e142a13eb0fd5b3", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4793d8652ac50b66ed9f9172913746cc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d40bc3ce73a756386446699cbbbdc5af", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?s=b11bdbfb8f6888079b2efc46b97cda00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459522280.036, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4Kr4izElYXpHfghYrTRYSUEYrPs_2L6Y0V6UbabsBWU.jpg", 
+            "title": "UFC 197 free fight - Henry cejudo vs Dustin Kimura", 
+            "ups": 26, 
+            "upvote_ratio": 0.86, 
+            "url": "https://youtu.be/B_mErNLZO6w", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheCooligan", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Cruz", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459535828.0, 
+            "created_utc": 1459507028.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv0c3", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv0c3", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv0c3/ufc_197_free_fight_henry_cejudo_vs_dustin_kimura/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OreM0tNc97ZMs_VtME9YgfzJPZ1zCxAxoirjkqMurhk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=7f7baf4a57bb78817e142a13eb0fd5b3", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4793d8652ac50b66ed9f9172913746cc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d40bc3ce73a756386446699cbbbdc5af", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?s=b11bdbfb8f6888079b2efc46b97cda00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 34, 
+            "scrape_time": 1459523438.091, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4Kr4izElYXpHfghYrTRYSUEYrPs_2L6Y0V6UbabsBWU.jpg", 
+            "title": "UFC 197 free fight - Henry cejudo vs Dustin Kimura", 
+            "ups": 34, 
+            "upvote_ratio": 0.91, 
+            "url": "https://youtu.be/B_mErNLZO6w", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheCooligan", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Cruz", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459535828.0, 
+            "created_utc": 1459507028.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv0c3", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv0c3", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv0c3/ufc_197_free_fight_henry_cejudo_vs_dustin_kimura/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OreM0tNc97ZMs_VtME9YgfzJPZ1zCxAxoirjkqMurhk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=7f7baf4a57bb78817e142a13eb0fd5b3", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4793d8652ac50b66ed9f9172913746cc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d40bc3ce73a756386446699cbbbdc5af", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/yp0M4Wj8it1hddAWRmwTMNcKM-aQz5-0PADx8sdr0gg.jpg?s=b11bdbfb8f6888079b2efc46b97cda00", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 34, 
+            "scrape_time": 1459523499.972, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "UFC - Ultimate Fighting Championship", 
+                    "author_url": "https://www.youtube.com/user/UFC", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/B_mErNLZO6w/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 197 Free Fight: Henry Cejudo vs Dustin Kimura", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/B_mErNLZO6w?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/4Kr4izElYXpHfghYrTRYSUEYrPs_2L6Y0V6UbabsBWU.jpg", 
+            "title": "UFC 197 free fight - Henry cejudo vs Dustin Kimura", 
+            "ups": 34, 
+            "upvote_ratio": 0.91, 
+            "url": "https://youtu.be/B_mErNLZO6w", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

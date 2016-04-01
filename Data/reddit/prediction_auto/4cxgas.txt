@@ -1,0 +1,2580 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459538530.812, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459539142.461, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.47, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459539150.519, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.47, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459539742.49, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459539754.518, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540342.457, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540358.551, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540942.488, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.46, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459540958.703, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.46, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459541542.5, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459542142.512, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459542744.498, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.46, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459543342.488, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459543942.556, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459544542.542, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459545142.508, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459545742.508, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459546342.546, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459546942.548, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.47, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459547542.545, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.47, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548142.563, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548742.473, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459549359.643, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 1, 
+            "upvote_ratio": 0.52, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459549945.513, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.47, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459550542.664, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 1, 
+            "upvote_ratio": 0.52, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459551142.515, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459551742.549, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "o0-", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566688.0, 
+            "created_utc": 1459537888.0, 
+            "distinguished": null, 
+            "domain": "fightland.vice.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxgas", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxgas", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxgas/mcgregor_vs_diaz_3_announced_for_ufc_201/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "ep4xSoaj_GWMsz2NmEdvTj9Nn4_j3ggpIi1Q8g7Z0b8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=24ac8ba74744ad9b40fb800f86fd7840", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9864161615a452c2f2d24ebba4009a0f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1e9d3b762afb80a4aee5f7b54e0493ce", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c607883a4d55dc6a042be53aba5a3996", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 366, 
+                            "url": "https://i.redditmedia.com/NGaHhqN50q9xxFcz07pdJBJfrtYVvn8N-cAOgN9Rrrs.jpg?s=2e825b4bcae2aa658db5af88cb7e07d3", 
+                            "width": 650
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459552342.513, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Qswpa83BTVKDcctrMQ-zcnMoOrUy2P10O24KpLrpmHE.jpg", 
+            "title": "McGregor vs. Diaz 3 Announced for UFC 201", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://fightland.vice.com/blog/mcgregor-vs-diaz-3-announced-for-ufc-201", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

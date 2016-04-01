@@ -1,0 +1,874 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459455974.996, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 1, 
+            "upvote_ratio": 0.6, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459457766.578, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459457790.753, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458592.42, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458628.392, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459518100.839, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 0, 
+            "upvote_ratio": 0.47, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520272.188, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 0, 
+            "upvote_ratio": 0.4, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459522172.098, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 0, 
+            "upvote_ratio": 0.4, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523376.012, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 0, 
+            "upvote_ratio": 0.38, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Fergulati", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459483967.0, 
+            "created_utc": 1459455167.0, 
+            "distinguished": null, 
+            "domain": "thebitcoinpodcast.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cru4k", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cru4k", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cru4k/we_interviewed_jon_fitch_world_series_of_fighting/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "I-5EOrj2I05jUjw5kmiXAD2daql9qjItZyuwEa3LbRc", 
+                        "resolutions": [
+                            {
+                                "height": 98, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=ebdc8678957cabf93bd821aa7aec0fc4", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 196, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=51c788e1f251377ed22a5cb94a568a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 291, 
+                                "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ddd75ca99941bb78ed5e74f546f2847", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 546, 
+                            "url": "https://i.redditmedia.com/4lFkigLZBkEBt1X-wWSmxAKUZPTH8sy84Zxebg6qpLE.jpg?s=219e0d954633c7ac793b218460a0606f", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459524790.489, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5nI6od6NGX6J_1VhNqb1IkRScYZ_ioq4EjSw3mNKKmg.jpg", 
+            "title": "We interviewed Jon Fitch, World Series of Fighting welter weight contender, and first crypto-company sponsored fighter.", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "http://thebitcoinpodcast.com/episode-49/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

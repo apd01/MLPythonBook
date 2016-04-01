@@ -1,0 +1,3571 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459538540.867, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 5, 
+            "upvote_ratio": 0.78, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459539132.459, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 5, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459539150.597, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 5, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459539732.475, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 7, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459539754.597, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 7, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459540332.448, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 6, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459540358.615, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 6, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459540932.449, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 8, 
+            "upvote_ratio": 0.72, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459540958.773, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 8, 
+            "upvote_ratio": 0.72, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459541532.441, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 8, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459541564.443, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 8, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459542132.446, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 7, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459542166.441, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 7, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459542734.511, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 9, 
+            "upvote_ratio": 0.68, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459542768.418, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 9, 
+            "upvote_ratio": 0.68, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459543332.589, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 10, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459543368.416, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 10, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459543932.462, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 11, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459543974.416, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 11, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459544532.477, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 12, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459544578.452, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 12, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459545132.475, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 12, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459545182.422, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 12, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459545732.455, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 13, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459545784.42, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 13, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459546332.53, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 14, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459546388.465, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 14, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459546932.459, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 14, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459546998.419, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 14, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459547532.479, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 14, 
+            "upvote_ratio": 0.68, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459547610.453, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 14, 
+            "upvote_ratio": 0.68, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459548132.467, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 14, 
+            "upvote_ratio": 0.68, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459548210.422, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 14, 
+            "upvote_ratio": 0.68, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459548732.472, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 12, 
+            "upvote_ratio": 0.65, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459548812.41, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 12, 
+            "upvote_ratio": 0.65, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459549349.566, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 16, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459549935.45, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 17, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459550532.474, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 16, 
+            "upvote_ratio": 0.69, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 19, 
+            "scrape_time": 1459551132.494, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 19, 
+            "upvote_ratio": 0.71, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459551732.471, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 20, 
+            "upvote_ratio": 0.72, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "allelbows", 
+            "author_flair_css_class": "approved", 
+            "author_flair_text": "Esther Lin | Photographer", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565816.0, 
+            "created_utc": 1459537016.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxd2v", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ans", 
+            "link_flair_text": "Editorial", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxd2v", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxd2v/editorial_jordan_breens_oped_on_jon_jones_the/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zeOLUEjeDYw4g6U27qwwIPI6ksm7Uxp9hGnDm0lgGdE", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=423997734191c686f1146cf331287ea2", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a6b813f31c051be2f3dc837b3e5113ab", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7dcc36e11f8bb0a63feaefdfab2cbb73", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/axMAHMKxnDWmOO0_kVFcF4T0l7N7-Svw823a2nFNMVw.jpg?s=2df9d8b0219aadc54c426fbde0e14c01", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 23, 
+            "scrape_time": 1459552332.504, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/b7fgvpCfb1k1wAG5bGulySilg86boVnwFinY-h9-lOM.jpg", 
+            "title": "[Editorial] Jordan Breen's Op-Ed on Jon Jones, the myth of Jones the man vs Jones the athlete", 
+            "ups": 23, 
+            "upvote_ratio": 0.74, 
+            "url": "http://www.sherdog.com/news/articles/Opinion-The-Man-His-Myths-and-the-Devil-Inside-Him-102723", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

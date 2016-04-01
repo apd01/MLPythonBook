@@ -1,0 +1,1126 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459455110.821, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 4, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459455940.966, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 4, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459455980.964, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 4, 
+            "upvote_ratio": 0.7, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459457741.54, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 4, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459457808.524, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 4, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459458570.433, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 3, 
+            "upvote_ratio": 0.64, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459518078.864, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 7, 
+            "upvote_ratio": 0.65, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459520250.178, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 5, 
+            "upvote_ratio": 0.61, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459522150.093, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 8, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459523353.964, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 8, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TrademarkMMA", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480121.0, 
+            "created_utc": 1459451321.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjd2", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjd2", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjd2/keith_berish_out_jake_collier_now_meets_alberto/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2EoQ6ZiOdZ-NalW7V3C4djNnLCXJSMUvribcZBDjA6Y", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5205f41c30dee057c843ce9516ab76da", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2db4aaecdc02098e9ff17902b6df901", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f8c4da6e3c876598488818458025d", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=af656aeb0883839fe0165d064988ce39", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=278b81cc0f205276d6afe0e82949b22f", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ab2221d03b3ac6d5fca77579d281fa07", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/G13LnbdxcfcN2RhM4ZMGlQIWl7oukmijqzPAuM7ABTM.jpg?s=ec1c21e27a8287c2a5e39efb16e0cab5", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459524768.489, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Iby_y9jR1Wa_Y7k4VkODFYzZIBXhrxTDZ3tJvkRVRUQ.jpg", 
+            "title": "Keith Berish out, Jake Collier now meets Alberto Uda at UFC Fight Night 88 in Las Vegas", 
+            "ups": 7, 
+            "upvote_ratio": 0.67, 
+            "url": "http://www.mmafighting.com/2016/3/31/11338996/undefeated-alberto-uda-signs-with-the-ufc-replaces-keith-berish-vs", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

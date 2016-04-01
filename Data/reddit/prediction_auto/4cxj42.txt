@@ -1,0 +1,3484 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459539150.487, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 6, 
+            "upvote_ratio": 0.75, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459539746.519, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 10, 
+            "upvote_ratio": 0.78, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459539754.49, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 10, 
+            "upvote_ratio": 0.78, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459540346.532, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 26, 
+            "upvote_ratio": 0.84, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459540358.52, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 26, 
+            "upvote_ratio": 0.84, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 19, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 33, 
+            "scrape_time": 1459540946.569, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 33, 
+            "upvote_ratio": 0.81, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 19, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 33, 
+            "scrape_time": 1459540958.668, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 33, 
+            "upvote_ratio": 0.81, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 23, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 44, 
+            "scrape_time": 1459541546.552, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 44, 
+            "upvote_ratio": 0.82, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 23, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 44, 
+            "scrape_time": 1459541562.545, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 44, 
+            "upvote_ratio": 0.82, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 63, 
+            "scrape_time": 1459542146.721, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 63, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 63, 
+            "scrape_time": 1459542164.637, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 63, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 31, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 70, 
+            "scrape_time": 1459542748.601, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 70, 
+            "upvote_ratio": 0.84, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 31, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 70, 
+            "scrape_time": 1459542766.787, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 70, 
+            "upvote_ratio": 0.84, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 35, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 92, 
+            "scrape_time": 1459543346.654, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 92, 
+            "upvote_ratio": 0.87, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 35, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 92, 
+            "scrape_time": 1459543366.62, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 92, 
+            "upvote_ratio": 0.87, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 45, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 108, 
+            "scrape_time": 1459543946.646, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 108, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 45, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 108, 
+            "scrape_time": 1459543970.657, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 108, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 49, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 125, 
+            "scrape_time": 1459544546.706, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 125, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 49, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 125, 
+            "scrape_time": 1459544574.723, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 125, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 62, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 133, 
+            "scrape_time": 1459545146.705, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 133, 
+            "upvote_ratio": 0.87, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 62, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 133, 
+            "scrape_time": 1459545178.466, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 133, 
+            "upvote_ratio": 0.87, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 72, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 141, 
+            "scrape_time": 1459545746.69, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 141, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 72, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 141, 
+            "scrape_time": 1459545780.49, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 141, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 75, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 153, 
+            "scrape_time": 1459546346.914, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 153, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 75, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 153, 
+            "scrape_time": 1459546384.489, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 153, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 80, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 164, 
+            "scrape_time": 1459546946.779, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 164, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 80, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 164, 
+            "scrape_time": 1459546994.482, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 164, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 82, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 175, 
+            "scrape_time": 1459547546.767, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 175, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 82, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 175, 
+            "scrape_time": 1459547606.487, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 175, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 83, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 192, 
+            "scrape_time": 1459548146.981, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 192, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 83, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 192, 
+            "scrape_time": 1459548206.479, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 192, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 88, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 201, 
+            "scrape_time": 1459548746.861, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 201, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 88, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 201, 
+            "scrape_time": 1459548808.491, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 201, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 93, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 210, 
+            "scrape_time": 1459549363.931, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 210, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 93, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 210, 
+            "scrape_time": 1459549441.582, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 210, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 97, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 229, 
+            "scrape_time": 1459549949.807, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 229, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 100, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 238, 
+            "scrape_time": 1459550547.059, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 238, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 101, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 247, 
+            "scrape_time": 1459551146.978, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 247, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 104, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 253, 
+            "scrape_time": 1459551746.936, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 253, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FullerTalksAlot", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459567471.0, 
+            "created_utc": 1459538671.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxj42", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxj42", 
+            "num_comments": 109, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxj42/man_suing_the_cop_who_cited_jon_jones_was_on/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "dWbmHa-eTMTuGyYMHxFqGnbCP9xw55nFkqSRsgHNoHw", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1d158a92c944ed7c42f3c3a0eb4dccc8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=580cff7a41d4bbd2f5f22ce682b0a73d", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6f619c68ae76ff1399d699f2b3dc4079", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/I8EOedZKswo7VNVPOVS0BcmDNZLf2TFXMO9KPwU81TU.jpg?s=88f4d70bfaaa17660be118002ea58ad7", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 259, 
+            "scrape_time": 1459552347.066, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/7NkpAa9LZinsxmUTfvtl-W-qu-sUW5sSrLZ7kVEoHw4.jpg", 
+            "title": "Man suing the cop who cited Jon Jones was on parole for a seventh DWI offense", 
+            "ups": 259, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/marc_raimondi/status/715980297054003200", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

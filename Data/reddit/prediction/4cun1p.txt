@@ -1,0 +1,949 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Spddracer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"the fourth midget\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459527476.0, 
+            "created_utc": 1459498676.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cun1p", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/JSW-2CbnlVE/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cun1p", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cun1p/videoggn_chuck_liddell_snoop/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "grSmVS07XAxICVsY59k5b0RCNm1kXr395AkRUe9lyUw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9272fa95c90239ce556ec4b55fee2982", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=0eb86c5e37c0ba55af429063527fc41b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9207e13056d2ef9d4326106748affdb1", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?s=4c3b43825b0d29b7fcfa1c3735580ba0", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459518170.81, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/OZqMP-MKYa8xYTB5vAsTin0xkfhw8ArFmC0LOFQ5jxE.jpg", 
+            "title": "[Video]GGN Chuck Liddell & Snoop", 
+            "ups": 1, 
+            "upvote_ratio": 0.55, 
+            "url": "https://www.youtube.com/attribution_link?a=x_ebf_Sk6IY&u=%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Spddracer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"the fourth midget\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459527476.0, 
+            "created_utc": 1459498676.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cun1p", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/JSW-2CbnlVE/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cun1p", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cun1p/videoggn_chuck_liddell_snoop/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "grSmVS07XAxICVsY59k5b0RCNm1kXr395AkRUe9lyUw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9272fa95c90239ce556ec4b55fee2982", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=0eb86c5e37c0ba55af429063527fc41b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9207e13056d2ef9d4326106748affdb1", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?s=4c3b43825b0d29b7fcfa1c3735580ba0", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520316.232, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/OZqMP-MKYa8xYTB5vAsTin0xkfhw8ArFmC0LOFQ5jxE.jpg", 
+            "title": "[Video]GGN Chuck Liddell & Snoop", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/attribution_link?a=x_ebf_Sk6IY&u=%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Spddracer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"the fourth midget\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459527476.0, 
+            "created_utc": 1459498676.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cun1p", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/JSW-2CbnlVE/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cun1p", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cun1p/videoggn_chuck_liddell_snoop/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "grSmVS07XAxICVsY59k5b0RCNm1kXr395AkRUe9lyUw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9272fa95c90239ce556ec4b55fee2982", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=0eb86c5e37c0ba55af429063527fc41b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9207e13056d2ef9d4326106748affdb1", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?s=4c3b43825b0d29b7fcfa1c3735580ba0", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520379.534, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/OZqMP-MKYa8xYTB5vAsTin0xkfhw8ArFmC0LOFQ5jxE.jpg", 
+            "title": "[Video]GGN Chuck Liddell & Snoop", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/attribution_link?a=x_ebf_Sk6IY&u=%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Spddracer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"the fourth midget\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459527476.0, 
+            "created_utc": 1459498676.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cun1p", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/JSW-2CbnlVE/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cun1p", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cun1p/videoggn_chuck_liddell_snoop/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "grSmVS07XAxICVsY59k5b0RCNm1kXr395AkRUe9lyUw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9272fa95c90239ce556ec4b55fee2982", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=0eb86c5e37c0ba55af429063527fc41b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9207e13056d2ef9d4326106748affdb1", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?s=4c3b43825b0d29b7fcfa1c3735580ba0", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459522222.12, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/OZqMP-MKYa8xYTB5vAsTin0xkfhw8ArFmC0LOFQ5jxE.jpg", 
+            "title": "[Video]GGN Chuck Liddell & Snoop", 
+            "ups": 2, 
+            "upvote_ratio": 0.58, 
+            "url": "https://www.youtube.com/attribution_link?a=x_ebf_Sk6IY&u=%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Spddracer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"the fourth midget\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459527476.0, 
+            "created_utc": 1459498676.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cun1p", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/JSW-2CbnlVE/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cun1p", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cun1p/videoggn_chuck_liddell_snoop/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "grSmVS07XAxICVsY59k5b0RCNm1kXr395AkRUe9lyUw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9272fa95c90239ce556ec4b55fee2982", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=0eb86c5e37c0ba55af429063527fc41b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9207e13056d2ef9d4326106748affdb1", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?s=4c3b43825b0d29b7fcfa1c3735580ba0", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459522292.019, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/OZqMP-MKYa8xYTB5vAsTin0xkfhw8ArFmC0LOFQ5jxE.jpg", 
+            "title": "[Video]GGN Chuck Liddell & Snoop", 
+            "ups": 2, 
+            "upvote_ratio": 0.58, 
+            "url": "https://www.youtube.com/attribution_link?a=x_ebf_Sk6IY&u=%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Spddracer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"the fourth midget\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459527476.0, 
+            "created_utc": 1459498676.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cun1p", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/JSW-2CbnlVE/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cun1p", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cun1p/videoggn_chuck_liddell_snoop/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "grSmVS07XAxICVsY59k5b0RCNm1kXr395AkRUe9lyUw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9272fa95c90239ce556ec4b55fee2982", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=0eb86c5e37c0ba55af429063527fc41b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9207e13056d2ef9d4326106748affdb1", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?s=4c3b43825b0d29b7fcfa1c3735580ba0", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459523425.971, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/OZqMP-MKYa8xYTB5vAsTin0xkfhw8ArFmC0LOFQ5jxE.jpg", 
+            "title": "[Video]GGN Chuck Liddell & Snoop", 
+            "ups": 1, 
+            "upvote_ratio": 0.53, 
+            "url": "https://www.youtube.com/attribution_link?a=x_ebf_Sk6IY&u=%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Spddracer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"the fourth midget\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459527476.0, 
+            "created_utc": 1459498676.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cun1p", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/JSW-2CbnlVE/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cun1p", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cun1p/videoggn_chuck_liddell_snoop/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "grSmVS07XAxICVsY59k5b0RCNm1kXr395AkRUe9lyUw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9272fa95c90239ce556ec4b55fee2982", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=0eb86c5e37c0ba55af429063527fc41b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9207e13056d2ef9d4326106748affdb1", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/6qeXbYPuPakgYYo7LIlV2-4gPcQ57MiERztZZDZKUiY.jpg?s=4c3b43825b0d29b7fcfa1c3735580ba0", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459523511.937, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "westfesttv", 
+                    "author_url": "https://www.youtube.com/user/westfesttv", 
+                    "description": "Former UFC Light Heavyweight Champion Chuck Liddell sits down with Nemo to discuss his fighting career and what he's been up to since stepping out of the octagon. They also test out Electronic Arts new mobile video game Need For Speed: No Limits. All this and more on this week's GGN...", 
+                    "height": 338, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 480, 
+                    "title": "GGN Chuck Liddell & Snoop", 
+                    "type": "video", 
+                    "url": "http://www.youtube.com/watch?v=JSW-2CbnlVE", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJSW-2CbnlVE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJSW-2CbnlVE%2Fhqdefault.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/OZqMP-MKYa8xYTB5vAsTin0xkfhw8ArFmC0LOFQ5jxE.jpg", 
+            "title": "[Video]GGN Chuck Liddell & Snoop", 
+            "ups": 1, 
+            "upvote_ratio": 0.53, 
+            "url": "https://www.youtube.com/attribution_link?a=x_ebf_Sk6IY&u=%2Fwatch%3Fv%3DJSW-2CbnlVE%26feature%3Dshare", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

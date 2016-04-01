@@ -1,0 +1,1048 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459455100.85, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459455951.048, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 1, 
+            "upvote_ratio": 0.6, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459455975.077, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 1, 
+            "upvote_ratio": 0.6, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459457756.473, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.43, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459457798.527, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.43, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458580.433, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.33, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458640.435, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.33, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459518088.838, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520260.194, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.36, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459522160.101, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.36, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523364.029, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.4, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "300andWhat", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459482136.0, 
+            "created_utc": 1459453336.0, 
+            "distinguished": null, 
+            "domain": "twitch.tv", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crp3b", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crp3b", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crp3b/jaque_williams_of_the_ufc_is_answering_questions/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zbV3MndwVUEluBdvxcw78unKqnP85GadH0_LiIzI7I4", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f22e369823c9db63b1c6b6d8b87c2843", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=25fc3e4ee8234a9efa1fdc5727d4bea9", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=983922430d4120a167604cd4c81c1a0a", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 600, 
+                            "url": "https://i.redditmedia.com/qY7OpNA95wTmYUJ2fOM7SsrXnbn3RK1J-O1zg0J1RUY.jpg?s=22d5479c0b8e2dc445c27e53f318d15b", 
+                            "width": 600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459524778.527, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/ydiGuvhGtPSO13eqEMfsT8JkLW9JYmmY3WiAvvq-phM.jpg", 
+            "title": "Jaque Williams of the UFC is answering questions live on twitch with Kevin Perrera", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.twitch.tv/theattack", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

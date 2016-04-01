@@ -1,0 +1,1314 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459455968.97, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 3, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459457772.574, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 6, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459457790.715, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 6, 
+            "upvote_ratio": 0.88, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458598.463, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458624.559, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459518106.937, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 25, 
+            "upvote_ratio": 0.77, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459520278.282, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 25, 
+            "upvote_ratio": 0.77, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459522178.157, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 26, 
+            "upvote_ratio": 0.76, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459523382.054, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 26, 
+            "upvote_ratio": 0.77, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Robo_Dragon", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team Magny", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459484275.0, 
+            "created_utc": 1459455475.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cruxo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cruxo", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cruxo/duane_ludwigs_6_second_knockout/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "lf18Lwm87EW18xg1GZYhtVEfeVCP01POkFWUW23gHP4", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f652b27d7a792988150bf2bf0f499092", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=48bd8eceec4d3da506aba2a9a6a606ae", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=723a8d16baead35cf3bbc4ad757f05d9", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/j_2ysgng36qIXn6EWC4bu81Nok36f7hGjxZhbXKhCoI.jpg?s=f8b1b3606ec0a25e88031452bb7d6e53", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459524796.658, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "jess castro", 
+                    "author_url": "https://www.youtube.com/user/MegaAztro", 
+                    "height": 344, 
+                    "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/BGz3zJoxZAc/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jonathan Goulet vs Duane Ludwig", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 459
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/BGz3zJoxZAc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 344, 
+                "scrolling": false, 
+                "width": 459
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/t7NwUY-M_nmf3r6WLIWkHoLJ8rm0twR14S9q0cUmyek.jpg", 
+            "title": "Duane Ludwig's 6 second knockout", 
+            "ups": 27, 
+            "upvote_ratio": 0.77, 
+            "url": "https://www.youtube.com/watch?v=BGz3zJoxZAc", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

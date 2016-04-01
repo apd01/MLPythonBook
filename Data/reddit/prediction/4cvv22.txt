@@ -1,0 +1,397 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "nooger", 
+            "author_flair_css_class": "ca", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459549314.0, 
+            "created_utc": 1459520514.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvv22", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Rzt7oln64AQ/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Live Chat: MMA in New York, UFC Fight Night 85 results and more", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvv22", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvv22/mma_its_a_little_gay_featuring_luke_thomas/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "THW-W1uJUopbm20F-bFLZNGgUL5LhViVEKeVUDVKaNk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=437b1f06c48cbaa032690155c4e3f047", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8d21026d01bd5c0b64687de938ce5251", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9aa874dbe55cf7d68ab57a279d808564", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?s=cc2d80bbce0aa4c006ffc0b32c0ed0a2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459522268.143, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Rzt7oln64AQ/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Live Chat: MMA in New York, UFC Fight Night 85 results and more", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/RUHZRDFRTW49PJLT9nnxKK92d_MRphiGp7pSclC_Qjg.jpg", 
+            "title": "MMA, it's a little gay - featuring Luke Thomas", 
+            "ups": 0, 
+            "upvote_ratio": 0.36, 
+            "url": "https://youtu.be/Rzt7oln64AQ?t=3097", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "nooger", 
+            "author_flair_css_class": "ca", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459549314.0, 
+            "created_utc": 1459520514.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvv22", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Rzt7oln64AQ/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Live Chat: MMA in New York, UFC Fight Night 85 results and more", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvv22", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvv22/mma_its_a_little_gay_featuring_luke_thomas/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "THW-W1uJUopbm20F-bFLZNGgUL5LhViVEKeVUDVKaNk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=437b1f06c48cbaa032690155c4e3f047", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8d21026d01bd5c0b64687de938ce5251", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9aa874dbe55cf7d68ab57a279d808564", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?s=cc2d80bbce0aa4c006ffc0b32c0ed0a2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523474.036, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Rzt7oln64AQ/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Live Chat: MMA in New York, UFC Fight Night 85 results and more", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/RUHZRDFRTW49PJLT9nnxKK92d_MRphiGp7pSclC_Qjg.jpg", 
+            "title": "MMA, it's a little gay - featuring Luke Thomas", 
+            "ups": 0, 
+            "upvote_ratio": 0.41, 
+            "url": "https://youtu.be/Rzt7oln64AQ?t=3097", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "nooger", 
+            "author_flair_css_class": "ca", 
+            "author_flair_text": "Canada", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459549314.0, 
+            "created_utc": 1459520514.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvv22", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Rzt7oln64AQ/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Live Chat: MMA in New York, UFC Fight Night 85 results and more", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvv22", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvv22/mma_its_a_little_gay_featuring_luke_thomas/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "THW-W1uJUopbm20F-bFLZNGgUL5LhViVEKeVUDVKaNk", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=437b1f06c48cbaa032690155c4e3f047", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8d21026d01bd5c0b64687de938ce5251", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=9aa874dbe55cf7d68ab57a279d808564", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NLUXlkvmuLz70kJSs1yAIn_dxSRWofbXYAJ8RIh75YY.jpg?s=cc2d80bbce0aa4c006ffc0b32c0ed0a2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523488.021, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Rzt7oln64AQ/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Live Chat: MMA in New York, UFC Fight Night 85 results and more", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Rzt7oln64AQ?start=3097&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/RUHZRDFRTW49PJLT9nnxKK92d_MRphiGp7pSclC_Qjg.jpg", 
+            "title": "MMA, it's a little gay - featuring Luke Thomas", 
+            "ups": 0, 
+            "upvote_ratio": 0.41, 
+            "url": "https://youtu.be/Rzt7oln64AQ?t=3097", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

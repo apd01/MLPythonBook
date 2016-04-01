@@ -1,0 +1,1016 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459455108.792, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 16, 
+            "upvote_ratio": 0.86, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459455942.985, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 26, 
+            "upvote_ratio": 0.91, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459455978.957, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 26, 
+            "upvote_ratio": 0.91, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459457743.546, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 28, 
+            "upvote_ratio": 0.87, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459457806.526, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 28, 
+            "upvote_ratio": 0.87, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459458572.457, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 31, 
+            "upvote_ratio": 0.86, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 80, 
+            "scrape_time": 1459518080.888, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 80, 
+            "upvote_ratio": 0.86, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 80, 
+            "scrape_time": 1459520252.211, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 80, 
+            "upvote_ratio": 0.86, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 79, 
+            "scrape_time": 1459522152.165, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 79, 
+            "upvote_ratio": 0.86, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 77, 
+            "scrape_time": 1459523356.119, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 77, 
+            "upvote_ratio": 0.86, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "holyshakes", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480161.0, 
+            "created_utc": 1459451361.0, 
+            "distinguished": null, 
+            "domain": "forbes.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crjhq", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crjhq", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crjhq/spike_tv_launching_fighters_first_campaign_for/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "AX5HZdF5d8MZZs18EPsBoilxN7f0ktfKocmKl8W5p3A", 
+                        "resolutions": [
+                            {
+                                "height": 73, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2881f209dc6128726051c96e4f614b98", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 146, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f2d04f725ce7bf0914ffddbcbea73ce5", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1aa7071e2bfd5faa85c87a9c347916f9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 434, 
+                                "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=33f2b510fbb9d31dd4ad7aeb41f4d46b", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 434, 
+                            "url": "https://i.redditmedia.com/-sqgP2sQ9z75tnrEBsfrqQqV4CyxAQtKyz_NGLzBgVw.jpg?s=197f58a00c0a9924ada8fc32d801f2bb", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 75, 
+            "scrape_time": 1459524770.568, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/30XCHcFnyMDLhUpuS6t1tl_xyZrTlwbAmz3F_KiTeC0.jpg", 
+            "title": "Spike TV Launching 'Fighters First' Campaign For Bellator MMA, Combat Sports", 
+            "ups": 75, 
+            "upvote_ratio": 0.85, 
+            "url": "http://www.forbes.com/sites/mattconnolly/2016/03/31/spike-tv-launching-fighters-first-campaign-for-bellator-mma-combat-sports/#20a39d1050fa", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

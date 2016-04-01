@@ -1,0 +1,3658 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 8, 
+            "scrape_time": 1459538534.831, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 8, 
+            "upvote_ratio": 1.0, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459539138.44, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 10, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459539150.558, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 10, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459539738.493, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 10, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459539754.554, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 10, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459540338.456, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 13, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459540358.564, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 13, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459540938.505, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 15, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459540958.717, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 15, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459541538.435, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 17, 
+            "upvote_ratio": 0.9, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459541562.58, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 17, 
+            "upvote_ratio": 0.9, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459542138.444, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 20, 
+            "upvote_ratio": 0.92, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459542164.652, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 20, 
+            "upvote_ratio": 0.92, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 22, 
+            "scrape_time": 1459542740.457, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 22, 
+            "upvote_ratio": 0.92, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 22, 
+            "scrape_time": 1459542766.803, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 22, 
+            "upvote_ratio": 0.92, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459543338.493, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 25, 
+            "upvote_ratio": 0.9, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459543366.639, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 25, 
+            "upvote_ratio": 0.9, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459543938.475, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 26, 
+            "upvote_ratio": 0.91, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459543972.416, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 26, 
+            "upvote_ratio": 0.91, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459544538.488, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 27, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459544576.427, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 27, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459545138.484, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 28, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459545180.455, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 28, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459545738.522, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 27, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459545782.43, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 27, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 32, 
+            "scrape_time": 1459546338.485, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 32, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 32, 
+            "scrape_time": 1459546386.43, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 32, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459546938.481, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.87, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459546996.425, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.87, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459547538.516, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.87, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459547608.439, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.87, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459548138.553, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459548208.433, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.85, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459548738.498, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 31, 
+            "scrape_time": 1459548810.415, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 31, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 37, 
+            "scrape_time": 1459549355.543, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 37, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 37, 
+            "scrape_time": 1459549443.523, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 37, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 34, 
+            "scrape_time": 1459549941.409, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 34, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 37, 
+            "scrape_time": 1459550538.529, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 37, 
+            "upvote_ratio": 0.89, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 34, 
+            "scrape_time": 1459551138.52, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 34, 
+            "upvote_ratio": 0.86, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 37, 
+            "scrape_time": 1459551738.507, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 37, 
+            "upvote_ratio": 0.9, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459566191.0, 
+            "created_utc": 1459537391.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxegm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxegm", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxegm/wsof_flw_champ_bibulatov_vacates_title_to_enter/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "CM-F01bSL6y6yD9RxeMKnQ9NkcrvUoxYhuNfhgo53jI", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c46843054aa4ac1ddb85e66266cd6141", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b13a69ff1b37a7afb8c96df63550454", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=959d227b60bc98f47a3c54a1bf9d8ee6", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/ZY3g18hCG4UXj5QFrF-S2ITmRiby1nRCl1P29y7MxTw.jpg?s=793c6c5c3e53699ec7b948ccd0a1c0e1", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 36, 
+            "scrape_time": 1459552338.508, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/A8lI8TyO5CboegaZ8z5TQmIQMH6cYsdSxrn-o2FhjKA.jpg", 
+            "title": "WSOF FLW champ Bibulatov vacates title to enter Akhmat GP and then sign with UFC", 
+            "ups": 36, 
+            "upvote_ratio": 0.88, 
+            "url": "https://twitter.com/zidansports/status/715937305643638784", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

@@ -1,0 +1,648 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "DaveAP", 
+            "author_flair_css_class": "AU", 
+            "author_flair_text": "Australia", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533984.0, 
+            "created_utc": 1459505184.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cux81", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cux81", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "y8YKfFtzCNkaHReVmB_J-7Oef7C54NLdZ1yw_oJUQzI", 
+                        "resolutions": [
+                            {
+                                "height": 61, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5829e479d927780a1167c04f8b4e9b09", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 123, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9f4874e42054a747b51ed868a5771b62", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 183, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=ab80c8a3dea8c26b8aa9ce3a5077c9ba", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 366, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=6b993251a40fc858d4524dc38680d1c3", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 516, 
+                            "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?s=17ea27bdca7ae39f9d3057216bcddd4b", 
+                            "width": 900
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459518160.919, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "[Concept/rules](https://www.youtube.com/watch?v=BszfPM6oKXQ)\n\n[Card](http://nightmareofbattle.net/ganryujima-announces-third-event/)\n\n[Official Promo video for event](https://www.youtube.com/watch?v=hIN1vOqXcTc)\n\nComplete event:\n\n[Playlist of Event, all 8 videos](http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/)\n\n[1](http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport)\n[2](http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport)\n[3](http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport)\n[4](http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport)\n[5](http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport)\n[6](http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport)\n[7](http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport)\n[8](http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport)\n\n#Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:\n\n- MMA Gloves\n\n- They really focused on the different martial art differences, old school kumite, karate vs boxing style shit\n\n- [Insane walk outs and epic promotion](http://i.imgur.com/1NQJpuH.png)\n\n- [Battles in Samurai suits](http://i.imgur.com/ZEK6xFH.png)\n\n- Giga spinning shit Capoeira\n\n- Promo's to hype dudes up with videos of them beating 70 year old opponents???\n\n- Judges/Refs/Officials not even knowing the rules?? confusion\n\n- Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)\n\n- Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)\n\n- [Surprised this Krav Maga dude did ok](http://i.imgur.com/TDfb2pP.png)\n\n- [Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal](http://i.imgur.com/KrAGUJ4.png)[Pic2](http://i.imgur.com/fVGMT5D.png)\n\n- Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ\n\n- [The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight](http://i.imgur.com/sb3m6dv.png)\n\n- [Fighters don't win trophies, they win mini fish tanks with random shit inside](http://i.imgur.com/Lw72mdM.png)\n\n- [Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training](https://www.youtube.com/watch?v=MO-mVJNL7OM)\n\n- The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian \"Princes\" we have all heard about that will share their huge inheritance with you if you pay the tax\n\n- [Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won](http://i.imgur.com/UTpucwN.png)\n\n- [Suppliments are mandatory in Japan](http://i.imgur.com/zP7RrD9.png)\n\n- [One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei's partner in the 2v2 grappling vs Sakuraba](https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg)\n\nI don't see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live\n\nYes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules\n\n", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=BszfPM6oKXQ\">Concept/rules</a></p>\n\n<p><a href=\"http://nightmareofbattle.net/ganryujima-announces-third-event/\">Card</a></p>\n\n<p><a href=\"https://www.youtube.com/watch?v=hIN1vOqXcTc\">Official Promo video for event</a></p>\n\n<p>Complete event:</p>\n\n<p><a href=\"http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/\">Playlist of Event, all 8 videos</a></p>\n\n<p><a href=\"http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport\">1</a>\n<a href=\"http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport\">2</a>\n<a href=\"http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport\">3</a>\n<a href=\"http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport\">4</a>\n<a href=\"http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport\">5</a>\n<a href=\"http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport\">6</a>\n<a href=\"http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport\">7</a>\n<a href=\"http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport\">8</a></p>\n\n<h1>Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:</h1>\n\n<ul>\n<li><p>MMA Gloves</p></li>\n<li><p>They really focused on the different martial art differences, old school kumite, karate vs boxing style shit</p></li>\n<li><p><a href=\"http://i.imgur.com/1NQJpuH.png\">Insane walk outs and epic promotion</a></p></li>\n<li><p><a href=\"http://i.imgur.com/ZEK6xFH.png\">Battles in Samurai suits</a></p></li>\n<li><p>Giga spinning shit Capoeira</p></li>\n<li><p>Promo&#39;s to hype dudes up with videos of them beating 70 year old opponents???</p></li>\n<li><p>Judges/Refs/Officials not even knowing the rules?? confusion</p></li>\n<li><p>Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)</p></li>\n<li><p>Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)</p></li>\n<li><p><a href=\"http://i.imgur.com/TDfb2pP.png\">Surprised this Krav Maga dude did ok</a></p></li>\n<li><p><a href=\"http://i.imgur.com/KrAGUJ4.png\">Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal</a><a href=\"http://i.imgur.com/fVGMT5D.png\">Pic2</a></p></li>\n<li><p>Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ</p></li>\n<li><p><a href=\"http://i.imgur.com/sb3m6dv.png\">The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight</a></p></li>\n<li><p><a href=\"http://i.imgur.com/Lw72mdM.png\">Fighters don&#39;t win trophies, they win mini fish tanks with random shit inside</a></p></li>\n<li><p><a href=\"https://www.youtube.com/watch?v=MO-mVJNL7OM\">Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training</a></p></li>\n<li><p>The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian &quot;Princes&quot; we have all heard about that will share their huge inheritance with you if you pay the tax</p></li>\n<li><p><a href=\"http://i.imgur.com/UTpucwN.png\">Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won</a></p></li>\n<li><p><a href=\"http://i.imgur.com/zP7RrD9.png\">Suppliments are mandatory in Japan</a></p></li>\n<li><p><a href=\"https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg\">One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei&#39;s partner in the 2v2 grappling vs Sakuraba</a></p></li>\n</ul>\n\n<p>I don&#39;t see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live</p>\n\n<p>Yes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Ganryujima 3 Starting Over! Full Event (5 Hours) Japanese MMA Hybrid, no cage, moat of smoke, highly entertaining, a couple fights in samurai suits, JMMA at its finest, epic production value. I am team moat fighting. Even their own version of Paul Harris. Crazy JMMA", 
+            "ups": 28, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "DaveAP", 
+            "author_flair_css_class": "AU", 
+            "author_flair_text": "Australia", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533984.0, 
+            "created_utc": 1459505184.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cux81", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cux81", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "y8YKfFtzCNkaHReVmB_J-7Oef7C54NLdZ1yw_oJUQzI", 
+                        "resolutions": [
+                            {
+                                "height": 61, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5829e479d927780a1167c04f8b4e9b09", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 123, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9f4874e42054a747b51ed868a5771b62", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 183, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=ab80c8a3dea8c26b8aa9ce3a5077c9ba", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 366, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=6b993251a40fc858d4524dc38680d1c3", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 516, 
+                            "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?s=17ea27bdca7ae39f9d3057216bcddd4b", 
+                            "width": 900
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 37, 
+            "scrape_time": 1459520326.295, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "[Concept/rules](https://www.youtube.com/watch?v=BszfPM6oKXQ)\n\n[Card](http://nightmareofbattle.net/ganryujima-announces-third-event/)\n\n[Official Promo video for event](https://www.youtube.com/watch?v=hIN1vOqXcTc)\n\nComplete event:\n\n[Playlist of Event, all 8 videos](http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/)\n\n[1](http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport)\n[2](http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport)\n[3](http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport)\n[4](http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport)\n[5](http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport)\n[6](http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport)\n[7](http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport)\n[8](http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport)\n\n#Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:\n\n- MMA Gloves\n\n- They really focused on the different martial art differences, old school kumite, karate vs boxing style shit\n\n- [Insane walk outs and epic promotion](http://i.imgur.com/1NQJpuH.png)\n\n- [Battles in Samurai suits](http://i.imgur.com/ZEK6xFH.png)\n\n- Giga spinning shit Capoeira\n\n- Promo's to hype dudes up with videos of them beating 70 year old opponents???\n\n- Judges/Refs/Officials not even knowing the rules?? confusion\n\n- Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)\n\n- Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)\n\n- [Surprised this Krav Maga dude did ok](http://i.imgur.com/TDfb2pP.png)\n\n- [Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal](http://i.imgur.com/KrAGUJ4.png)[Pic2](http://i.imgur.com/fVGMT5D.png)\n\n- Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ\n\n- [The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight](http://i.imgur.com/sb3m6dv.png)\n\n- [Fighters don't win trophies, they win mini fish tanks with random shit inside](http://i.imgur.com/Lw72mdM.png)\n\n- [Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training](https://www.youtube.com/watch?v=MO-mVJNL7OM)\n\n- The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian \"Princes\" we have all heard about that will share their huge inheritance with you if you pay the tax\n\n- [Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won](http://i.imgur.com/UTpucwN.png)\n\n- [Suppliments are mandatory in Japan](http://i.imgur.com/zP7RrD9.png)\n\n- [One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei's partner in the 2v2 grappling vs Sakuraba](https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg)\n\nI don't see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live\n\nYes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules\n\n", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=BszfPM6oKXQ\">Concept/rules</a></p>\n\n<p><a href=\"http://nightmareofbattle.net/ganryujima-announces-third-event/\">Card</a></p>\n\n<p><a href=\"https://www.youtube.com/watch?v=hIN1vOqXcTc\">Official Promo video for event</a></p>\n\n<p>Complete event:</p>\n\n<p><a href=\"http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/\">Playlist of Event, all 8 videos</a></p>\n\n<p><a href=\"http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport\">1</a>\n<a href=\"http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport\">2</a>\n<a href=\"http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport\">3</a>\n<a href=\"http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport\">4</a>\n<a href=\"http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport\">5</a>\n<a href=\"http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport\">6</a>\n<a href=\"http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport\">7</a>\n<a href=\"http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport\">8</a></p>\n\n<h1>Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:</h1>\n\n<ul>\n<li><p>MMA Gloves</p></li>\n<li><p>They really focused on the different martial art differences, old school kumite, karate vs boxing style shit</p></li>\n<li><p><a href=\"http://i.imgur.com/1NQJpuH.png\">Insane walk outs and epic promotion</a></p></li>\n<li><p><a href=\"http://i.imgur.com/ZEK6xFH.png\">Battles in Samurai suits</a></p></li>\n<li><p>Giga spinning shit Capoeira</p></li>\n<li><p>Promo&#39;s to hype dudes up with videos of them beating 70 year old opponents???</p></li>\n<li><p>Judges/Refs/Officials not even knowing the rules?? confusion</p></li>\n<li><p>Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)</p></li>\n<li><p>Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)</p></li>\n<li><p><a href=\"http://i.imgur.com/TDfb2pP.png\">Surprised this Krav Maga dude did ok</a></p></li>\n<li><p><a href=\"http://i.imgur.com/KrAGUJ4.png\">Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal</a><a href=\"http://i.imgur.com/fVGMT5D.png\">Pic2</a></p></li>\n<li><p>Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ</p></li>\n<li><p><a href=\"http://i.imgur.com/sb3m6dv.png\">The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight</a></p></li>\n<li><p><a href=\"http://i.imgur.com/Lw72mdM.png\">Fighters don&#39;t win trophies, they win mini fish tanks with random shit inside</a></p></li>\n<li><p><a href=\"https://www.youtube.com/watch?v=MO-mVJNL7OM\">Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training</a></p></li>\n<li><p>The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian &quot;Princes&quot; we have all heard about that will share their huge inheritance with you if you pay the tax</p></li>\n<li><p><a href=\"http://i.imgur.com/UTpucwN.png\">Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won</a></p></li>\n<li><p><a href=\"http://i.imgur.com/zP7RrD9.png\">Suppliments are mandatory in Japan</a></p></li>\n<li><p><a href=\"https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg\">One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei&#39;s partner in the 2v2 grappling vs Sakuraba</a></p></li>\n</ul>\n\n<p>I don&#39;t see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live</p>\n\n<p>Yes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Ganryujima 3 Starting Over! Full Event (5 Hours) Japanese MMA Hybrid, no cage, moat of smoke, highly entertaining, a couple fights in samurai suits, JMMA at its finest, epic production value. I am team moat fighting. Even their own version of Paul Harris. Crazy JMMA", 
+            "ups": 37, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "DaveAP", 
+            "author_flair_css_class": "AU", 
+            "author_flair_text": "Australia", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533984.0, 
+            "created_utc": 1459505184.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cux81", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cux81", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "y8YKfFtzCNkaHReVmB_J-7Oef7C54NLdZ1yw_oJUQzI", 
+                        "resolutions": [
+                            {
+                                "height": 61, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5829e479d927780a1167c04f8b4e9b09", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 123, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9f4874e42054a747b51ed868a5771b62", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 183, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=ab80c8a3dea8c26b8aa9ce3a5077c9ba", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 366, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=6b993251a40fc858d4524dc38680d1c3", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 516, 
+                            "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?s=17ea27bdca7ae39f9d3057216bcddd4b", 
+                            "width": 900
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 37, 
+            "scrape_time": 1459520369.547, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "[Concept/rules](https://www.youtube.com/watch?v=BszfPM6oKXQ)\n\n[Card](http://nightmareofbattle.net/ganryujima-announces-third-event/)\n\n[Official Promo video for event](https://www.youtube.com/watch?v=hIN1vOqXcTc)\n\nComplete event:\n\n[Playlist of Event, all 8 videos](http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/)\n\n[1](http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport)\n[2](http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport)\n[3](http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport)\n[4](http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport)\n[5](http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport)\n[6](http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport)\n[7](http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport)\n[8](http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport)\n\n#Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:\n\n- MMA Gloves\n\n- They really focused on the different martial art differences, old school kumite, karate vs boxing style shit\n\n- [Insane walk outs and epic promotion](http://i.imgur.com/1NQJpuH.png)\n\n- [Battles in Samurai suits](http://i.imgur.com/ZEK6xFH.png)\n\n- Giga spinning shit Capoeira\n\n- Promo's to hype dudes up with videos of them beating 70 year old opponents???\n\n- Judges/Refs/Officials not even knowing the rules?? confusion\n\n- Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)\n\n- Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)\n\n- [Surprised this Krav Maga dude did ok](http://i.imgur.com/TDfb2pP.png)\n\n- [Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal](http://i.imgur.com/KrAGUJ4.png)[Pic2](http://i.imgur.com/fVGMT5D.png)\n\n- Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ\n\n- [The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight](http://i.imgur.com/sb3m6dv.png)\n\n- [Fighters don't win trophies, they win mini fish tanks with random shit inside](http://i.imgur.com/Lw72mdM.png)\n\n- [Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training](https://www.youtube.com/watch?v=MO-mVJNL7OM)\n\n- The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian \"Princes\" we have all heard about that will share their huge inheritance with you if you pay the tax\n\n- [Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won](http://i.imgur.com/UTpucwN.png)\n\n- [Suppliments are mandatory in Japan](http://i.imgur.com/zP7RrD9.png)\n\n- [One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei's partner in the 2v2 grappling vs Sakuraba](https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg)\n\nI don't see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live\n\nYes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules\n\n", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=BszfPM6oKXQ\">Concept/rules</a></p>\n\n<p><a href=\"http://nightmareofbattle.net/ganryujima-announces-third-event/\">Card</a></p>\n\n<p><a href=\"https://www.youtube.com/watch?v=hIN1vOqXcTc\">Official Promo video for event</a></p>\n\n<p>Complete event:</p>\n\n<p><a href=\"http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/\">Playlist of Event, all 8 videos</a></p>\n\n<p><a href=\"http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport\">1</a>\n<a href=\"http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport\">2</a>\n<a href=\"http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport\">3</a>\n<a href=\"http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport\">4</a>\n<a href=\"http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport\">5</a>\n<a href=\"http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport\">6</a>\n<a href=\"http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport\">7</a>\n<a href=\"http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport\">8</a></p>\n\n<h1>Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:</h1>\n\n<ul>\n<li><p>MMA Gloves</p></li>\n<li><p>They really focused on the different martial art differences, old school kumite, karate vs boxing style shit</p></li>\n<li><p><a href=\"http://i.imgur.com/1NQJpuH.png\">Insane walk outs and epic promotion</a></p></li>\n<li><p><a href=\"http://i.imgur.com/ZEK6xFH.png\">Battles in Samurai suits</a></p></li>\n<li><p>Giga spinning shit Capoeira</p></li>\n<li><p>Promo&#39;s to hype dudes up with videos of them beating 70 year old opponents???</p></li>\n<li><p>Judges/Refs/Officials not even knowing the rules?? confusion</p></li>\n<li><p>Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)</p></li>\n<li><p>Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)</p></li>\n<li><p><a href=\"http://i.imgur.com/TDfb2pP.png\">Surprised this Krav Maga dude did ok</a></p></li>\n<li><p><a href=\"http://i.imgur.com/KrAGUJ4.png\">Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal</a><a href=\"http://i.imgur.com/fVGMT5D.png\">Pic2</a></p></li>\n<li><p>Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ</p></li>\n<li><p><a href=\"http://i.imgur.com/sb3m6dv.png\">The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight</a></p></li>\n<li><p><a href=\"http://i.imgur.com/Lw72mdM.png\">Fighters don&#39;t win trophies, they win mini fish tanks with random shit inside</a></p></li>\n<li><p><a href=\"https://www.youtube.com/watch?v=MO-mVJNL7OM\">Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training</a></p></li>\n<li><p>The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian &quot;Princes&quot; we have all heard about that will share their huge inheritance with you if you pay the tax</p></li>\n<li><p><a href=\"http://i.imgur.com/UTpucwN.png\">Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won</a></p></li>\n<li><p><a href=\"http://i.imgur.com/zP7RrD9.png\">Suppliments are mandatory in Japan</a></p></li>\n<li><p><a href=\"https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg\">One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei&#39;s partner in the 2v2 grappling vs Sakuraba</a></p></li>\n</ul>\n\n<p>I don&#39;t see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live</p>\n\n<p>Yes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Ganryujima 3 Starting Over! Full Event (5 Hours) Japanese MMA Hybrid, no cage, moat of smoke, highly entertaining, a couple fights in samurai suits, JMMA at its finest, epic production value. I am team moat fighting. Even their own version of Paul Harris. Crazy JMMA", 
+            "ups": 37, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "DaveAP", 
+            "author_flair_css_class": "AU", 
+            "author_flair_text": "Australia", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533984.0, 
+            "created_utc": 1459505184.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cux81", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cux81", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "y8YKfFtzCNkaHReVmB_J-7Oef7C54NLdZ1yw_oJUQzI", 
+                        "resolutions": [
+                            {
+                                "height": 61, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5829e479d927780a1167c04f8b4e9b09", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 123, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9f4874e42054a747b51ed868a5771b62", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 183, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=ab80c8a3dea8c26b8aa9ce3a5077c9ba", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 366, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=6b993251a40fc858d4524dc38680d1c3", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 516, 
+                            "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?s=17ea27bdca7ae39f9d3057216bcddd4b", 
+                            "width": 900
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 48, 
+            "scrape_time": 1459522232.176, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "[Concept/rules](https://www.youtube.com/watch?v=BszfPM6oKXQ)\n\n[Card](http://nightmareofbattle.net/ganryujima-announces-third-event/)\n\n[Official Promo video for event](https://www.youtube.com/watch?v=hIN1vOqXcTc)\n\nComplete event:\n\n[Playlist of Event, all 8 videos](http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/)\n\n[1](http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport)\n[2](http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport)\n[3](http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport)\n[4](http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport)\n[5](http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport)\n[6](http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport)\n[7](http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport)\n[8](http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport)\n\n#Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:\n\n- MMA Gloves\n\n- They really focused on the different martial art differences, old school kumite, karate vs boxing style shit\n\n- [Insane walk outs and epic promotion](http://i.imgur.com/1NQJpuH.png)\n\n- [Battles in Samurai suits](http://i.imgur.com/ZEK6xFH.png)\n\n- Giga spinning shit Capoeira\n\n- Promo's to hype dudes up with videos of them beating 70 year old opponents???\n\n- Judges/Refs/Officials not even knowing the rules?? confusion\n\n- Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)\n\n- Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)\n\n- [Surprised this Krav Maga dude did ok](http://i.imgur.com/TDfb2pP.png)\n\n- [Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal](http://i.imgur.com/KrAGUJ4.png)[Pic2](http://i.imgur.com/fVGMT5D.png)\n\n- Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ\n\n- [The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight](http://i.imgur.com/sb3m6dv.png)\n\n- [Fighters don't win trophies, they win mini fish tanks with random shit inside](http://i.imgur.com/Lw72mdM.png)\n\n- [Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training](https://www.youtube.com/watch?v=MO-mVJNL7OM)\n\n- The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian \"Princes\" we have all heard about that will share their huge inheritance with you if you pay the tax\n\n- [Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won](http://i.imgur.com/UTpucwN.png)\n\n- [Suppliments are mandatory in Japan](http://i.imgur.com/zP7RrD9.png)\n\n- [One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei's partner in the 2v2 grappling vs Sakuraba](https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg)\n\nI don't see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live\n\nYes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules\n\n", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=BszfPM6oKXQ\">Concept/rules</a></p>\n\n<p><a href=\"http://nightmareofbattle.net/ganryujima-announces-third-event/\">Card</a></p>\n\n<p><a href=\"https://www.youtube.com/watch?v=hIN1vOqXcTc\">Official Promo video for event</a></p>\n\n<p>Complete event:</p>\n\n<p><a href=\"http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/\">Playlist of Event, all 8 videos</a></p>\n\n<p><a href=\"http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport\">1</a>\n<a href=\"http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport\">2</a>\n<a href=\"http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport\">3</a>\n<a href=\"http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport\">4</a>\n<a href=\"http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport\">5</a>\n<a href=\"http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport\">6</a>\n<a href=\"http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport\">7</a>\n<a href=\"http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport\">8</a></p>\n\n<h1>Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:</h1>\n\n<ul>\n<li><p>MMA Gloves</p></li>\n<li><p>They really focused on the different martial art differences, old school kumite, karate vs boxing style shit</p></li>\n<li><p><a href=\"http://i.imgur.com/1NQJpuH.png\">Insane walk outs and epic promotion</a></p></li>\n<li><p><a href=\"http://i.imgur.com/ZEK6xFH.png\">Battles in Samurai suits</a></p></li>\n<li><p>Giga spinning shit Capoeira</p></li>\n<li><p>Promo&#39;s to hype dudes up with videos of them beating 70 year old opponents???</p></li>\n<li><p>Judges/Refs/Officials not even knowing the rules?? confusion</p></li>\n<li><p>Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)</p></li>\n<li><p>Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)</p></li>\n<li><p><a href=\"http://i.imgur.com/TDfb2pP.png\">Surprised this Krav Maga dude did ok</a></p></li>\n<li><p><a href=\"http://i.imgur.com/KrAGUJ4.png\">Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal</a><a href=\"http://i.imgur.com/fVGMT5D.png\">Pic2</a></p></li>\n<li><p>Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ</p></li>\n<li><p><a href=\"http://i.imgur.com/sb3m6dv.png\">The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight</a></p></li>\n<li><p><a href=\"http://i.imgur.com/Lw72mdM.png\">Fighters don&#39;t win trophies, they win mini fish tanks with random shit inside</a></p></li>\n<li><p><a href=\"https://www.youtube.com/watch?v=MO-mVJNL7OM\">Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training</a></p></li>\n<li><p>The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian &quot;Princes&quot; we have all heard about that will share their huge inheritance with you if you pay the tax</p></li>\n<li><p><a href=\"http://i.imgur.com/UTpucwN.png\">Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won</a></p></li>\n<li><p><a href=\"http://i.imgur.com/zP7RrD9.png\">Suppliments are mandatory in Japan</a></p></li>\n<li><p><a href=\"https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg\">One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei&#39;s partner in the 2v2 grappling vs Sakuraba</a></p></li>\n</ul>\n\n<p>I don&#39;t see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live</p>\n\n<p>Yes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Ganryujima 3 Starting Over! Full Event (5 Hours) Japanese MMA Hybrid, no cage, moat of smoke, highly entertaining, a couple fights in samurai suits, JMMA at its finest, epic production value. I am team moat fighting. Even their own version of Paul Harris. Crazy JMMA", 
+            "ups": 48, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "DaveAP", 
+            "author_flair_css_class": "AU", 
+            "author_flair_text": "Australia", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533984.0, 
+            "created_utc": 1459505184.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cux81", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cux81", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "y8YKfFtzCNkaHReVmB_J-7Oef7C54NLdZ1yw_oJUQzI", 
+                        "resolutions": [
+                            {
+                                "height": 61, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5829e479d927780a1167c04f8b4e9b09", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 123, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9f4874e42054a747b51ed868a5771b62", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 183, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=ab80c8a3dea8c26b8aa9ce3a5077c9ba", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 366, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=6b993251a40fc858d4524dc38680d1c3", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 516, 
+                            "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?s=17ea27bdca7ae39f9d3057216bcddd4b", 
+                            "width": 900
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 48, 
+            "scrape_time": 1459522282.031, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "[Concept/rules](https://www.youtube.com/watch?v=BszfPM6oKXQ)\n\n[Card](http://nightmareofbattle.net/ganryujima-announces-third-event/)\n\n[Official Promo video for event](https://www.youtube.com/watch?v=hIN1vOqXcTc)\n\nComplete event:\n\n[Playlist of Event, all 8 videos](http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/)\n\n[1](http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport)\n[2](http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport)\n[3](http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport)\n[4](http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport)\n[5](http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport)\n[6](http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport)\n[7](http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport)\n[8](http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport)\n\n#Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:\n\n- MMA Gloves\n\n- They really focused on the different martial art differences, old school kumite, karate vs boxing style shit\n\n- [Insane walk outs and epic promotion](http://i.imgur.com/1NQJpuH.png)\n\n- [Battles in Samurai suits](http://i.imgur.com/ZEK6xFH.png)\n\n- Giga spinning shit Capoeira\n\n- Promo's to hype dudes up with videos of them beating 70 year old opponents???\n\n- Judges/Refs/Officials not even knowing the rules?? confusion\n\n- Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)\n\n- Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)\n\n- [Surprised this Krav Maga dude did ok](http://i.imgur.com/TDfb2pP.png)\n\n- [Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal](http://i.imgur.com/KrAGUJ4.png)[Pic2](http://i.imgur.com/fVGMT5D.png)\n\n- Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ\n\n- [The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight](http://i.imgur.com/sb3m6dv.png)\n\n- [Fighters don't win trophies, they win mini fish tanks with random shit inside](http://i.imgur.com/Lw72mdM.png)\n\n- [Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training](https://www.youtube.com/watch?v=MO-mVJNL7OM)\n\n- The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian \"Princes\" we have all heard about that will share their huge inheritance with you if you pay the tax\n\n- [Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won](http://i.imgur.com/UTpucwN.png)\n\n- [Suppliments are mandatory in Japan](http://i.imgur.com/zP7RrD9.png)\n\n- [One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei's partner in the 2v2 grappling vs Sakuraba](https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg)\n\nI don't see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live\n\nYes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules\n\n", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=BszfPM6oKXQ\">Concept/rules</a></p>\n\n<p><a href=\"http://nightmareofbattle.net/ganryujima-announces-third-event/\">Card</a></p>\n\n<p><a href=\"https://www.youtube.com/watch?v=hIN1vOqXcTc\">Official Promo video for event</a></p>\n\n<p>Complete event:</p>\n\n<p><a href=\"http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/\">Playlist of Event, all 8 videos</a></p>\n\n<p><a href=\"http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport\">1</a>\n<a href=\"http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport\">2</a>\n<a href=\"http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport\">3</a>\n<a href=\"http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport\">4</a>\n<a href=\"http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport\">5</a>\n<a href=\"http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport\">6</a>\n<a href=\"http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport\">7</a>\n<a href=\"http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport\">8</a></p>\n\n<h1>Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:</h1>\n\n<ul>\n<li><p>MMA Gloves</p></li>\n<li><p>They really focused on the different martial art differences, old school kumite, karate vs boxing style shit</p></li>\n<li><p><a href=\"http://i.imgur.com/1NQJpuH.png\">Insane walk outs and epic promotion</a></p></li>\n<li><p><a href=\"http://i.imgur.com/ZEK6xFH.png\">Battles in Samurai suits</a></p></li>\n<li><p>Giga spinning shit Capoeira</p></li>\n<li><p>Promo&#39;s to hype dudes up with videos of them beating 70 year old opponents???</p></li>\n<li><p>Judges/Refs/Officials not even knowing the rules?? confusion</p></li>\n<li><p>Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)</p></li>\n<li><p>Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)</p></li>\n<li><p><a href=\"http://i.imgur.com/TDfb2pP.png\">Surprised this Krav Maga dude did ok</a></p></li>\n<li><p><a href=\"http://i.imgur.com/KrAGUJ4.png\">Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal</a><a href=\"http://i.imgur.com/fVGMT5D.png\">Pic2</a></p></li>\n<li><p>Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ</p></li>\n<li><p><a href=\"http://i.imgur.com/sb3m6dv.png\">The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight</a></p></li>\n<li><p><a href=\"http://i.imgur.com/Lw72mdM.png\">Fighters don&#39;t win trophies, they win mini fish tanks with random shit inside</a></p></li>\n<li><p><a href=\"https://www.youtube.com/watch?v=MO-mVJNL7OM\">Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training</a></p></li>\n<li><p>The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian &quot;Princes&quot; we have all heard about that will share their huge inheritance with you if you pay the tax</p></li>\n<li><p><a href=\"http://i.imgur.com/UTpucwN.png\">Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won</a></p></li>\n<li><p><a href=\"http://i.imgur.com/zP7RrD9.png\">Suppliments are mandatory in Japan</a></p></li>\n<li><p><a href=\"https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg\">One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei&#39;s partner in the 2v2 grappling vs Sakuraba</a></p></li>\n</ul>\n\n<p>I don&#39;t see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live</p>\n\n<p>Yes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Ganryujima 3 Starting Over! Full Event (5 Hours) Japanese MMA Hybrid, no cage, moat of smoke, highly entertaining, a couple fights in samurai suits, JMMA at its finest, epic production value. I am team moat fighting. Even their own version of Paul Harris. Crazy JMMA", 
+            "ups": 48, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "DaveAP", 
+            "author_flair_css_class": "AU", 
+            "author_flair_text": "Australia", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533984.0, 
+            "created_utc": 1459505184.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cux81", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cux81", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "y8YKfFtzCNkaHReVmB_J-7Oef7C54NLdZ1yw_oJUQzI", 
+                        "resolutions": [
+                            {
+                                "height": 61, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5829e479d927780a1167c04f8b4e9b09", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 123, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9f4874e42054a747b51ed868a5771b62", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 183, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=ab80c8a3dea8c26b8aa9ce3a5077c9ba", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 366, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=6b993251a40fc858d4524dc38680d1c3", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 516, 
+                            "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?s=17ea27bdca7ae39f9d3057216bcddd4b", 
+                            "width": 900
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 52, 
+            "scrape_time": 1459523436.105, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "[Concept/rules](https://www.youtube.com/watch?v=BszfPM6oKXQ)\n\n[Card](http://nightmareofbattle.net/ganryujima-announces-third-event/)\n\n[Official Promo video for event](https://www.youtube.com/watch?v=hIN1vOqXcTc)\n\nComplete event:\n\n[Playlist of Event, all 8 videos](http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/)\n\n[1](http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport)\n[2](http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport)\n[3](http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport)\n[4](http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport)\n[5](http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport)\n[6](http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport)\n[7](http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport)\n[8](http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport)\n\n#Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:\n\n- MMA Gloves\n\n- They really focused on the different martial art differences, old school kumite, karate vs boxing style shit\n\n- [Insane walk outs and epic promotion](http://i.imgur.com/1NQJpuH.png)\n\n- [Battles in Samurai suits](http://i.imgur.com/ZEK6xFH.png)\n\n- Giga spinning shit Capoeira\n\n- Promo's to hype dudes up with videos of them beating 70 year old opponents???\n\n- Judges/Refs/Officials not even knowing the rules?? confusion\n\n- Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)\n\n- Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)\n\n- [Surprised this Krav Maga dude did ok](http://i.imgur.com/TDfb2pP.png)\n\n- [Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal](http://i.imgur.com/KrAGUJ4.png)[Pic2](http://i.imgur.com/fVGMT5D.png)\n\n- Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ\n\n- [The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight](http://i.imgur.com/sb3m6dv.png)\n\n- [Fighters don't win trophies, they win mini fish tanks with random shit inside](http://i.imgur.com/Lw72mdM.png)\n\n- [Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training](https://www.youtube.com/watch?v=MO-mVJNL7OM)\n\n- The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian \"Princes\" we have all heard about that will share their huge inheritance with you if you pay the tax\n\n- [Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won](http://i.imgur.com/UTpucwN.png)\n\n- [Suppliments are mandatory in Japan](http://i.imgur.com/zP7RrD9.png)\n\n- [One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei's partner in the 2v2 grappling vs Sakuraba](https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg)\n\nI don't see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live\n\nYes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules\n\n", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=BszfPM6oKXQ\">Concept/rules</a></p>\n\n<p><a href=\"http://nightmareofbattle.net/ganryujima-announces-third-event/\">Card</a></p>\n\n<p><a href=\"https://www.youtube.com/watch?v=hIN1vOqXcTc\">Official Promo video for event</a></p>\n\n<p>Complete event:</p>\n\n<p><a href=\"http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/\">Playlist of Event, all 8 videos</a></p>\n\n<p><a href=\"http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport\">1</a>\n<a href=\"http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport\">2</a>\n<a href=\"http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport\">3</a>\n<a href=\"http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport\">4</a>\n<a href=\"http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport\">5</a>\n<a href=\"http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport\">6</a>\n<a href=\"http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport\">7</a>\n<a href=\"http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport\">8</a></p>\n\n<h1>Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:</h1>\n\n<ul>\n<li><p>MMA Gloves</p></li>\n<li><p>They really focused on the different martial art differences, old school kumite, karate vs boxing style shit</p></li>\n<li><p><a href=\"http://i.imgur.com/1NQJpuH.png\">Insane walk outs and epic promotion</a></p></li>\n<li><p><a href=\"http://i.imgur.com/ZEK6xFH.png\">Battles in Samurai suits</a></p></li>\n<li><p>Giga spinning shit Capoeira</p></li>\n<li><p>Promo&#39;s to hype dudes up with videos of them beating 70 year old opponents???</p></li>\n<li><p>Judges/Refs/Officials not even knowing the rules?? confusion</p></li>\n<li><p>Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)</p></li>\n<li><p>Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)</p></li>\n<li><p><a href=\"http://i.imgur.com/TDfb2pP.png\">Surprised this Krav Maga dude did ok</a></p></li>\n<li><p><a href=\"http://i.imgur.com/KrAGUJ4.png\">Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal</a><a href=\"http://i.imgur.com/fVGMT5D.png\">Pic2</a></p></li>\n<li><p>Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ</p></li>\n<li><p><a href=\"http://i.imgur.com/sb3m6dv.png\">The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight</a></p></li>\n<li><p><a href=\"http://i.imgur.com/Lw72mdM.png\">Fighters don&#39;t win trophies, they win mini fish tanks with random shit inside</a></p></li>\n<li><p><a href=\"https://www.youtube.com/watch?v=MO-mVJNL7OM\">Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training</a></p></li>\n<li><p>The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian &quot;Princes&quot; we have all heard about that will share their huge inheritance with you if you pay the tax</p></li>\n<li><p><a href=\"http://i.imgur.com/UTpucwN.png\">Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won</a></p></li>\n<li><p><a href=\"http://i.imgur.com/zP7RrD9.png\">Suppliments are mandatory in Japan</a></p></li>\n<li><p><a href=\"https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg\">One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei&#39;s partner in the 2v2 grappling vs Sakuraba</a></p></li>\n</ul>\n\n<p>I don&#39;t see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live</p>\n\n<p>Yes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Ganryujima 3 Starting Over! Full Event (5 Hours) Japanese MMA Hybrid, no cage, moat of smoke, highly entertaining, a couple fights in samurai suits, JMMA at its finest, epic production value. I am team moat fighting. Even their own version of Paul Harris. Crazy JMMA", 
+            "ups": 52, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "DaveAP", 
+            "author_flair_css_class": "AU", 
+            "author_flair_text": "Australia", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533984.0, 
+            "created_utc": 1459505184.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cux81", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cux81", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "y8YKfFtzCNkaHReVmB_J-7Oef7C54NLdZ1yw_oJUQzI", 
+                        "resolutions": [
+                            {
+                                "height": 61, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=5829e479d927780a1167c04f8b4e9b09", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 123, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9f4874e42054a747b51ed868a5771b62", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 183, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=ab80c8a3dea8c26b8aa9ce3a5077c9ba", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 366, 
+                                "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=6b993251a40fc858d4524dc38680d1c3", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 516, 
+                            "url": "https://i.redditmedia.com/Yay24dzdaX51wMzA7Uxr342HSowiWlO-99S-ZvZATzQ.jpg?s=17ea27bdca7ae39f9d3057216bcddd4b", 
+                            "width": 900
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 52, 
+            "scrape_time": 1459523501.951, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "[Concept/rules](https://www.youtube.com/watch?v=BszfPM6oKXQ)\n\n[Card](http://nightmareofbattle.net/ganryujima-announces-third-event/)\n\n[Official Promo video for event](https://www.youtube.com/watch?v=hIN1vOqXcTc)\n\nComplete event:\n\n[Playlist of Event, all 8 videos](http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/)\n\n[1](http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport)\n[2](http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport)\n[3](http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport)\n[4](http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport)\n[5](http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport)\n[6](http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport)\n[7](http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport)\n[8](http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport)\n\n#Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:\n\n- MMA Gloves\n\n- They really focused on the different martial art differences, old school kumite, karate vs boxing style shit\n\n- [Insane walk outs and epic promotion](http://i.imgur.com/1NQJpuH.png)\n\n- [Battles in Samurai suits](http://i.imgur.com/ZEK6xFH.png)\n\n- Giga spinning shit Capoeira\n\n- Promo's to hype dudes up with videos of them beating 70 year old opponents???\n\n- Judges/Refs/Officials not even knowing the rules?? confusion\n\n- Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)\n\n- Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)\n\n- [Surprised this Krav Maga dude did ok](http://i.imgur.com/TDfb2pP.png)\n\n- [Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal](http://i.imgur.com/KrAGUJ4.png)[Pic2](http://i.imgur.com/fVGMT5D.png)\n\n- Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ\n\n- [The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight](http://i.imgur.com/sb3m6dv.png)\n\n- [Fighters don't win trophies, they win mini fish tanks with random shit inside](http://i.imgur.com/Lw72mdM.png)\n\n- [Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training](https://www.youtube.com/watch?v=MO-mVJNL7OM)\n\n- The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian \"Princes\" we have all heard about that will share their huge inheritance with you if you pay the tax\n\n- [Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won](http://i.imgur.com/UTpucwN.png)\n\n- [Suppliments are mandatory in Japan](http://i.imgur.com/zP7RrD9.png)\n\n- [One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei's partner in the 2v2 grappling vs Sakuraba](https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg)\n\nI don't see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live\n\nYes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules\n\n", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=BszfPM6oKXQ\">Concept/rules</a></p>\n\n<p><a href=\"http://nightmareofbattle.net/ganryujima-announces-third-event/\">Card</a></p>\n\n<p><a href=\"https://www.youtube.com/watch?v=hIN1vOqXcTc\">Official Promo video for event</a></p>\n\n<p>Complete event:</p>\n\n<p><a href=\"http://www.dailymotion.com/playlist/x4ej2d_DaveAP_ganryujima-3-full-event/\">Playlist of Event, all 8 videos</a></p>\n\n<p><a href=\"http://www.dailymotion.com/video/x417t16_ganryujima-3-starting-over-full-event-part-1-8_sport\">1</a>\n<a href=\"http://www.dailymotion.com/video/x4185co_ganryujima-3-starting-over-full-event-part-2-8_sport\">2</a>\n<a href=\"http://www.dailymotion.com/video/x4199rc_ganryujima-3-starting-over-full-event-part-3-8_sport\">3</a>\n<a href=\"http://www.dailymotion.com/video/x417mld_ganryujima-3-starting-over-full-event-part-4-8_sport\">4</a>\n<a href=\"http://www.dailymotion.com/video/x4177dm_ganryujima-3-starting-over-full-event-part-5-8_sport\">5</a>\n<a href=\"http://www.dailymotion.com/video/x41ai7o_ganryujima-3-starting-over-full-event-part-6-8_sport\">6</a>\n<a href=\"http://www.dailymotion.com/video/x4171kr_ganryujima-3-starting-over-full-event-part-7-8_sport\">7</a>\n<a href=\"http://www.dailymotion.com/video/x4170sb_ganryujima-3-starting-over-full-event-part-8-8_sport\">8</a></p>\n\n<h1>Semi spoilers, event was a week ago, just a few bits of info and fun things to watch out for:</h1>\n\n<ul>\n<li><p>MMA Gloves</p></li>\n<li><p>They really focused on the different martial art differences, old school kumite, karate vs boxing style shit</p></li>\n<li><p><a href=\"http://i.imgur.com/1NQJpuH.png\">Insane walk outs and epic promotion</a></p></li>\n<li><p><a href=\"http://i.imgur.com/ZEK6xFH.png\">Battles in Samurai suits</a></p></li>\n<li><p>Giga spinning shit Capoeira</p></li>\n<li><p>Promo&#39;s to hype dudes up with videos of them beating 70 year old opponents???</p></li>\n<li><p>Judges/Refs/Officials not even knowing the rules?? confusion</p></li>\n<li><p>Dude who starts shit at stare down gets absolutely merked (same dude who has promos of him beating up old men)</p></li>\n<li><p>Left the annoying analyst crap in, since some fighters who lose have to talk with them and its ultra awkward (especially with the dude who gets merked)</p></li>\n<li><p><a href=\"http://i.imgur.com/TDfb2pP.png\">Surprised this Krav Maga dude did ok</a></p></li>\n<li><p><a href=\"http://i.imgur.com/KrAGUJ4.png\">Move over Baruto, this is my new man crush, Gris Bordeaux aka Dada5000 with grappling, The Savage from Senegal</a><a href=\"http://i.imgur.com/fVGMT5D.png\">Pic2</a></p></li>\n<li><p>Great comedy with the South African giant dude towards the end, makes Kimbo look like JBJ</p></li>\n<li><p><a href=\"http://i.imgur.com/sb3m6dv.png\">The Mongolian Paul Harris, claims opponent bit him, keeps punching after break up, pretty much would get banned from all North American MMA for this one fight</a></p></li>\n<li><p><a href=\"http://i.imgur.com/Lw72mdM.png\">Fighters don&#39;t win trophies, they win mini fish tanks with random shit inside</a></p></li>\n<li><p><a href=\"https://www.youtube.com/watch?v=MO-mVJNL7OM\">Senegalese wrestling and boxing is becoming big in their country, could see them eventually coming to MMA, they have to be tough to live there, would be interesting to see some of those beasts with legit training</a></p></li>\n<li><p>The African dudes coaches/teams looked like flashy Nigerian online scammers, they must be the Nigerian &quot;Princes&quot; we have all heard about that will share their huge inheritance with you if you pay the tax</p></li>\n<li><p><a href=\"http://i.imgur.com/UTpucwN.png\">Amazing concept Fightpass could have learnt from, their stream would pop up boxes so you could vote, then give you a full break down of how people voted on various things like who you thought would have won</a></p></li>\n<li><p><a href=\"http://i.imgur.com/zP7RrD9.png\">Suppliments are mandatory in Japan</a></p></li>\n<li><p><a href=\"https://pbs.twimg.com/media/Ce8BknGWwAI0ATU.jpg\">One of the best fighters of the event, Kiyoshi Tamura just signed with Rizin to be Wanderlei&#39;s partner in the 2v2 grappling vs Sakuraba</a></p></li>\n</ul>\n\n<p>I don&#39;t see it as legit MMA, I see it as combat entertainment, sure I love a technical match like Dillashaw/Cruz, but sometimes I just want to sit back with a beer and watch something that is so rediculous it makes me laugh.  I really loved it live</p>\n\n<p>Yes I know its a terrible upload job in pieces but I have issues with infringements on my youtube account at the moment and every other site that people trust seems to have stupid upload rules</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Ganryujima 3 Starting Over! Full Event (5 Hours) Japanese MMA Hybrid, no cage, moat of smoke, highly entertaining, a couple fights in samurai suits, JMMA at its finest, epic production value. I am team moat fighting. Even their own version of Paul Harris. Crazy JMMA", 
+            "ups": 52, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cux81/ganryujima_3_starting_over_full_event_5_hours/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

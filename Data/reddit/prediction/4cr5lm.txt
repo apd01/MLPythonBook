@@ -1,0 +1,1680 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459447151.666, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459447273.196, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459447300.996, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459450157.564, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.15, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459450184.901, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.15, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459455061.552, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.2, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459455908.997, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.18, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459457709.594, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.2, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "9VUl47Wdw9Y9xDTh4UikFnWixQI_KWAit236eqgwsyI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d607683e3ea6d6114149df2310f2ebb7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=8fc9c533e5ae79b5b91df8685824db5f", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2357dd3f9e01b7d9c56423822677c377", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/oqwqGcOuGJWHjkzi21ACfHbiXzDE_o5GUAlgN9y4i28.jpg?s=0fbc15275202dba9cf4c1a7575f377b8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458538.545, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/wvYTCt-Uoga1ee8x59NV87HCOMubFCooxE4LbsXnJiw.jpg", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.2, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459518046.857, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.23, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520218.182, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.22, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459522118.12, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.22, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523321.992, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.18, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "PedroKells", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459475285.0, 
+            "created_utc": 1459446485.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr5lm", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr5lm", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr5lm/ufc168_ronda_rousey_vs_miesha_tate_official/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459524736.493, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Girlz Time", 
+                    "author_url": "https://www.youtube.com/channel/UCXEbC07D9aPa1VnoIFFGLQg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/nbqM3BuJ5QY/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/nbqM3BuJ5QY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "\u27a4 UFC-168 RONDA ROUSEY VS MIESHA TATE OFFICIAL \u2714", 
+            "ups": 0, 
+            "upvote_ratio": 0.18, 
+            "url": "https://youtu.be/nbqM3BuJ5QY", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

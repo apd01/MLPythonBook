@@ -1,0 +1,1810 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459445575.315, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 2, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459447151.601, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 5, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459447273.139, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 5, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459447300.949, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 5, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459450137.043, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 11, 
+            "upvote_ratio": 0.79, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459450201.075, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 11, 
+            "upvote_ratio": 0.79, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459455041.583, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 14, 
+            "upvote_ratio": 0.8, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459455889.027, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 15, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459457689.603, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 16, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "GTJn6XdwIujUQPbnZOfbCL70Xrmg5oe88Uuai-GKGps", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=9cbb01907a071a3997d708ee91b47cf5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=14c3d002ea07de48e7c09c8dcab32894", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=7856e97f499ccd45793a8ca9471019a0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/LVacLYOeK1ERcEg2XPYIMdI8pQX3y19TPJhgDPSsWT4.jpg?s=c5ce1cf1639fe033338e66eee24e1eb8", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459458518.466, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FZQsKvGYCjUiab9wGyGk8YzdwHi698Bs0JnGc43SDSg.jpg", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 16, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459518026.923, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 17, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459520198.24, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 16, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459522098.153, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 15, 
+            "upvote_ratio": 0.79, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459523302.042, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 15, 
+            "upvote_ratio": 0.79, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TheNotoriousGOAT", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473689.0, 
+            "created_utc": 1459444889.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0xo", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr0xo", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0xo/jon_jones_drag_racing_court_hearing_full_length/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459524716.581, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Films", 
+                    "author_url": "https://www.youtube.com/user/TheMMAFilms", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/RJqgsTf3I0s/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/RJqgsTf3I0s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "Jon Jones Drag Racing Court Hearing [Full Length]", 
+            "ups": 14, 
+            "upvote_ratio": 0.8, 
+            "url": "https://www.youtube.com/watch?v=RJqgsTf3I0s&feature=share", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

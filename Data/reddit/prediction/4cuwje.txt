@@ -1,0 +1,921 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Alexx555", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck either!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533575.0, 
+            "created_utc": 1459504775.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuwje", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuwje", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuwje/dana_white_conor_mcgregor_was_obsessed_with_the/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "02Q8LV2U0Gg2daq1xmueDwmbWR1dFvH80sb53aIrVgM", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a5baa1539852a20eed2e16e6f90e4ca5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=6dbb0228c32a6481d0caa9b6ee5dc9d6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=dcc1f9e972c04367c48f35fc6e8a2786", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?s=0c70324fe3e0121b96f0ab765376c581", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459518162.815, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/PW6dXpsGiQs9eBDhRGF4T8xAxN-3frjN8gtD74qTfms.jpg", 
+            "title": "Dana White: \"Conor McGregor was 'obsessed' with the rematch\"", 
+            "ups": 0, 
+            "upvote_ratio": 0.33, 
+            "url": "https://youtu.be/iirNYNw2uBU", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Alexx555", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck either!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533575.0, 
+            "created_utc": 1459504775.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuwje", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuwje", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuwje/dana_white_conor_mcgregor_was_obsessed_with_the/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "02Q8LV2U0Gg2daq1xmueDwmbWR1dFvH80sb53aIrVgM", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a5baa1539852a20eed2e16e6f90e4ca5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=6dbb0228c32a6481d0caa9b6ee5dc9d6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=dcc1f9e972c04367c48f35fc6e8a2786", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?s=0c70324fe3e0121b96f0ab765376c581", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520324.236, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/PW6dXpsGiQs9eBDhRGF4T8xAxN-3frjN8gtD74qTfms.jpg", 
+            "title": "Dana White: \"Conor McGregor was 'obsessed' with the rematch\"", 
+            "ups": 0, 
+            "upvote_ratio": 0.44, 
+            "url": "https://youtu.be/iirNYNw2uBU", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Alexx555", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck either!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533575.0, 
+            "created_utc": 1459504775.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuwje", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuwje", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuwje/dana_white_conor_mcgregor_was_obsessed_with_the/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "02Q8LV2U0Gg2daq1xmueDwmbWR1dFvH80sb53aIrVgM", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a5baa1539852a20eed2e16e6f90e4ca5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=6dbb0228c32a6481d0caa9b6ee5dc9d6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=dcc1f9e972c04367c48f35fc6e8a2786", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?s=0c70324fe3e0121b96f0ab765376c581", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520371.544, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/PW6dXpsGiQs9eBDhRGF4T8xAxN-3frjN8gtD74qTfms.jpg", 
+            "title": "Dana White: \"Conor McGregor was 'obsessed' with the rematch\"", 
+            "ups": 0, 
+            "upvote_ratio": 0.44, 
+            "url": "https://youtu.be/iirNYNw2uBU", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Alexx555", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck either!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533575.0, 
+            "created_utc": 1459504775.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuwje", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuwje", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuwje/dana_white_conor_mcgregor_was_obsessed_with_the/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "02Q8LV2U0Gg2daq1xmueDwmbWR1dFvH80sb53aIrVgM", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a5baa1539852a20eed2e16e6f90e4ca5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=6dbb0228c32a6481d0caa9b6ee5dc9d6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=dcc1f9e972c04367c48f35fc6e8a2786", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?s=0c70324fe3e0121b96f0ab765376c581", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459522230.215, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/PW6dXpsGiQs9eBDhRGF4T8xAxN-3frjN8gtD74qTfms.jpg", 
+            "title": "Dana White: \"Conor McGregor was 'obsessed' with the rematch\"", 
+            "ups": 0, 
+            "upvote_ratio": 0.41, 
+            "url": "https://youtu.be/iirNYNw2uBU", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Alexx555", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck either!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533575.0, 
+            "created_utc": 1459504775.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuwje", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuwje", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuwje/dana_white_conor_mcgregor_was_obsessed_with_the/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "02Q8LV2U0Gg2daq1xmueDwmbWR1dFvH80sb53aIrVgM", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a5baa1539852a20eed2e16e6f90e4ca5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=6dbb0228c32a6481d0caa9b6ee5dc9d6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=dcc1f9e972c04367c48f35fc6e8a2786", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?s=0c70324fe3e0121b96f0ab765376c581", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459522284.026, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/PW6dXpsGiQs9eBDhRGF4T8xAxN-3frjN8gtD74qTfms.jpg", 
+            "title": "Dana White: \"Conor McGregor was 'obsessed' with the rematch\"", 
+            "ups": 0, 
+            "upvote_ratio": 0.41, 
+            "url": "https://youtu.be/iirNYNw2uBU", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Alexx555", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck either!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533575.0, 
+            "created_utc": 1459504775.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuwje", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuwje", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuwje/dana_white_conor_mcgregor_was_obsessed_with_the/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "02Q8LV2U0Gg2daq1xmueDwmbWR1dFvH80sb53aIrVgM", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a5baa1539852a20eed2e16e6f90e4ca5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=6dbb0228c32a6481d0caa9b6ee5dc9d6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=dcc1f9e972c04367c48f35fc6e8a2786", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?s=0c70324fe3e0121b96f0ab765376c581", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523434.108, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/PW6dXpsGiQs9eBDhRGF4T8xAxN-3frjN8gtD74qTfms.jpg", 
+            "title": "Dana White: \"Conor McGregor was 'obsessed' with the rematch\"", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://youtu.be/iirNYNw2uBU", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Alexx555", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team - I don't give a fuck either!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459533575.0, 
+            "created_utc": 1459504775.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuwje", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuwje", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuwje/dana_white_conor_mcgregor_was_obsessed_with_the/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "02Q8LV2U0Gg2daq1xmueDwmbWR1dFvH80sb53aIrVgM", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a5baa1539852a20eed2e16e6f90e4ca5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=6dbb0228c32a6481d0caa9b6ee5dc9d6", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=dcc1f9e972c04367c48f35fc6e8a2786", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/NkuC3jqdBWb068M60q-V6kfqElMVN-VWgYXbN1msw-w.jpg?s=0c70324fe3e0121b96f0ab765376c581", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523503.993, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMA Essentials", 
+                    "author_url": "https://www.youtube.com/channel/UClSoJbLsrN-8x5jF2zOPBvg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/iirNYNw2uBU/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Dana White Discusses UFC 200 Fight Card Conor McGregor vs Diaz 2 & Jose Aldo vs Frankie Edgar 2", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/iirNYNw2uBU?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/PW6dXpsGiQs9eBDhRGF4T8xAxN-3frjN8gtD74qTfms.jpg", 
+            "title": "Dana White: \"Conor McGregor was 'obsessed' with the rematch\"", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://youtu.be/iirNYNw2uBU", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

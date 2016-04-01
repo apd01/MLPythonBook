@@ -1,0 +1,2493 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459546986.425, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 2, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459547580.448, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459547592.527, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 1, 
+            "upvote_ratio": 0.57, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548180.424, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548192.682, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548780.44, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548794.554, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459549397.56, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459549419.651, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459549983.387, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459550009.564, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459550580.49, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459550612.414, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459551180.459, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459551216.467, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459551780.45, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.43, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459551824.418, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.43, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459552380.468, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "S_K_I", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459575326.0, 
+            "created_utc": 1459546526.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cy9w1", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cy9w1", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cy9w1/mma_fighter_tells_ref_how_to_do_his_job/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "zdy1PD2yVtaNhb7XjOfmKD5caYCfpBPRwHVv1HDsyY0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=94042a67e6f65ffe5b366f6d28e45a6f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=85935f8886b887bedb454e6d24872a4a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5bdd62ab35d0dbe1cee144de74f81a96", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cVwuvZYv5Lk8_AAUNd_w1oSHd_vuLuHmobvISR-f24A.jpg?s=b9cd5a4d82ad29f23d87d1198f864208", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459552428.53, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "SportNews", 
+                    "author_url": "https://www.youtube.com/channel/UCor6-6Hx695q60LHQFfpObg", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/DQThtu9Xqzg/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "MMA Fighter Tells Ref How To Do His Job", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/DQThtu9Xqzg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/_HGuqPXRjOvWMVcM0eNFHpUkuMh7PnAHNgvHQ4OK41Y.jpg", 
+            "title": "MMA Fighter Tells Ref How To Do His Job", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://www.youtube.com/watch?v=DQThtu9Xqzg", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

@@ -1,0 +1,988 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459455106.836, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 3, 
+            "upvote_ratio": 0.62, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459455945.056, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 3, 
+            "upvote_ratio": 0.62, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459455976.975, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 3, 
+            "upvote_ratio": 0.62, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459457745.578, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 1, 
+            "upvote_ratio": 0.53, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459457804.566, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 1, 
+            "upvote_ratio": 0.53, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458574.534, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458646.416, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459518082.938, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 6, 
+            "upvote_ratio": 0.58, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459520254.261, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 4, 
+            "upvote_ratio": 0.56, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459522154.142, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 6, 
+            "upvote_ratio": 0.59, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459523358.073, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 4, 
+            "upvote_ratio": 0.56, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459480843.0, 
+            "created_utc": 1459452043.0, 
+            "distinguished": null, 
+            "domain": "boxingnews24.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crlgs", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "ann", 
+            "link_flair_text": "Notice", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crlgs", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crlgs/brendan_schaub_will_be_doing_commentary_on_cbs/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "0Hqgb3GyeIif3c2F-UtbzOpkqr1o9A0foLC_GVTC6KU", 
+                        "resolutions": [
+                            {
+                                "height": 90, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8110a73ac86029197aa18e3d4ab28fb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=fa7690c60ab549bb8426366c7e19af9b", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 250, 
+                            "url": "https://i.redditmedia.com/BAmtUUJ7BSJlhK_MFHXVRjGRUrdIWpf5nMFP1ilbdnQ.jpg?s=5b43773e83f855fd9bd5283643810fcd", 
+                            "width": 300
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459524772.54, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/nmwkGCljw017mUWfoR4Y9a-ALFt_rQhUOWn_x7Tk7U4.jpg", 
+            "title": "Brendan Schaub will be doing commentary on CBS Sports for Shane Mosley vs. David Avanesyan", 
+            "ups": 5, 
+            "upvote_ratio": 0.57, 
+            "url": "http://www.boxingnews24.com/2016/03/shane-mosley-vs-david-avanesyan-wba-147lb-title/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

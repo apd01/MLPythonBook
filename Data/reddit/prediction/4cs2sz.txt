@@ -1,0 +1,616 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Lapin08", 
+            "author_flair_css_class": "FR", 
+            "author_flair_text": "France", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459487221.0, 
+            "created_utc": 1459458421.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cs2sz", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cs2sz", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cs2sz/invictas_andrea_lee_tests_positive_for_diuretics/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "uDYKZ2SDjyjhgtrjN3xG-xz89aswzxPeVtVCFmOb2ro", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=947bd97a473a4fc9836696fdfe74710e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f6bd6e034b7af72829fb4fc46ac0093e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=686cd5cbf21501a6e7302d54edba2f1a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ef48f52c56a9656c422ef95ec94af84c", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=da993822bc84aef8402c087df66e0908", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=71cd4bc88c875c18e5689379fa558b3c", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?s=fb628844000fbf303e6e42f0faf70a46", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458618.442, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Bvw7T9Z9DIaLBa-Hd-L8ckgh_kGU0YncnjpsRL2kS2s.jpg", 
+            "title": "Invicta's Andrea Lee tests positive for diuretics, suspended by Nevada Athletic Commission", 
+            "ups": 5, 
+            "upvote_ratio": 1.0, 
+            "url": "http://www.mmafighting.com/2016/3/31/11340374/invictas-andrea-lee-tests-positive-for-diuretics-suspended-by-nevada", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Lapin08", 
+            "author_flair_css_class": "FR", 
+            "author_flair_text": "France", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459487221.0, 
+            "created_utc": 1459458421.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cs2sz", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cs2sz", 
+            "num_comments": 55, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cs2sz/invictas_andrea_lee_tests_positive_for_diuretics/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "uDYKZ2SDjyjhgtrjN3xG-xz89aswzxPeVtVCFmOb2ro", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=947bd97a473a4fc9836696fdfe74710e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f6bd6e034b7af72829fb4fc46ac0093e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=686cd5cbf21501a6e7302d54edba2f1a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ef48f52c56a9656c422ef95ec94af84c", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=da993822bc84aef8402c087df66e0908", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=71cd4bc88c875c18e5689379fa558b3c", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?s=fb628844000fbf303e6e42f0faf70a46", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 110, 
+            "scrape_time": 1459518131.116, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Bvw7T9Z9DIaLBa-Hd-L8ckgh_kGU0YncnjpsRL2kS2s.jpg", 
+            "title": "Invicta's Andrea Lee tests positive for diuretics, suspended by Nevada Athletic Commission", 
+            "ups": 110, 
+            "upvote_ratio": 0.94, 
+            "url": "http://www.mmafighting.com/2016/3/31/11340374/invictas-andrea-lee-tests-positive-for-diuretics-suspended-by-nevada", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Lapin08", 
+            "author_flair_css_class": "FR", 
+            "author_flair_text": "France", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459487221.0, 
+            "created_utc": 1459458421.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cs2sz", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cs2sz", 
+            "num_comments": 56, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cs2sz/invictas_andrea_lee_tests_positive_for_diuretics/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "uDYKZ2SDjyjhgtrjN3xG-xz89aswzxPeVtVCFmOb2ro", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=947bd97a473a4fc9836696fdfe74710e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f6bd6e034b7af72829fb4fc46ac0093e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=686cd5cbf21501a6e7302d54edba2f1a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ef48f52c56a9656c422ef95ec94af84c", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=da993822bc84aef8402c087df66e0908", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=71cd4bc88c875c18e5689379fa558b3c", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?s=fb628844000fbf303e6e42f0faf70a46", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 110, 
+            "scrape_time": 1459520302.54, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Bvw7T9Z9DIaLBa-Hd-L8ckgh_kGU0YncnjpsRL2kS2s.jpg", 
+            "title": "Invicta's Andrea Lee tests positive for diuretics, suspended by Nevada Athletic Commission", 
+            "ups": 110, 
+            "upvote_ratio": 0.93, 
+            "url": "http://www.mmafighting.com/2016/3/31/11340374/invictas-andrea-lee-tests-positive-for-diuretics-suspended-by-nevada", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Lapin08", 
+            "author_flair_css_class": "FR", 
+            "author_flair_text": "France", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459487221.0, 
+            "created_utc": 1459458421.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cs2sz", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cs2sz", 
+            "num_comments": 59, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cs2sz/invictas_andrea_lee_tests_positive_for_diuretics/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "uDYKZ2SDjyjhgtrjN3xG-xz89aswzxPeVtVCFmOb2ro", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=947bd97a473a4fc9836696fdfe74710e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f6bd6e034b7af72829fb4fc46ac0093e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=686cd5cbf21501a6e7302d54edba2f1a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ef48f52c56a9656c422ef95ec94af84c", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=da993822bc84aef8402c087df66e0908", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=71cd4bc88c875c18e5689379fa558b3c", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?s=fb628844000fbf303e6e42f0faf70a46", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 110, 
+            "scrape_time": 1459522202.367, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Bvw7T9Z9DIaLBa-Hd-L8ckgh_kGU0YncnjpsRL2kS2s.jpg", 
+            "title": "Invicta's Andrea Lee tests positive for diuretics, suspended by Nevada Athletic Commission", 
+            "ups": 110, 
+            "upvote_ratio": 0.93, 
+            "url": "http://www.mmafighting.com/2016/3/31/11340374/invictas-andrea-lee-tests-positive-for-diuretics-suspended-by-nevada", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Lapin08", 
+            "author_flair_css_class": "FR", 
+            "author_flair_text": "France", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459487221.0, 
+            "created_utc": 1459458421.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cs2sz", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cs2sz", 
+            "num_comments": 59, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cs2sz/invictas_andrea_lee_tests_positive_for_diuretics/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "uDYKZ2SDjyjhgtrjN3xG-xz89aswzxPeVtVCFmOb2ro", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=947bd97a473a4fc9836696fdfe74710e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f6bd6e034b7af72829fb4fc46ac0093e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=686cd5cbf21501a6e7302d54edba2f1a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ef48f52c56a9656c422ef95ec94af84c", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=da993822bc84aef8402c087df66e0908", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=71cd4bc88c875c18e5689379fa558b3c", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?s=fb628844000fbf303e6e42f0faf70a46", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 108, 
+            "scrape_time": 1459523406.312, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Bvw7T9Z9DIaLBa-Hd-L8ckgh_kGU0YncnjpsRL2kS2s.jpg", 
+            "title": "Invicta's Andrea Lee tests positive for diuretics, suspended by Nevada Athletic Commission", 
+            "ups": 108, 
+            "upvote_ratio": 0.93, 
+            "url": "http://www.mmafighting.com/2016/3/31/11340374/invictas-andrea-lee-tests-positive-for-diuretics-suspended-by-nevada", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Lapin08", 
+            "author_flair_css_class": "FR", 
+            "author_flair_text": "France", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459487221.0, 
+            "created_utc": 1459458421.0, 
+            "distinguished": null, 
+            "domain": "mmafighting.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cs2sz", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cs2sz", 
+            "num_comments": 59, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cs2sz/invictas_andrea_lee_tests_positive_for_diuretics/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "uDYKZ2SDjyjhgtrjN3xG-xz89aswzxPeVtVCFmOb2ro", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=947bd97a473a4fc9836696fdfe74710e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=f6bd6e034b7af72829fb4fc46ac0093e", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=686cd5cbf21501a6e7302d54edba2f1a", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ef48f52c56a9656c422ef95ec94af84c", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=da993822bc84aef8402c087df66e0908", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=71cd4bc88c875c18e5689379fa558b3c", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/mte7xo7SuwOCsNi0fG5kMuoxBgZ2S-vKCQVbPLectbc.jpg?s=fb628844000fbf303e6e42f0faf70a46", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 112, 
+            "scrape_time": 1459524820.897, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Bvw7T9Z9DIaLBa-Hd-L8ckgh_kGU0YncnjpsRL2kS2s.jpg", 
+            "title": "Invicta's Andrea Lee tests positive for diuretics, suspended by Nevada Athletic Commission", 
+            "ups": 112, 
+            "upvote_ratio": 0.94, 
+            "url": "http://www.mmafighting.com/2016/3/31/11340374/invictas-andrea-lee-tests-positive-for-diuretics-suspended-by-nevada", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

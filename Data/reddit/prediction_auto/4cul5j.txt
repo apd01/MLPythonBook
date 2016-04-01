@@ -1,0 +1,3776 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459525487.154, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 9, 
+            "upvote_ratio": 0.77, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459526035.223, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 11, 
+            "upvote_ratio": 0.82, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459526635.266, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 9, 
+            "upvote_ratio": 0.77, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459527235.205, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 11, 
+            "upvote_ratio": 0.86, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459527835.2, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 12, 
+            "upvote_ratio": 0.83, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459528435.235, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 9, 
+            "upvote_ratio": 0.77, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459529263.835, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 12, 
+            "upvote_ratio": 0.87, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459529860.774, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 10, 
+            "upvote_ratio": 0.78, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459530461.056, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.87, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459531060.803, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 11, 
+            "upvote_ratio": 0.82, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459531660.77, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 12, 
+            "upvote_ratio": 0.8, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459532260.766, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.88, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459532860.819, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.84, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459533460.895, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 12, 
+            "upvote_ratio": 0.8, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459534060.8, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.81, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459534660.793, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.81, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459535260.807, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.84, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459538431.789, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 12, 
+            "upvote_ratio": 0.77, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459539028.591, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 15, 
+            "upvote_ratio": 0.85, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459539628.595, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.78, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459540228.582, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 14, 
+            "upvote_ratio": 0.84, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459540828.567, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 11, 
+            "upvote_ratio": 0.76, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459541428.649, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 12, 
+            "upvote_ratio": 0.77, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459542028.62, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 12, 
+            "upvote_ratio": 0.77, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459542628.56, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.78, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459543228.608, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.78, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459543828.625, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.84, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459544428.633, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 14, 
+            "upvote_ratio": 0.84, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459545028.591, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 14, 
+            "upvote_ratio": 0.81, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459545628.542, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.78, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459546228.595, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 15, 
+            "upvote_ratio": 0.85, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459546828.575, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.84, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459547428.566, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.78, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459548028.776, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 11, 
+            "upvote_ratio": 0.76, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459548628.578, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 12, 
+            "upvote_ratio": 0.77, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459549228.587, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 15, 
+            "upvote_ratio": 0.85, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459549828.592, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.84, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 14, 
+            "scrape_time": 1459550428.681, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 14, 
+            "upvote_ratio": 0.84, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459551028.601, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 15, 
+            "upvote_ratio": 0.85, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459551628.608, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.78, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "YouAreBastards", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459526249.0, 
+            "created_utc": 1459497449.0, 
+            "distinguished": null, 
+            "domain": "mmamicks.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cul5j", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cul5j", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cul5j/rizin_sustaining_the_japanese_mma_renaissance/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vviHDty-Vq5DbibFq6WnoSCk8gYumx_Ywn73aEG96UA", 
+                        "resolutions": [
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e4a43544548b91c7621f6d74e3a677fe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=96c729945cab47f0ec6042741f7322c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 189, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e06ba0517cbcf6bcbc192fd1bd3e5f86", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 379, 
+                                "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c0669cb713ef02120041d107ef538773", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 430, 
+                            "url": "https://i.redditmedia.com/zFQM0-KKg7fRF72RvnbnTXKaauS8WPVKjinWCmdruaU.jpg?s=ff075a7bd405bf10513d8072acdfa2d3", 
+                            "width": 725
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459552228.646, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/D81zo2ujewu8auU5naSM7RdjcdJl5fwAW-nZ262OPEA.jpg", 
+            "title": "RIZIN: Sustaining the Japanese MMA Renaissance", 
+            "ups": 13, 
+            "upvote_ratio": 0.81, 
+            "url": "http://mmamicks.com/rizin-sustaining-the-japanese-mma-renaissance/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

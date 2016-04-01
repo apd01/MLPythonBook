@@ -1,0 +1,1680 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459447151.634, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 3, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459447273.156, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 3, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459447300.962, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 3, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459450140.989, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 5, 
+            "upvote_ratio": 0.65, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459450197.171, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 5, 
+            "upvote_ratio": 0.65, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459455045.49, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 5, 
+            "upvote_ratio": 0.62, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459455893.005, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 6, 
+            "upvote_ratio": 0.64, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459457693.542, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 5, 
+            "upvote_ratio": 0.62, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3Sb9UfO9ahhF6WqUx18KaMUv57SDW8w7UkLHAViNwfo", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=f7c0cd8354c752d9f9263374101c6569", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=3d412b069ddf1f253bf32464cbe0a4c1", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6bda91fbdda87f7c71680cfc760dbf7c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/-lSzkxRtzblD1nfs4oWyO6sP6VCpsbyG5wAfZ7TUFAA.jpg?s=f289e1116e013b247729bac5f0871aba", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458522.434, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/u0yIAy4Z_sSRzobaAbt5x8XUnDSdDa7jQdDtlT28NKM.jpg", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 5, 
+            "upvote_ratio": 0.62, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459518030.824, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 5, 
+            "upvote_ratio": 0.63, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459520202.241, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 5, 
+            "upvote_ratio": 0.63, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459522102.086, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 6, 
+            "upvote_ratio": 0.65, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459523305.966, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 4, 
+            "upvote_ratio": 0.6, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "greatsantini", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474276.0, 
+            "created_utc": 1459445476.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr2o8", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cr2o8", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr2o8/a_chronological_video_history_of_jon_jones/", 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459524720.539, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAmania Dotcom", 
+                    "author_url": "https://www.youtube.com/channel/UCvVAxQ2m0fRMAR2-lOykn3w", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cQeUsPRA7jo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Jones Jones, The Driver: A Chronological History Of Vehicular Incompetence", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cQeUsPRA7jo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "default", 
+            "title": "A chronological video history of Jon Jones' vehicular incompetence", 
+            "ups": 3, 
+            "upvote_ratio": 0.57, 
+            "url": "https://www.youtube.com/watch?v=cQeUsPRA7jo", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

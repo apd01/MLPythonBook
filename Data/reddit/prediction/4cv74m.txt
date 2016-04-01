@@ -1,0 +1,900 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FlyWin_ONE", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459539655.0, 
+            "created_utc": 1459510855.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv74m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xaf1/v/t15.0-10/p128x128/12441375_1068337003189554_1593818465_n.jpg?oh=1cb8e580184a48321422a5b234102109&oe=5789EA5D", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv74m", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv74m/angela_lee_vs_mei_yamaguchi_promo_for_one_womens/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2SKZn6iS-BDI00wL5aQjv2L9nK56KThOv-wbUP774QA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=236719e6026f2b01b1ccfebbc9e94072", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=70f9292e1236c6c99cf09f701e86abb2", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?s=6881b7a57e11ed1247f13d2da924352c", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459518154.82, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Slna8-1l0LiK6yKPdFF7HjIEXHsZEpunUg4aO_eGOAM.jpg", 
+            "title": "Angela Lee vs Mei Yamaguchi promo (for ONE Women's Atomweight Title)", 
+            "ups": 15, 
+            "upvote_ratio": 0.9, 
+            "url": "https://www.facebook.com/ONEFCMMA/videos/1068335273189727/?pnref=story", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FlyWin_ONE", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459539655.0, 
+            "created_utc": 1459510855.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv74m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xaf1/v/t15.0-10/p128x128/12441375_1068337003189554_1593818465_n.jpg?oh=1cb8e580184a48321422a5b234102109&oe=5789EA5D", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv74m", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv74m/angela_lee_vs_mei_yamaguchi_promo_for_one_womens/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2SKZn6iS-BDI00wL5aQjv2L9nK56KThOv-wbUP774QA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=236719e6026f2b01b1ccfebbc9e94072", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=70f9292e1236c6c99cf09f701e86abb2", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?s=6881b7a57e11ed1247f13d2da924352c", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 23, 
+            "scrape_time": 1459520332.199, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Slna8-1l0LiK6yKPdFF7HjIEXHsZEpunUg4aO_eGOAM.jpg", 
+            "title": "Angela Lee vs Mei Yamaguchi promo (for ONE Women's Atomweight Title)", 
+            "ups": 23, 
+            "upvote_ratio": 0.93, 
+            "url": "https://www.facebook.com/ONEFCMMA/videos/1068335273189727/?pnref=story", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FlyWin_ONE", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459539655.0, 
+            "created_utc": 1459510855.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv74m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xaf1/v/t15.0-10/p128x128/12441375_1068337003189554_1593818465_n.jpg?oh=1cb8e580184a48321422a5b234102109&oe=5789EA5D", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv74m", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv74m/angela_lee_vs_mei_yamaguchi_promo_for_one_womens/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2SKZn6iS-BDI00wL5aQjv2L9nK56KThOv-wbUP774QA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=236719e6026f2b01b1ccfebbc9e94072", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=70f9292e1236c6c99cf09f701e86abb2", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?s=6881b7a57e11ed1247f13d2da924352c", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 23, 
+            "scrape_time": 1459520365.539, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Slna8-1l0LiK6yKPdFF7HjIEXHsZEpunUg4aO_eGOAM.jpg", 
+            "title": "Angela Lee vs Mei Yamaguchi promo (for ONE Women's Atomweight Title)", 
+            "ups": 23, 
+            "upvote_ratio": 0.93, 
+            "url": "https://www.facebook.com/ONEFCMMA/videos/1068335273189727/?pnref=story", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FlyWin_ONE", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459539655.0, 
+            "created_utc": 1459510855.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv74m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xaf1/v/t15.0-10/p128x128/12441375_1068337003189554_1593818465_n.jpg?oh=1cb8e580184a48321422a5b234102109&oe=5789EA5D", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv74m", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv74m/angela_lee_vs_mei_yamaguchi_promo_for_one_womens/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2SKZn6iS-BDI00wL5aQjv2L9nK56KThOv-wbUP774QA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=236719e6026f2b01b1ccfebbc9e94072", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=70f9292e1236c6c99cf09f701e86abb2", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?s=6881b7a57e11ed1247f13d2da924352c", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459522238.1, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Slna8-1l0LiK6yKPdFF7HjIEXHsZEpunUg4aO_eGOAM.jpg", 
+            "title": "Angela Lee vs Mei Yamaguchi promo (for ONE Women's Atomweight Title)", 
+            "ups": 25, 
+            "upvote_ratio": 0.94, 
+            "url": "https://www.facebook.com/ONEFCMMA/videos/1068335273189727/?pnref=story", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FlyWin_ONE", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459539655.0, 
+            "created_utc": 1459510855.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv74m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xaf1/v/t15.0-10/p128x128/12441375_1068337003189554_1593818465_n.jpg?oh=1cb8e580184a48321422a5b234102109&oe=5789EA5D", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv74m", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv74m/angela_lee_vs_mei_yamaguchi_promo_for_one_womens/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2SKZn6iS-BDI00wL5aQjv2L9nK56KThOv-wbUP774QA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=236719e6026f2b01b1ccfebbc9e94072", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=70f9292e1236c6c99cf09f701e86abb2", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?s=6881b7a57e11ed1247f13d2da924352c", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459522278.113, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Slna8-1l0LiK6yKPdFF7HjIEXHsZEpunUg4aO_eGOAM.jpg", 
+            "title": "Angela Lee vs Mei Yamaguchi promo (for ONE Women's Atomweight Title)", 
+            "ups": 25, 
+            "upvote_ratio": 0.94, 
+            "url": "https://www.facebook.com/ONEFCMMA/videos/1068335273189727/?pnref=story", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FlyWin_ONE", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459539655.0, 
+            "created_utc": 1459510855.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv74m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xaf1/v/t15.0-10/p128x128/12441375_1068337003189554_1593818465_n.jpg?oh=1cb8e580184a48321422a5b234102109&oe=5789EA5D", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv74m", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv74m/angela_lee_vs_mei_yamaguchi_promo_for_one_womens/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2SKZn6iS-BDI00wL5aQjv2L9nK56KThOv-wbUP774QA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=236719e6026f2b01b1ccfebbc9e94072", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=70f9292e1236c6c99cf09f701e86abb2", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?s=6881b7a57e11ed1247f13d2da924352c", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 30, 
+            "scrape_time": 1459523441.985, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Slna8-1l0LiK6yKPdFF7HjIEXHsZEpunUg4aO_eGOAM.jpg", 
+            "title": "Angela Lee vs Mei Yamaguchi promo (for ONE Women's Atomweight Title)", 
+            "ups": 30, 
+            "upvote_ratio": 0.97, 
+            "url": "https://www.facebook.com/ONEFCMMA/videos/1068335273189727/?pnref=story", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "FlyWin_ONE", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459539655.0, 
+            "created_utc": 1459510855.0, 
+            "distinguished": null, 
+            "domain": "facebook.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cv74m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://scontent.xx.fbcdn.net/hvthumb-xaf1/v/t15.0-10/p128x128/12441375_1068337003189554_1593818465_n.jpg?oh=1cb8e580184a48321422a5b234102109&oe=5789EA5D", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cv74m", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cv74m/angela_lee_vs_mei_yamaguchi_promo_for_one_womens/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "2SKZn6iS-BDI00wL5aQjv2L9nK56KThOv-wbUP774QA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=236719e6026f2b01b1ccfebbc9e94072", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=70f9292e1236c6c99cf09f701e86abb2", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 128, 
+                            "url": "https://i.redditmedia.com/7iI5RiFqPAdXMhVAKMLlGnvfwoHthENc96EDD3vuFik.jpg?s=6881b7a57e11ed1247f13d2da924352c", 
+                            "width": 227
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 30, 
+            "scrape_time": 1459523497.95, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "ONE Championship", 
+                    "author_url": "http://facebook.com/173291132694150", 
+                    "description": "BREAKING NEWS ONE Championship's Chairman Chatri Sityodtong just announced on CNBC that we will be making the biggest female fight in the history of Asia on 6 May with the first women's World Championship title fight featuring Angela Lee (5-0) from Singapore and Mei Yamaguchi (15-8) from Japan!", 
+                    "height": 315, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Facebook", 
+                    "provider_url": "http://www.facebook.com", 
+                    "thumbnail_height": 128, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 227, 
+                    "title": "TITLE FIGHT: Angela Lee vs Mei Yamaguchi - ONE Championship | Facebook", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 560
+                }, 
+                "type": "facebook.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fvideo%2Fembed%3Fvideo_id%3D1068335273189727&url=https%3A%2F%2Fwww.facebook.com%2FONEFCMMA%2Fvideos%2F1068335273189727%2F%3Fpnref%3Dstory&image=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhvthumb-xaf1%2Fv%2Ft15.0-10%2Fp128x128%2F12441375_1068337003189554_1593818465_n.jpg%3Foh%3D1cb8e580184a48321422a5b234102109%26oe%3D5789EA5D&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=facebook\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 315, 
+                "scrolling": false, 
+                "width": 560
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/Slna8-1l0LiK6yKPdFF7HjIEXHsZEpunUg4aO_eGOAM.jpg", 
+            "title": "Angela Lee vs Mei Yamaguchi promo (for ONE Women's Atomweight Title)", 
+            "ups": 30, 
+            "upvote_ratio": 0.97, 
+            "url": "https://www.facebook.com/ONEFCMMA/videos/1068335273189727/?pnref=story", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

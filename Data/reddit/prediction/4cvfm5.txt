@@ -1,0 +1,718 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "theotherjoefraizer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543486.0, 
+            "created_utc": 1459514686.0, 
+            "distinguished": null, 
+            "domain": "bloodyelbow.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvfm5", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvfm5", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvfm5/adrien_broner_misses_weight_by_040_lbs_and_elects/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "gDgIxX946a9Owqu3cioYQSSSUkH4VI0pcJrpnR3K2U8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=21b647093f625420fe7817257442fd00", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ff6780cc0dbcc834da6c4355de196a0", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=53795e2b6170787e7d083ea9df26c573", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7b150c69e3ba69df607b23ab9cca722", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=67beac18aa3741e99197e34a293e2d6c", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3314d1232d84e5247f4d570c79a8a995", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?s=1006284ea717eb312afb38497a780904", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459518140.848, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BV20fKo2uYApMPH9jsXkgJl4zy85pJPAK6wnUZjf3Eg.jpg", 
+            "title": "Adrien Broner misses weight by 0.40 lbs and elects to vacate belt and $50k of purse rather than cut it", 
+            "ups": 10, 
+            "upvote_ratio": 0.78, 
+            "url": "http://www.bloodyelbow.com/2016/3/31/11340598/adrien-broner-misses-weight-stripped-of-title-for-the-2nd-time-in-4-years-boxing-news", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "theotherjoefraizer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543486.0, 
+            "created_utc": 1459514686.0, 
+            "distinguished": null, 
+            "domain": "bloodyelbow.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvfm5", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvfm5", 
+            "num_comments": 22, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvfm5/adrien_broner_misses_weight_by_040_lbs_and_elects/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "gDgIxX946a9Owqu3cioYQSSSUkH4VI0pcJrpnR3K2U8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=21b647093f625420fe7817257442fd00", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ff6780cc0dbcc834da6c4355de196a0", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=53795e2b6170787e7d083ea9df26c573", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7b150c69e3ba69df607b23ab9cca722", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=67beac18aa3741e99197e34a293e2d6c", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3314d1232d84e5247f4d570c79a8a995", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?s=1006284ea717eb312afb38497a780904", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459520349.702, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BV20fKo2uYApMPH9jsXkgJl4zy85pJPAK6wnUZjf3Eg.jpg", 
+            "title": "Adrien Broner misses weight by 0.40 lbs and elects to vacate belt and $50k of purse rather than cut it", 
+            "ups": 26, 
+            "upvote_ratio": 0.84, 
+            "url": "http://www.bloodyelbow.com/2016/3/31/11340598/adrien-broner-misses-weight-stripped-of-title-for-the-2nd-time-in-4-years-boxing-news", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "theotherjoefraizer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543486.0, 
+            "created_utc": 1459514686.0, 
+            "distinguished": null, 
+            "domain": "bloodyelbow.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvfm5", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvfm5", 
+            "num_comments": 22, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvfm5/adrien_broner_misses_weight_by_040_lbs_and_elects/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "gDgIxX946a9Owqu3cioYQSSSUkH4VI0pcJrpnR3K2U8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=21b647093f625420fe7817257442fd00", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ff6780cc0dbcc834da6c4355de196a0", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=53795e2b6170787e7d083ea9df26c573", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7b150c69e3ba69df607b23ab9cca722", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=67beac18aa3741e99197e34a293e2d6c", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3314d1232d84e5247f4d570c79a8a995", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?s=1006284ea717eb312afb38497a780904", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459520363.61, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BV20fKo2uYApMPH9jsXkgJl4zy85pJPAK6wnUZjf3Eg.jpg", 
+            "title": "Adrien Broner misses weight by 0.40 lbs and elects to vacate belt and $50k of purse rather than cut it", 
+            "ups": 26, 
+            "upvote_ratio": 0.84, 
+            "url": "http://www.bloodyelbow.com/2016/3/31/11340598/adrien-broner-misses-weight-stripped-of-title-for-the-2nd-time-in-4-years-boxing-news", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "theotherjoefraizer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543486.0, 
+            "created_utc": 1459514686.0, 
+            "distinguished": null, 
+            "domain": "bloodyelbow.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cvfm5", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvfm5", 
+            "num_comments": 33, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvfm5/adrien_broner_misses_weight_by_040_lbs_and_elects/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "gDgIxX946a9Owqu3cioYQSSSUkH4VI0pcJrpnR3K2U8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=21b647093f625420fe7817257442fd00", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ff6780cc0dbcc834da6c4355de196a0", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=53795e2b6170787e7d083ea9df26c573", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7b150c69e3ba69df607b23ab9cca722", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=67beac18aa3741e99197e34a293e2d6c", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3314d1232d84e5247f4d570c79a8a995", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?s=1006284ea717eb312afb38497a780904", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 50, 
+            "scrape_time": 1459522252.252, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BV20fKo2uYApMPH9jsXkgJl4zy85pJPAK6wnUZjf3Eg.jpg", 
+            "title": "Adrien Broner misses weight by 0.40 lbs and elects to vacate belt and $50k of purse rather than cut it", 
+            "ups": 50, 
+            "upvote_ratio": 0.88, 
+            "url": "http://www.bloodyelbow.com/2016/3/31/11340598/adrien-broner-misses-weight-stripped-of-title-for-the-2nd-time-in-4-years-boxing-news", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "theotherjoefraizer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543486.0, 
+            "created_utc": 1459514686.0, 
+            "distinguished": null, 
+            "domain": "bloodyelbow.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cvfm5", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvfm5", 
+            "num_comments": 33, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvfm5/adrien_broner_misses_weight_by_040_lbs_and_elects/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "gDgIxX946a9Owqu3cioYQSSSUkH4VI0pcJrpnR3K2U8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=21b647093f625420fe7817257442fd00", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ff6780cc0dbcc834da6c4355de196a0", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=53795e2b6170787e7d083ea9df26c573", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7b150c69e3ba69df607b23ab9cca722", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=67beac18aa3741e99197e34a293e2d6c", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3314d1232d84e5247f4d570c79a8a995", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?s=1006284ea717eb312afb38497a780904", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 50, 
+            "scrape_time": 1459522276.15, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BV20fKo2uYApMPH9jsXkgJl4zy85pJPAK6wnUZjf3Eg.jpg", 
+            "title": "Adrien Broner misses weight by 0.40 lbs and elects to vacate belt and $50k of purse rather than cut it", 
+            "ups": 50, 
+            "upvote_ratio": 0.88, 
+            "url": "http://www.bloodyelbow.com/2016/3/31/11340598/adrien-broner-misses-weight-stripped-of-title-for-the-2nd-time-in-4-years-boxing-news", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "theotherjoefraizer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543486.0, 
+            "created_utc": 1459514686.0, 
+            "distinguished": null, 
+            "domain": "bloodyelbow.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cvfm5", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvfm5", 
+            "num_comments": 37, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvfm5/adrien_broner_misses_weight_by_040_lbs_and_elects/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "gDgIxX946a9Owqu3cioYQSSSUkH4VI0pcJrpnR3K2U8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=21b647093f625420fe7817257442fd00", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ff6780cc0dbcc834da6c4355de196a0", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=53795e2b6170787e7d083ea9df26c573", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7b150c69e3ba69df607b23ab9cca722", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=67beac18aa3741e99197e34a293e2d6c", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3314d1232d84e5247f4d570c79a8a995", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?s=1006284ea717eb312afb38497a780904", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 60, 
+            "scrape_time": 1459523456.1, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BV20fKo2uYApMPH9jsXkgJl4zy85pJPAK6wnUZjf3Eg.jpg", 
+            "title": "Adrien Broner misses weight by 0.40 lbs and elects to vacate belt and $50k of purse rather than cut it", 
+            "ups": 60, 
+            "upvote_ratio": 0.88, 
+            "url": "http://www.bloodyelbow.com/2016/3/31/11340598/adrien-broner-misses-weight-stripped-of-title-for-the-2nd-time-in-4-years-boxing-news", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "theotherjoefraizer", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543486.0, 
+            "created_utc": 1459514686.0, 
+            "distinguished": null, 
+            "domain": "bloodyelbow.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cvfm5", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cvfm5", 
+            "num_comments": 37, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvfm5/adrien_broner_misses_weight_by_040_lbs_and_elects/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "gDgIxX946a9Owqu3cioYQSSSUkH4VI0pcJrpnR3K2U8", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=21b647093f625420fe7817257442fd00", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ff6780cc0dbcc834da6c4355de196a0", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=53795e2b6170787e7d083ea9df26c573", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d7b150c69e3ba69df607b23ab9cca722", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=67beac18aa3741e99197e34a293e2d6c", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3314d1232d84e5247f4d570c79a8a995", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 900, 
+                            "url": "https://i.redditmedia.com/im83SqfhsPC9S7GS7gXVHVkou-kUcsv0vgMPGoHQXzM.jpg?s=1006284ea717eb312afb38497a780904", 
+                            "width": 1600
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 60, 
+            "scrape_time": 1459523490.003, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/BV20fKo2uYApMPH9jsXkgJl4zy85pJPAK6wnUZjf3Eg.jpg", 
+            "title": "Adrien Broner misses weight by 0.40 lbs and elects to vacate belt and $50k of purse rather than cut it", 
+            "ups": 60, 
+            "upvote_ratio": 0.88, 
+            "url": "http://www.bloodyelbow.com/2016/3/31/11340598/adrien-broner-misses-weight-stripped-of-title-for-the-2nd-time-in-4-years-boxing-news", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

@@ -1,0 +1,1576 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459455104.82, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 4, 
+            "upvote_ratio": 0.75, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459455947.0, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 5, 
+            "upvote_ratio": 0.78, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459455975.096, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 5, 
+            "upvote_ratio": 0.78, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459457747.597, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 9, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459457802.529, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 5, 
+            "upvote_ratio": 0.73, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458576.51, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 5, 
+            "upvote_ratio": 0.78, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459458644.408, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 5, 
+            "upvote_ratio": 0.78, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459518084.873, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 25, 
+            "upvote_ratio": 0.75, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459520256.23, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 25, 
+            "upvote_ratio": 0.75, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459522156.157, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 26, 
+            "upvote_ratio": 0.75, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 25, 
+            "scrape_time": 1459523360.232, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 25, 
+            "upvote_ratio": 0.76, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Ne0nkiller", 
+            "author_flair_css_class": "SE", 
+            "author_flair_text": "Sweden", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459481126.0, 
+            "created_utc": 1459452326.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crm92", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4crm92", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crm92/khabib_does_not_joke_around/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "Yk4BPbQSPhf3eE5xQ6ldXzS2qYv9PnlIrdwFFtcFXLw", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=d1044d5dc0e8ba45d3555ebe7e9567bc", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=966c3014aa8dc4e5fc48393d92e443dc", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1c36e3d5787f967c6c5513031860ed0c", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/_R7Cl_x5b_wzNSvOpaEom8ptQJhAUKwjXCbbbPNb_cU.jpg?s=0d12ef42b4a411453d054f9065d81092", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 24, 
+            "scrape_time": 1459524774.573, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "TheMMARoadShow", 
+                    "author_url": "https://www.youtube.com/channel/UCwlW6LDWhIBP48cxvmC0B3g", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/Kh4rSVw_24g/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC lightweight Khabib Nurmagomedov co-hosts MMAjunkie Radio - 7/30/15", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Kh4rSVw_24g?start=890&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/xt2iaiI3k1e3hlgmTmmXf4cyXGk2XCbquaDQltdEfew.jpg", 
+            "title": "Khabib does not joke around", 
+            "ups": 24, 
+            "upvote_ratio": 0.75, 
+            "url": "https://youtu.be/Kh4rSVw_24g?t=14m50s", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

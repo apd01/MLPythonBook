@@ -1,0 +1,1483 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459547590.466, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 1, 
+            "upvote_ratio": 1.0, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459548188.516, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 3, 
+            "upvote_ratio": 0.8, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459548192.629, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 3, 
+            "upvote_ratio": 0.8, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548788.53, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459548794.501, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459549405.587, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 2, 
+            "upvote_ratio": 0.6, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459549419.584, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 2, 
+            "upvote_ratio": 0.6, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459549991.466, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 3, 
+            "upvote_ratio": 0.64, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459550009.493, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 3, 
+            "upvote_ratio": 0.64, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459550588.524, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 6, 
+            "upvote_ratio": 0.71, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459550610.653, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 6, 
+            "upvote_ratio": 0.71, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459551188.523, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 7, 
+            "upvote_ratio": 0.73, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459551212.677, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 7, 
+            "upvote_ratio": 0.73, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459551788.516, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 6, 
+            "upvote_ratio": 0.69, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459551816.687, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 6, 
+            "upvote_ratio": 0.69, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459552388.508, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 6, 
+            "upvote_ratio": 0.69, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "MMA_JimEdwards", 
+            "author_flair_css_class": "verified", 
+            "author_flair_text": "Jim Edwards | Journalist", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459576240.0, 
+            "created_utc": 1459547440.0, 
+            "distinguished": null, 
+            "domain": "twitter.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cycqf", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cycqf", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cycqf/is_norman_parke_cut_potential_april_fools_warning/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "OICNBs0Xgl3OuFlZHH6DfT-tALH-L28oGzBFDBNOsiY", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=53b655b192888a21c7b1a6dc074c769a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2ec191b3053a548f24229b7e68e0f598", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=13ae7d4f6886cdadb9205c1125f9c86e", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 400, 
+                            "url": "https://i.redditmedia.com/1yj21qt4jM3VXAddEdRgksT_FwWbXcF9Uheq6SMvqLg.jpg?s=fa800d03241307bdf4cdca0449ecb381", 
+                            "width": 400
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 6, 
+            "scrape_time": 1459552420.455, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/gqy-M0BetGRztqf3q7_BqaOVyZBF8U2UWVw6bd2Qa38.jpg", 
+            "title": "Is Norman Parke cut? [Potential April Fools Warning]", 
+            "ups": 6, 
+            "upvote_ratio": 0.69, 
+            "url": "https://twitter.com/norman_parke/status/716019479604551680", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

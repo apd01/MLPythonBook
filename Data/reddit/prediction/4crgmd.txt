@@ -1,0 +1,924 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459455118.798, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 9, 
+            "upvote_ratio": 0.85, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459455932.991, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 10, 
+            "upvote_ratio": 0.86, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 10, 
+            "scrape_time": 1459455988.955, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 10, 
+            "upvote_ratio": 0.86, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459457733.557, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 13, 
+            "upvote_ratio": 0.85, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459458562.467, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 13, 
+            "upvote_ratio": 0.88, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 19, 
+            "scrape_time": 1459518070.814, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 19, 
+            "upvote_ratio": 0.77, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459520242.228, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 16, 
+            "upvote_ratio": 0.74, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459522142.145, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 17, 
+            "upvote_ratio": 0.73, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459523345.971, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 16, 
+            "upvote_ratio": 0.74, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "epicpythag", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459479185.0, 
+            "created_utc": 1459450385.0, 
+            "distinguished": null, 
+            "domain": "nightmareofbattle.net", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4crgmd", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4crgmd", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4crgmd/kazushi_sakuraba_and_hideo_tokoro_practice_tag/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "vTH3uqZnHo-UxnxT5ENtbZLHT5wYZpQ1JtLsOtVwaOY", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=a846f954027d6561af3940fdc03a976f", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=1400d20bf6abe01adb70d1894ed4df14", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=1bbec4d667771a5a70b97c4cde806696", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=ce272e316c19519f9112a12aaeeb3463", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 450, 
+                            "url": "https://i.redditmedia.com/jIgEU1FRs7ZqcLfwOUQ27HjC9WZcG2tDa8fB9KAkyMw.jpg?s=376bf60619a3865644ae98255ac40890", 
+                            "width": 800
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459524760.509, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/ly24FtY5GhnrYopPrjGfnixFVEMf828MQ6IxIdlXfA0.jpg", 
+            "title": "Kazushi Sakuraba and Hideo Tokoro practice tag team moves for Wanderlei Silva", 
+            "ups": 16, 
+            "upvote_ratio": 0.73, 
+            "url": "http://nightmareofbattle.net/kazushi-sakuraba-hideo-tokoro-prepare/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

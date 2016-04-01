@@ -1,0 +1,2948 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 19, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 19, 
+            "scrape_time": 1459538544.955, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 19, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 25, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 22, 
+            "scrape_time": 1459539128.597, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 22, 
+            "upvote_ratio": 0.81, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 25, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 22, 
+            "scrape_time": 1459539150.635, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 22, 
+            "upvote_ratio": 0.81, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 35, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459539728.613, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 27, 
+            "upvote_ratio": 0.81, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 35, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 27, 
+            "scrape_time": 1459539754.641, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 27, 
+            "upvote_ratio": 0.81, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 42, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 40, 
+            "scrape_time": 1459540328.632, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 40, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 42, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 40, 
+            "scrape_time": 1459540360.433, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 40, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 56, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 43, 
+            "scrape_time": 1459540928.663, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 43, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 56, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 43, 
+            "scrape_time": 1459540960.46, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 43, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 67, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 52, 
+            "scrape_time": 1459541528.818, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 52, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 67, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 52, 
+            "scrape_time": 1459541568.467, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 52, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 85, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 61, 
+            "scrape_time": 1459542128.888, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 61, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 85, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 61, 
+            "scrape_time": 1459542168.486, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 61, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 90, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 63, 
+            "scrape_time": 1459542730.851, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 63, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 90, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 63, 
+            "scrape_time": 1459542770.498, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 63, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 103, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 66, 
+            "scrape_time": 1459543329.111, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 66, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 103, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 66, 
+            "scrape_time": 1459543370.484, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 66, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 111, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 74, 
+            "scrape_time": 1459543928.945, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 74, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 116, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 71, 
+            "scrape_time": 1459544529.042, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 71, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 118, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 75, 
+            "scrape_time": 1459545129.118, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 75, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 122, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 74, 
+            "scrape_time": 1459545729.035, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 74, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 73, 
+            "scrape_time": 1459546329.043, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 73, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 74, 
+            "scrape_time": 1459546929.213, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 74, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 73, 
+            "scrape_time": 1459547529.122, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 73, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 71, 
+            "scrape_time": 1459548129.038, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 71, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 74, 
+            "scrape_time": 1459548728.979, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 74, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 72, 
+            "scrape_time": 1459549346.066, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 72, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 76, 
+            "scrape_time": 1459549932.008, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 76, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 126, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 71, 
+            "scrape_time": 1459550529.093, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 71, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 126, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 70, 
+            "scrape_time": 1459551129.015, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 70, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 126, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 75, 
+            "scrape_time": 1459551728.97, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 75, 
+            "upvote_ratio": 0.84, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ToastyyPanda", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"I hit like a pool noodle\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459565582.0, 
+            "created_utc": 1459536782.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cxcb6", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cxcb6", 
+            "num_comments": 126, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cxcb6/chad_mendes_going_off_on_the_hunting_haters/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "XE3_m9WLDj62vUmYrFL6QkWz-42eVK9HGuKAWI5F_Do", 
+                        "resolutions": [
+                            {
+                                "height": 134, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0830ac318bcdb0baebad6f12377cdec7", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 269, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cd32a3005724cc554f511fe61632c83b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 399, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3e66b091b014a1727fb93a51688c4e6e", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 799, 
+                                "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=511e7398d88018f1be60f09cba3b62c7", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 799, 
+                            "url": "https://i.redditmedia.com/ZacgcnmpBWm4L4KGI4dT6_ldTFEVyRoZq6SMiouLzjY.jpg?s=e33e29b6ec8b6a87277822b5b37fa629", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 72, 
+            "scrape_time": 1459552328.972, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/meDy6AXXMs3PqG7Y8mUm4qu2FZ2_WZnKoUn2UJ6zR4w.jpg", 
+            "title": "Chad Mendes going off on the \"hunting haters\"", 
+            "ups": 72, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.instagram.com/p/BDqwK4iPfXp/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

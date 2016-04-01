@@ -1,0 +1,1015 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 11, 
+            "scrape_time": 1459445575.273, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 11, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 18, 
+            "scrape_time": 1459450116.855, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 18, 
+            "upvote_ratio": 0.95, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 33, 
+            "scrape_time": 1459455019.586, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 33, 
+            "upvote_ratio": 0.94, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 38, 
+            "scrape_time": 1459455867.069, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 38, 
+            "upvote_ratio": 0.95, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 45, 
+            "scrape_time": 1459457667.571, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 45, 
+            "upvote_ratio": 0.92, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 11, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 49, 
+            "scrape_time": 1459458496.521, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 49, 
+            "upvote_ratio": 0.91, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 98, 
+            "scrape_time": 1459518004.998, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 98, 
+            "upvote_ratio": 0.91, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 99, 
+            "scrape_time": 1459520176.303, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 99, 
+            "upvote_ratio": 0.91, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 101, 
+            "scrape_time": 1459522076.214, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 101, 
+            "upvote_ratio": 0.91, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 100, 
+            "scrape_time": 1459523280.081, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 100, 
+            "upvote_ratio": 0.91, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "lmac187", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459470663.0, 
+            "created_utc": 1459441863.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqsid", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cqsid", 
+            "num_comments": 26, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqsid/joanna_champion_with_some_sick_mittwork_side_note/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "B90YB8Drhq7ZqgSHj9tUmaCpOcYCp7ByCyv0khLVaJw", 
+                        "resolutions": [
+                            {
+                                "height": 59, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=112a289a80ae6b1a7bf080804409b468", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 119, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=9cd103d6c5ff524f89fc5eec487b36fd", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 177, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=524b1a5e7aae3819708c7c7584db0667", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 355, 
+                                "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f84230fa5917ecac976d3daa1f00140f", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 355, 
+                            "url": "https://i.redditmedia.com/CtiKLA6q-S6cRh90tT-AjZuIVS9VLaDQ4lwdyDKTnyM.jpg?s=5bbde3c0fb3edc9484a201dea23cf5b4", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 97, 
+            "scrape_time": 1459524694.171, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/z0mWiytKKhDCLcauPhHUKd1f7-MEIuZibQ4WUpnwPLM.jpg", 
+            "title": "Joanna Champion with some sick mitt-work. Side note: I'm pretty certain that her gym was originally a parking garage.", 
+            "ups": 97, 
+            "upvote_ratio": 0.91, 
+            "url": "https://instagram.com/p/BDntIfSICFO/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

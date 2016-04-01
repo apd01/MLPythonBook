@@ -1,0 +1,514 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Andr3sfc", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459523691.0, 
+            "created_utc": 1459494891.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459500672.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cugqz", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cugqz", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "PF8UMUdyhB6y9n_5upAhVVf6SaTsbyro9uEmrVLyYbo", 
+                        "resolutions": [
+                            {
+                                "height": 21, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e62a239845f8513b38774deb56c35c8e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 43, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=b0710d61d5662d5c55ffebaec9e8ab93", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d3847dd906a4f8b20e94a91c9ad056b9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=deedd40a8633dd4410fe12eeec0e5bcd", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 192, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=25a3b6566f0db67ad628270b00a8ba32", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ffd5c3fe14589aa80ced2fe413e27bbb", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 300, 
+                            "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?s=69d4b56871677c9617cc7c17a3c86834", 
+                            "width": 1493
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459520393.597, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "> For reference: https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\n\nSo, I tried to come up with an \"evolution\" of the card scoring system brought by /u/NickDwyer.\n\nFirst off, I came up with a points system for the possible outcomes of a fight:\n\n**Wins**\n\n* (T)KO = 10\n* Sub = 10\n* UD = 7.5\n* SD = 5\n\n**Losses**\n\n* (T)KO = -10\n* Sub = -10\n* UD = -7.5\n* SD = -5\n\n*Others*\n\n* Draw = 2.5\n* NC = 0\n\nThen, I only use the fighter's last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we're trying to measure.\n\nSo, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.\n\nAfter the results for each fighter are done, they're all summed up and the result is divided by the number of bouts on the card.\n\nFor instance, this is the result for UFC 194: http://i.imgur.com/uxi0Sit.png\n\nThe resulting score is **37.29**.\n\nI also did [UFC 198](http://i.imgur.com/Ro9KSCf.png) (score: **27.50**) and [UFC 200](http://i.imgur.com/U0F4fpX.png) (so far, score: **12.19**).\n\nNow, possible flaws:\n\n* I'm not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the 'system' taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.\n* Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.\n\nWell, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><blockquote>\n<p>For reference: <a href=\"https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\">https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/</a></p>\n</blockquote>\n\n<p>So, I tried to come up with an &quot;evolution&quot; of the card scoring system brought by <a href=\"/u/NickDwyer\">/u/NickDwyer</a>.</p>\n\n<p>First off, I came up with a points system for the possible outcomes of a fight:</p>\n\n<p><strong>Wins</strong></p>\n\n<ul>\n<li>(T)KO = 10</li>\n<li>Sub = 10</li>\n<li>UD = 7.5</li>\n<li>SD = 5</li>\n</ul>\n\n<p><strong>Losses</strong></p>\n\n<ul>\n<li>(T)KO = -10</li>\n<li>Sub = -10</li>\n<li>UD = -7.5</li>\n<li>SD = -5</li>\n</ul>\n\n<p><em>Others</em></p>\n\n<ul>\n<li>Draw = 2.5</li>\n<li>NC = 0</li>\n</ul>\n\n<p>Then, I only use the fighter&#39;s last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we&#39;re trying to measure.</p>\n\n<p>So, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.</p>\n\n<p>After the results for each fighter are done, they&#39;re all summed up and the result is divided by the number of bouts on the card.</p>\n\n<p>For instance, this is the result for UFC 194: <a href=\"http://i.imgur.com/uxi0Sit.png\">http://i.imgur.com/uxi0Sit.png</a></p>\n\n<p>The resulting score is <strong>37.29</strong>.</p>\n\n<p>I also did <a href=\"http://i.imgur.com/Ro9KSCf.png\">UFC 198</a> (score: <strong>27.50</strong>) and <a href=\"http://i.imgur.com/U0F4fpX.png\">UFC 200</a> (so far, score: <strong>12.19</strong>).</p>\n\n<p>Now, possible flaws:</p>\n\n<ul>\n<li>I&#39;m not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the &#39;system&#39; taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.</li>\n<li>Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.</li>\n</ul>\n\n<p>Well, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Evolving the Dwyer Score", 
+            "ups": 4, 
+            "upvote_ratio": 0.6, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Andr3sfc", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459523691.0, 
+            "created_utc": 1459494891.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459500672.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cugqz", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cugqz", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "PF8UMUdyhB6y9n_5upAhVVf6SaTsbyro9uEmrVLyYbo", 
+                        "resolutions": [
+                            {
+                                "height": 21, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e62a239845f8513b38774deb56c35c8e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 43, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=b0710d61d5662d5c55ffebaec9e8ab93", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d3847dd906a4f8b20e94a91c9ad056b9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=deedd40a8633dd4410fe12eeec0e5bcd", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 192, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=25a3b6566f0db67ad628270b00a8ba32", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ffd5c3fe14589aa80ced2fe413e27bbb", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 300, 
+                            "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?s=69d4b56871677c9617cc7c17a3c86834", 
+                            "width": 1493
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459522208.133, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "> For reference: https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\n\nSo, I tried to come up with an \"evolution\" of the card scoring system brought by /u/NickDwyer.\n\nFirst off, I came up with a points system for the possible outcomes of a fight:\n\n**Wins**\n\n* (T)KO = 10\n* Sub = 10\n* UD = 7.5\n* SD = 5\n\n**Losses**\n\n* (T)KO = -10\n* Sub = -10\n* UD = -7.5\n* SD = -5\n\n*Others*\n\n* Draw = 2.5\n* NC = 0\n\nThen, I only use the fighter's last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we're trying to measure.\n\nSo, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.\n\nAfter the results for each fighter are done, they're all summed up and the result is divided by the number of bouts on the card.\n\nFor instance, this is the result for UFC 194: http://i.imgur.com/uxi0Sit.png\n\nThe resulting score is **37.29**.\n\nI also did [UFC 198](http://i.imgur.com/Ro9KSCf.png) (score: **27.50**) and [UFC 200](http://i.imgur.com/U0F4fpX.png) (so far, score: **12.19**).\n\nNow, possible flaws:\n\n* I'm not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the 'system' taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.\n* Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.\n\nWell, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><blockquote>\n<p>For reference: <a href=\"https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\">https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/</a></p>\n</blockquote>\n\n<p>So, I tried to come up with an &quot;evolution&quot; of the card scoring system brought by <a href=\"/u/NickDwyer\">/u/NickDwyer</a>.</p>\n\n<p>First off, I came up with a points system for the possible outcomes of a fight:</p>\n\n<p><strong>Wins</strong></p>\n\n<ul>\n<li>(T)KO = 10</li>\n<li>Sub = 10</li>\n<li>UD = 7.5</li>\n<li>SD = 5</li>\n</ul>\n\n<p><strong>Losses</strong></p>\n\n<ul>\n<li>(T)KO = -10</li>\n<li>Sub = -10</li>\n<li>UD = -7.5</li>\n<li>SD = -5</li>\n</ul>\n\n<p><em>Others</em></p>\n\n<ul>\n<li>Draw = 2.5</li>\n<li>NC = 0</li>\n</ul>\n\n<p>Then, I only use the fighter&#39;s last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we&#39;re trying to measure.</p>\n\n<p>So, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.</p>\n\n<p>After the results for each fighter are done, they&#39;re all summed up and the result is divided by the number of bouts on the card.</p>\n\n<p>For instance, this is the result for UFC 194: <a href=\"http://i.imgur.com/uxi0Sit.png\">http://i.imgur.com/uxi0Sit.png</a></p>\n\n<p>The resulting score is <strong>37.29</strong>.</p>\n\n<p>I also did <a href=\"http://i.imgur.com/Ro9KSCf.png\">UFC 198</a> (score: <strong>27.50</strong>) and <a href=\"http://i.imgur.com/U0F4fpX.png\">UFC 200</a> (so far, score: <strong>12.19</strong>).</p>\n\n<p>Now, possible flaws:</p>\n\n<ul>\n<li>I&#39;m not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the &#39;system&#39; taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.</li>\n<li>Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.</li>\n</ul>\n\n<p>Well, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Evolving the Dwyer Score", 
+            "ups": 7, 
+            "upvote_ratio": 0.68, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Andr3sfc", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459523691.0, 
+            "created_utc": 1459494891.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459500672.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cugqz", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cugqz", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "PF8UMUdyhB6y9n_5upAhVVf6SaTsbyro9uEmrVLyYbo", 
+                        "resolutions": [
+                            {
+                                "height": 21, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e62a239845f8513b38774deb56c35c8e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 43, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=b0710d61d5662d5c55ffebaec9e8ab93", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d3847dd906a4f8b20e94a91c9ad056b9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=deedd40a8633dd4410fe12eeec0e5bcd", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 192, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=25a3b6566f0db67ad628270b00a8ba32", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ffd5c3fe14589aa80ced2fe413e27bbb", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 300, 
+                            "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?s=69d4b56871677c9617cc7c17a3c86834", 
+                            "width": 1493
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 7, 
+            "scrape_time": 1459522304.13, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "> For reference: https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\n\nSo, I tried to come up with an \"evolution\" of the card scoring system brought by /u/NickDwyer.\n\nFirst off, I came up with a points system for the possible outcomes of a fight:\n\n**Wins**\n\n* (T)KO = 10\n* Sub = 10\n* UD = 7.5\n* SD = 5\n\n**Losses**\n\n* (T)KO = -10\n* Sub = -10\n* UD = -7.5\n* SD = -5\n\n*Others*\n\n* Draw = 2.5\n* NC = 0\n\nThen, I only use the fighter's last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we're trying to measure.\n\nSo, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.\n\nAfter the results for each fighter are done, they're all summed up and the result is divided by the number of bouts on the card.\n\nFor instance, this is the result for UFC 194: http://i.imgur.com/uxi0Sit.png\n\nThe resulting score is **37.29**.\n\nI also did [UFC 198](http://i.imgur.com/Ro9KSCf.png) (score: **27.50**) and [UFC 200](http://i.imgur.com/U0F4fpX.png) (so far, score: **12.19**).\n\nNow, possible flaws:\n\n* I'm not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the 'system' taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.\n* Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.\n\nWell, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><blockquote>\n<p>For reference: <a href=\"https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\">https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/</a></p>\n</blockquote>\n\n<p>So, I tried to come up with an &quot;evolution&quot; of the card scoring system brought by <a href=\"/u/NickDwyer\">/u/NickDwyer</a>.</p>\n\n<p>First off, I came up with a points system for the possible outcomes of a fight:</p>\n\n<p><strong>Wins</strong></p>\n\n<ul>\n<li>(T)KO = 10</li>\n<li>Sub = 10</li>\n<li>UD = 7.5</li>\n<li>SD = 5</li>\n</ul>\n\n<p><strong>Losses</strong></p>\n\n<ul>\n<li>(T)KO = -10</li>\n<li>Sub = -10</li>\n<li>UD = -7.5</li>\n<li>SD = -5</li>\n</ul>\n\n<p><em>Others</em></p>\n\n<ul>\n<li>Draw = 2.5</li>\n<li>NC = 0</li>\n</ul>\n\n<p>Then, I only use the fighter&#39;s last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we&#39;re trying to measure.</p>\n\n<p>So, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.</p>\n\n<p>After the results for each fighter are done, they&#39;re all summed up and the result is divided by the number of bouts on the card.</p>\n\n<p>For instance, this is the result for UFC 194: <a href=\"http://i.imgur.com/uxi0Sit.png\">http://i.imgur.com/uxi0Sit.png</a></p>\n\n<p>The resulting score is <strong>37.29</strong>.</p>\n\n<p>I also did <a href=\"http://i.imgur.com/Ro9KSCf.png\">UFC 198</a> (score: <strong>27.50</strong>) and <a href=\"http://i.imgur.com/U0F4fpX.png\">UFC 200</a> (so far, score: <strong>12.19</strong>).</p>\n\n<p>Now, possible flaws:</p>\n\n<ul>\n<li>I&#39;m not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the &#39;system&#39; taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.</li>\n<li>Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.</li>\n</ul>\n\n<p>Well, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Evolving the Dwyer Score", 
+            "ups": 7, 
+            "upvote_ratio": 0.67, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Andr3sfc", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459523691.0, 
+            "created_utc": 1459494891.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459500672.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cugqz", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cugqz", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "PF8UMUdyhB6y9n_5upAhVVf6SaTsbyro9uEmrVLyYbo", 
+                        "resolutions": [
+                            {
+                                "height": 21, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e62a239845f8513b38774deb56c35c8e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 43, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=b0710d61d5662d5c55ffebaec9e8ab93", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d3847dd906a4f8b20e94a91c9ad056b9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=deedd40a8633dd4410fe12eeec0e5bcd", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 192, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=25a3b6566f0db67ad628270b00a8ba32", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ffd5c3fe14589aa80ced2fe413e27bbb", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 300, 
+                            "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?s=69d4b56871677c9617cc7c17a3c86834", 
+                            "width": 1493
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459523411.992, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "> For reference: https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\n\nSo, I tried to come up with an \"evolution\" of the card scoring system brought by /u/NickDwyer.\n\nFirst off, I came up with a points system for the possible outcomes of a fight:\n\n**Wins**\n\n* (T)KO = 10\n* Sub = 10\n* UD = 7.5\n* SD = 5\n\n**Losses**\n\n* (T)KO = -10\n* Sub = -10\n* UD = -7.5\n* SD = -5\n\n*Others*\n\n* Draw = 2.5\n* NC = 0\n\nThen, I only use the fighter's last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we're trying to measure.\n\nSo, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.\n\nAfter the results for each fighter are done, they're all summed up and the result is divided by the number of bouts on the card.\n\nFor instance, this is the result for UFC 194: http://i.imgur.com/uxi0Sit.png\n\nThe resulting score is **37.29**.\n\nI also did [UFC 198](http://i.imgur.com/Ro9KSCf.png) (score: **27.50**) and [UFC 200](http://i.imgur.com/U0F4fpX.png) (so far, score: **12.19**).\n\nNow, possible flaws:\n\n* I'm not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the 'system' taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.\n* Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.\n\nWell, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><blockquote>\n<p>For reference: <a href=\"https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\">https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/</a></p>\n</blockquote>\n\n<p>So, I tried to come up with an &quot;evolution&quot; of the card scoring system brought by <a href=\"/u/NickDwyer\">/u/NickDwyer</a>.</p>\n\n<p>First off, I came up with a points system for the possible outcomes of a fight:</p>\n\n<p><strong>Wins</strong></p>\n\n<ul>\n<li>(T)KO = 10</li>\n<li>Sub = 10</li>\n<li>UD = 7.5</li>\n<li>SD = 5</li>\n</ul>\n\n<p><strong>Losses</strong></p>\n\n<ul>\n<li>(T)KO = -10</li>\n<li>Sub = -10</li>\n<li>UD = -7.5</li>\n<li>SD = -5</li>\n</ul>\n\n<p><em>Others</em></p>\n\n<ul>\n<li>Draw = 2.5</li>\n<li>NC = 0</li>\n</ul>\n\n<p>Then, I only use the fighter&#39;s last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we&#39;re trying to measure.</p>\n\n<p>So, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.</p>\n\n<p>After the results for each fighter are done, they&#39;re all summed up and the result is divided by the number of bouts on the card.</p>\n\n<p>For instance, this is the result for UFC 194: <a href=\"http://i.imgur.com/uxi0Sit.png\">http://i.imgur.com/uxi0Sit.png</a></p>\n\n<p>The resulting score is <strong>37.29</strong>.</p>\n\n<p>I also did <a href=\"http://i.imgur.com/Ro9KSCf.png\">UFC 198</a> (score: <strong>27.50</strong>) and <a href=\"http://i.imgur.com/U0F4fpX.png\">UFC 200</a> (so far, score: <strong>12.19</strong>).</p>\n\n<p>Now, possible flaws:</p>\n\n<ul>\n<li>I&#39;m not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the &#39;system&#39; taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.</li>\n<li>Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.</li>\n</ul>\n\n<p>Well, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Evolving the Dwyer Score", 
+            "ups": 9, 
+            "upvote_ratio": 0.72, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Andr3sfc", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459523691.0, 
+            "created_utc": 1459494891.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459500672.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cugqz", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cugqz", 
+            "num_comments": 7, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "PF8UMUdyhB6y9n_5upAhVVf6SaTsbyro9uEmrVLyYbo", 
+                        "resolutions": [
+                            {
+                                "height": 21, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=e62a239845f8513b38774deb56c35c8e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 43, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=b0710d61d5662d5c55ffebaec9e8ab93", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 64, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=d3847dd906a4f8b20e94a91c9ad056b9", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 128, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=deedd40a8633dd4410fe12eeec0e5bcd", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 192, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=25a3b6566f0db67ad628270b00a8ba32", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 217, 
+                                "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=ffd5c3fe14589aa80ced2fe413e27bbb", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 300, 
+                            "url": "https://i.redditmedia.com/dqUkc9Z4rTCFCx9ygIXTckRy9eMJvleGTC9b8mGzCGw.jpg?s=69d4b56871677c9617cc7c17a3c86834", 
+                            "width": 1493
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459524826.52, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "> For reference: https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\n\nSo, I tried to come up with an \"evolution\" of the card scoring system brought by /u/NickDwyer.\n\nFirst off, I came up with a points system for the possible outcomes of a fight:\n\n**Wins**\n\n* (T)KO = 10\n* Sub = 10\n* UD = 7.5\n* SD = 5\n\n**Losses**\n\n* (T)KO = -10\n* Sub = -10\n* UD = -7.5\n* SD = -5\n\n*Others*\n\n* Draw = 2.5\n* NC = 0\n\nThen, I only use the fighter's last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we're trying to measure.\n\nSo, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.\n\nAfter the results for each fighter are done, they're all summed up and the result is divided by the number of bouts on the card.\n\nFor instance, this is the result for UFC 194: http://i.imgur.com/uxi0Sit.png\n\nThe resulting score is **37.29**.\n\nI also did [UFC 198](http://i.imgur.com/Ro9KSCf.png) (score: **27.50**) and [UFC 200](http://i.imgur.com/U0F4fpX.png) (so far, score: **12.19**).\n\nNow, possible flaws:\n\n* I'm not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the 'system' taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.\n* Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.\n\nWell, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><blockquote>\n<p>For reference: <a href=\"https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/\">https://www.reddit.com/r/MMA/comments/4cqcvu/interesting_stat_on_ufc_200_thus_far/</a></p>\n</blockquote>\n\n<p>So, I tried to come up with an &quot;evolution&quot; of the card scoring system brought by <a href=\"/u/NickDwyer\">/u/NickDwyer</a>.</p>\n\n<p>First off, I came up with a points system for the possible outcomes of a fight:</p>\n\n<p><strong>Wins</strong></p>\n\n<ul>\n<li>(T)KO = 10</li>\n<li>Sub = 10</li>\n<li>UD = 7.5</li>\n<li>SD = 5</li>\n</ul>\n\n<p><strong>Losses</strong></p>\n\n<ul>\n<li>(T)KO = -10</li>\n<li>Sub = -10</li>\n<li>UD = -7.5</li>\n<li>SD = -5</li>\n</ul>\n\n<p><em>Others</em></p>\n\n<ul>\n<li>Draw = 2.5</li>\n<li>NC = 0</li>\n</ul>\n\n<p>Then, I only use the fighter&#39;s last three bouts. The reason for that is that fights are very spaced out, like six months apart. In my judgement, three fights gets the appropriate momentum we&#39;re trying to measure.</p>\n\n<p>So, with the points distribution laid out, we attribute them for each of the last three fights of every fighter on the card. Then, the results of that fighter are summed up and the result is attributed to him.</p>\n\n<p>After the results for each fighter are done, they&#39;re all summed up and the result is divided by the number of bouts on the card.</p>\n\n<p>For instance, this is the result for UFC 194: <a href=\"http://i.imgur.com/uxi0Sit.png\">http://i.imgur.com/uxi0Sit.png</a></p>\n\n<p>The resulting score is <strong>37.29</strong>.</p>\n\n<p>I also did <a href=\"http://i.imgur.com/Ro9KSCf.png\">UFC 198</a> (score: <strong>27.50</strong>) and <a href=\"http://i.imgur.com/U0F4fpX.png\">UFC 200</a> (so far, score: <strong>12.19</strong>).</p>\n\n<p>Now, possible flaws:</p>\n\n<ul>\n<li>I&#39;m not taking into account the ranking of the opponents against which the win/loss ocurred. I may do so in the future \u2014 or someone else could help evolve the &#39;system&#39; taking this in consideration. My problem with the rankings is their subjective character \u2014 we know they have holes and unbalances \u2014, but it may be better than nothing.</li>\n<li>Some fighters (basically low levels ones, fighting at the prelims) are making their first or second bouts in the UFC, and their fights in other [lower level] organizations are took into account.</li>\n</ul>\n\n<p>Well, I hope you guys like it. Post your thoughts and suggestions for improvement \u2014 if any. Cheers!</p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Evolving the Dwyer Score", 
+            "ups": 9, 
+            "upvote_ratio": 0.72, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cugqz/evolving_the_dwyer_score/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

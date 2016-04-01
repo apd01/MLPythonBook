@@ -1,0 +1,1445 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459549413.514, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 1, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459550003.399, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459550009.392, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459550600.439, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459550610.549, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 0.75, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459551200.454, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 0.67, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459551212.571, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 0.67, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459551800.452, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459551816.568, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459552400.455, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "rawpills", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team 209 - Real Ninja Shit!", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578160.0, 
+            "created_utc": 1459549360.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cyima", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cyima", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cyima/bellator_has_options_if_you_dont_like_mitrione_vs/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "MjH-5DWLo4JmMZsigYuYlsw3eUjDpbAgj0gGHtexiSI", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fc7cf2f22bdfc4dc9fb2c020d78c0c1a", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=493bc1fc71579f0f7cf81a65366d96e7", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=bc2eb2896d7397623cdea1b496471ceb", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/TbQT3ma1O5jB9kS3KJzT7xzxB1M9tczTHyU5Hdptk5A.jpg?s=e080cf09e708f318f4fcf84d63cd0316", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 2, 
+            "scrape_time": 1459552418.581, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "MMAFightingonSBN", 
+                    "author_url": "https://www.youtube.com/user/MMAFightingonSBN", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/cWUjFpt2kOo/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Rampage Jackson to Matt Mitrione: '[Expletive] You'", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/cWUjFpt2kOo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/3VzqVeFejtcKs3-BFM8jg5pRRCfRzhPt2gxI6v792_Q.jpg", 
+            "title": "Bellator has options. If you don't like Mitrione vs Tito, how about Mitrione vs Rampage? #wouldwatch", 
+            "ups": 2, 
+            "upvote_ratio": 0.63, 
+            "url": "https://www.youtube.com/watch?v=cWUjFpt2kOo", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

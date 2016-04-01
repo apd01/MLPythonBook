@@ -1,0 +1,1392 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 4, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459445575.289, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 9, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 13, 
+            "scrape_time": 1459447151.552, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 13, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459447273.101, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 12, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459447300.918, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 12, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459450135.036, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 17, 
+            "upvote_ratio": 0.78, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459450203.058, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 17, 
+            "upvote_ratio": 0.78, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 33, 
+            "scrape_time": 1459455039.545, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 33, 
+            "upvote_ratio": 0.81, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 36, 
+            "scrape_time": 1459455134.855, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 36, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 12, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 36, 
+            "scrape_time": 1459455887.086, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 36, 
+            "upvote_ratio": 0.82, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 49, 
+            "scrape_time": 1459457687.58, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 49, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 15, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 53, 
+            "scrape_time": 1459458516.549, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 53, 
+            "upvote_ratio": 0.87, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459466844.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 39, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 107, 
+            "scrape_time": 1459518025.036, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/\n\n\n\n\n\n\nUpdate:\n\nShout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. ", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n\n<p>Update:</p>\n\n<p>Shout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. </p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 107, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459466844.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 39, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 111, 
+            "scrape_time": 1459520196.41, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/\n\n\n\n\n\n\nUpdate:\n\nShout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. ", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n\n<p>Update:</p>\n\n<p>Shout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. </p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 111, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459466844.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 41, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 108, 
+            "scrape_time": 1459522096.249, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/\n\n\n\n\n\n\nUpdate:\n\nShout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. ", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n\n<p>Update:</p>\n\n<p>Shout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. </p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 108, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459466844.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 41, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 110, 
+            "scrape_time": 1459523300.241, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/\n\n\n\n\n\n\nUpdate:\n\nShout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. ", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n\n<p>Update:</p>\n\n<p>Shout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. </p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 110, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "TebownedMVP", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459473481.0, 
+            "created_utc": 1459444681.0, 
+            "distinguished": null, 
+            "domain": "self.MMA", 
+            "downs": 0, 
+            "edited": 1459466844.0, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr0bk", 
+            "is_self": true, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr0bk", 
+            "num_comments": 41, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "post_hint": "self", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "tJkgvSzq41sqr-ksTY3WGWtsy19fOlcrLXNTGe7v-q8", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=33d75ad4e4f0ec9aa9555a65562845d5", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=4abc5316dc268aa447008058dee13c0b", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=a1659e875c51a1df5cac37a47d9d8cca", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/AilmJFgctRIW1fQqwdCK1M2OaG8RXGmtIb74VDB6Y5w.jpg?s=30ea463c6df08725bcad34242ba7fde2", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 109, 
+            "scrape_time": 1459524714.753, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "Sorry if this is the wrong place. I'm posting this on behalf of Tyler \"Hulk Hands\" Freeland. \nHe's 3-0. I'm not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He's not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. \n\nFight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn't release online view ratings. \n\nIf interested please contact me at tebowned@icloud.com or even him directly on Facebook. Let me know if you have any questions. \n\nOld video with MMA reporter Aaron Tru:\n\n\nhttps://m.youtube.com/watch?v=RlOgoyhwl7E\n\n\nhttp://m.sherdog.com/fighter/Tyler-Freeland-22529\n\n\nhttps://m.facebook.com/TylerHulkHandsFreeland/\n\n\n\n\n\n\nUpdate:\n\nShout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. ", 
+            "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this is the wrong place. I&#39;m posting this on behalf of Tyler &quot;Hulk Hands&quot; Freeland. \nHe&#39;s 3-0. I&#39;m not looking for any monetary reimbursement and I am not his manager but I want to help a local fighter out. He&#39;s not nessasarily picky but would like a sponsorship by a supplement company for this fight or future fights or anything else really. </p>\n\n<p>Fight will broadcast live on spike.com and possibility of showing replay on Spike Tv but not a guarantee. Spike, IIRC, doesn&#39;t release online view ratings. </p>\n\n<p>If interested please contact me at <a href=\"mailto:tebowned@icloud.com\">tebowned@icloud.com</a> or even him directly on Facebook. Let me know if you have any questions. </p>\n\n<p>Old video with MMA reporter Aaron Tru:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=RlOgoyhwl7E\">https://m.youtube.com/watch?v=RlOgoyhwl7E</a></p>\n\n<p><a href=\"http://m.sherdog.com/fighter/Tyler-Freeland-22529\">http://m.sherdog.com/fighter/Tyler-Freeland-22529</a></p>\n\n<p><a href=\"https://m.facebook.com/TylerHulkHandsFreeland/\">https://m.facebook.com/TylerHulkHandsFreeland/</a></p>\n\n<p>Update:</p>\n\n<p>Shout out to VooDoo Zipline. @voodoozipline on Instagram and Twitter. </p>\n</div><!-- SC_ON -->", 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "self", 
+            "title": "Bellator 155 dwarf undercard fighter looking for possible sponsorships.", 
+            "ups": 109, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/MMA/comments/4cr0bk/bellator_155_dwarf_undercard_fighter_looking_for/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

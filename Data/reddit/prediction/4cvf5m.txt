@@ -1,0 +1,921 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Mr_boobsboobersom", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team McGregor", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543304.0, 
+            "created_utc": 1459514504.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvf5m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvf5m", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvf5m/anyone_know_a_site_or_channel_with_kick_boxing/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "fSEitFgStUF1cqQzP6eV1XPaNmo5OPHEulzxYsuqMFE", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c272be3d91cbe496eeaf6d009d31f359", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c477aeff41ee8684313c989ba31cc5cf", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=475a36b3651cd5cf7869285e868b3648", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?s=d76e5474c1056c99c5b9e5b6cccb0029", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459518142.8, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/LzlreKXOxMzjvRWaJRvtHJylP_l_AWGZv_XENbZTUiM.jpg", 
+            "title": "Anyone know a site or channel with kick boxing videos like the linked video", 
+            "ups": 4, 
+            "upvote_ratio": 0.83, 
+            "url": "https://youtu.be/5Z_iJSQO-3c", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Mr_boobsboobersom", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team McGregor", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543304.0, 
+            "created_utc": 1459514504.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvf5m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvf5m", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvf5m/anyone_know_a_site_or_channel_with_kick_boxing/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "fSEitFgStUF1cqQzP6eV1XPaNmo5OPHEulzxYsuqMFE", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c272be3d91cbe496eeaf6d009d31f359", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c477aeff41ee8684313c989ba31cc5cf", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=475a36b3651cd5cf7869285e868b3648", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?s=d76e5474c1056c99c5b9e5b6cccb0029", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459520347.562, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/LzlreKXOxMzjvRWaJRvtHJylP_l_AWGZv_XENbZTUiM.jpg", 
+            "title": "Anyone know a site or channel with kick boxing videos like the linked video", 
+            "ups": 4, 
+            "upvote_ratio": 0.7, 
+            "url": "https://youtu.be/5Z_iJSQO-3c", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Mr_boobsboobersom", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team McGregor", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543304.0, 
+            "created_utc": 1459514504.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cvf5m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvf5m", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvf5m/anyone_know_a_site_or_channel_with_kick_boxing/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "fSEitFgStUF1cqQzP6eV1XPaNmo5OPHEulzxYsuqMFE", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c272be3d91cbe496eeaf6d009d31f359", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c477aeff41ee8684313c989ba31cc5cf", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=475a36b3651cd5cf7869285e868b3648", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?s=d76e5474c1056c99c5b9e5b6cccb0029", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459520363.619, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/LzlreKXOxMzjvRWaJRvtHJylP_l_AWGZv_XENbZTUiM.jpg", 
+            "title": "Anyone know a site or channel with kick boxing videos like the linked video", 
+            "ups": 4, 
+            "upvote_ratio": 0.7, 
+            "url": "https://youtu.be/5Z_iJSQO-3c", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Mr_boobsboobersom", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team McGregor", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543304.0, 
+            "created_utc": 1459514504.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cvf5m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvf5m", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvf5m/anyone_know_a_site_or_channel_with_kick_boxing/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "fSEitFgStUF1cqQzP6eV1XPaNmo5OPHEulzxYsuqMFE", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c272be3d91cbe496eeaf6d009d31f359", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c477aeff41ee8684313c989ba31cc5cf", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=475a36b3651cd5cf7869285e868b3648", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?s=d76e5474c1056c99c5b9e5b6cccb0029", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459522250.089, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/LzlreKXOxMzjvRWaJRvtHJylP_l_AWGZv_XENbZTUiM.jpg", 
+            "title": "Anyone know a site or channel with kick boxing videos like the linked video", 
+            "ups": 4, 
+            "upvote_ratio": 0.67, 
+            "url": "https://youtu.be/5Z_iJSQO-3c", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Mr_boobsboobersom", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team McGregor", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543304.0, 
+            "created_utc": 1459514504.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cvf5m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvf5m", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvf5m/anyone_know_a_site_or_channel_with_kick_boxing/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "fSEitFgStUF1cqQzP6eV1XPaNmo5OPHEulzxYsuqMFE", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c272be3d91cbe496eeaf6d009d31f359", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c477aeff41ee8684313c989ba31cc5cf", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=475a36b3651cd5cf7869285e868b3648", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?s=d76e5474c1056c99c5b9e5b6cccb0029", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 4, 
+            "scrape_time": 1459522276.161, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/LzlreKXOxMzjvRWaJRvtHJylP_l_AWGZv_XENbZTUiM.jpg", 
+            "title": "Anyone know a site or channel with kick boxing videos like the linked video", 
+            "ups": 4, 
+            "upvote_ratio": 0.67, 
+            "url": "https://youtu.be/5Z_iJSQO-3c", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Mr_boobsboobersom", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team McGregor", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543304.0, 
+            "created_utc": 1459514504.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cvf5m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvf5m", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvf5m/anyone_know_a_site_or_channel_with_kick_boxing/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "fSEitFgStUF1cqQzP6eV1XPaNmo5OPHEulzxYsuqMFE", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c272be3d91cbe496eeaf6d009d31f359", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c477aeff41ee8684313c989ba31cc5cf", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=475a36b3651cd5cf7869285e868b3648", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?s=d76e5474c1056c99c5b9e5b6cccb0029", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459523453.952, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/LzlreKXOxMzjvRWaJRvtHJylP_l_AWGZv_XENbZTUiM.jpg", 
+            "title": "Anyone know a site or channel with kick boxing videos like the linked video", 
+            "ups": 5, 
+            "upvote_ratio": 0.69, 
+            "url": "https://youtu.be/5Z_iJSQO-3c", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Mr_boobsboobersom", 
+            "author_flair_css_class": "", 
+            "author_flair_text": "Team McGregor", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459543304.0, 
+            "created_utc": 1459514504.0, 
+            "distinguished": null, 
+            "domain": "youtu.be", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cvf5m", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cvf5m", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cvf5m/anyone_know_a_site_or_channel_with_kick_boxing/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "fSEitFgStUF1cqQzP6eV1XPaNmo5OPHEulzxYsuqMFE", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=c272be3d91cbe496eeaf6d009d31f359", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=c477aeff41ee8684313c989ba31cc5cf", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=475a36b3651cd5cf7869285e868b3648", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/cDs55_lvXuSf8uFjEuBOyStlPz5yMcCSx4_H516uAHk.jpg?s=d76e5474c1056c99c5b9e5b6cccb0029", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459523491.938, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Sneak Punch", 
+                    "author_url": "https://www.youtube.com/user/sneakpunchcom", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/5Z_iJSQO-3c/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "Punch Bag Combination 1 - Boxing Workouts", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/5Z_iJSQO-3c?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/LzlreKXOxMzjvRWaJRvtHJylP_l_AWGZv_XENbZTUiM.jpg", 
+            "title": "Anyone know a site or channel with kick boxing videos like the linked video", 
+            "ups": 5, 
+            "upvote_ratio": 0.69, 
+            "url": "https://youtu.be/5Z_iJSQO-3c", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

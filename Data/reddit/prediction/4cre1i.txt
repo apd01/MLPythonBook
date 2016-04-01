@@ -1,0 +1,988 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 2, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459450174.563, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 3, 
+            "upvote_ratio": 0.8, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459455084.726, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 15, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459455120.813, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 15, 
+            "upvote_ratio": 0.86, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459455927.054, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 15, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 16, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 15, 
+            "scrape_time": 1459455990.964, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 15, 
+            "upvote_ratio": 0.83, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 23, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 22, 
+            "scrape_time": 1459457727.654, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 22, 
+            "upvote_ratio": 0.87, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 23, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 26, 
+            "scrape_time": 1459458556.493, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 26, 
+            "upvote_ratio": 0.89, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 162, 
+            "scrape_time": 1459518065.572, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 162, 
+            "upvote_ratio": 0.91, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 162, 
+            "scrape_time": 1459520236.779, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 162, 
+            "upvote_ratio": 0.91, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 162, 
+            "scrape_time": 1459522136.847, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 162, 
+            "upvote_ratio": 0.91, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 124, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 168, 
+            "scrape_time": 1459523340.804, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 168, 
+            "upvote_ratio": 0.91, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "1Ender", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459478256.0, 
+            "created_utc": 1459449456.0, 
+            "distinguished": null, 
+            "domain": "reddit.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cre1i", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cre1i", 
+            "num_comments": 125, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cre1i/some_guy_on_rbodyweight_fitness_posted_a_review/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "KR8oJeB8ComfEPX0bkCe_p2L73IOmk0sTCsyNlfXSNg", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=19f81c159c3852ca87417e2d2edde0b0", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=2b071d25ede17deadf68cb9b7db13230", 
+                                "width": 216
+                            }
+                        ], 
+                        "source": {
+                            "height": 256, 
+                            "url": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?s=8598544207619a3020f808583e28b4c4", 
+                            "width": 256
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 171, 
+            "scrape_time": 1459524755.418, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/yK_6r3YinYWZqCLBZCiwLylDjFyKmXXOmjQXXC6-vIA.jpg", 
+            "title": "some guy on /r/bodyweight fitness posted a review of Ido Portals $1000 for 3 month online coaching. He did it for 2 years.", 
+            "ups": 171, 
+            "upvote_ratio": 0.91, 
+            "url": "https://www.reddit.com/r/bodyweightfitness/comments/4cpwlv/my_ido_portal_online_coaching_review/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

@@ -1,0 +1,809 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578843.0, 
+            "created_utc": 1459550043.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cykph", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "henry_cejudo", 
+                    "author_url": "https://www.instagram.com/henry_cejudo", 
+                    "description": "\"The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197...\"", 
+                    "height": 584, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Instagram", 
+                    "provider_url": "https://www.instagram.com", 
+                    "thumbnail_height": 640, 
+                    "thumbnail_url": "https://scontent.cdninstagram.com/t51.2885-15/e15/11417440_595063890659785_270519436_n.jpg?ig_cache_key=MTIxOTA1NjAyMjE3MDE5MTQxNg%3D%3D.2", 
+                    "thumbnail_width": 640, 
+                    "title": "The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197 #usawrestling #ufc", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "instagram.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 584, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cykph", 
+            "num_comments": 5, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cykph/cejudo_looks_to_be_in_the_best_shape_weve_seen/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "svHxtz4Z3J0GjpaNV9rBmoDoyJRXQxcMqkB-uMqCMV0", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8e5794b66c3000e92a7417897de54c82", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=aed30c2262fc231543f00a1adddcc804", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5aaadac54955f5c7f7f0fa26eb6a4cb4", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1a4970e3af0c0dc2e97439865f579376", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?s=3224d8a8757ba3ad35f5b1f93aefae3d", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 5, 
+            "scrape_time": 1459550610.495, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Zy3PWjRmdst6WUUuRxoBcAY-On-mM6iK8dyCk9PnJ_0.jpg", 
+            "title": "Cejudo looks to be in the best shape we've seen him thus far", 
+            "ups": 5, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.instagram.com/p/BDq9P5KwUY4/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578843.0, 
+            "created_utc": 1459550043.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cykph", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "henry_cejudo", 
+                    "author_url": "https://www.instagram.com/henry_cejudo", 
+                    "description": "\"The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197...\"", 
+                    "height": 584, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Instagram", 
+                    "provider_url": "https://www.instagram.com", 
+                    "thumbnail_height": 640, 
+                    "thumbnail_url": "https://scontent.cdninstagram.com/t51.2885-15/e15/11417440_595063890659785_270519436_n.jpg?ig_cache_key=MTIxOTA1NjAyMjE3MDE5MTQxNg%3D%3D.2", 
+                    "thumbnail_width": 640, 
+                    "title": "The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197 #usawrestling #ufc", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "instagram.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 584, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cykph", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cykph/cejudo_looks_to_be_in_the_best_shape_weve_seen/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "svHxtz4Z3J0GjpaNV9rBmoDoyJRXQxcMqkB-uMqCMV0", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8e5794b66c3000e92a7417897de54c82", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=aed30c2262fc231543f00a1adddcc804", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5aaadac54955f5c7f7f0fa26eb6a4cb4", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1a4970e3af0c0dc2e97439865f579376", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?s=3224d8a8757ba3ad35f5b1f93aefae3d", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459551206.481, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Zy3PWjRmdst6WUUuRxoBcAY-On-mM6iK8dyCk9PnJ_0.jpg", 
+            "title": "Cejudo looks to be in the best shape we've seen him thus far", 
+            "ups": 9, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.instagram.com/p/BDq9P5KwUY4/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578843.0, 
+            "created_utc": 1459550043.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cykph", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "henry_cejudo", 
+                    "author_url": "https://www.instagram.com/henry_cejudo", 
+                    "description": "\"The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197...\"", 
+                    "height": 584, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Instagram", 
+                    "provider_url": "https://www.instagram.com", 
+                    "thumbnail_height": 640, 
+                    "thumbnail_url": "https://scontent.cdninstagram.com/t51.2885-15/e15/11417440_595063890659785_270519436_n.jpg?ig_cache_key=MTIxOTA1NjAyMjE3MDE5MTQxNg%3D%3D.2", 
+                    "thumbnail_width": 640, 
+                    "title": "The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197 #usawrestling #ufc", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "instagram.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 584, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cykph", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cykph/cejudo_looks_to_be_in_the_best_shape_weve_seen/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "svHxtz4Z3J0GjpaNV9rBmoDoyJRXQxcMqkB-uMqCMV0", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8e5794b66c3000e92a7417897de54c82", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=aed30c2262fc231543f00a1adddcc804", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5aaadac54955f5c7f7f0fa26eb6a4cb4", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1a4970e3af0c0dc2e97439865f579376", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?s=3224d8a8757ba3ad35f5b1f93aefae3d", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 9, 
+            "scrape_time": 1459551212.522, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Zy3PWjRmdst6WUUuRxoBcAY-On-mM6iK8dyCk9PnJ_0.jpg", 
+            "title": "Cejudo looks to be in the best shape we've seen him thus far", 
+            "ups": 9, 
+            "upvote_ratio": 1.0, 
+            "url": "https://www.instagram.com/p/BDq9P5KwUY4/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578843.0, 
+            "created_utc": 1459550043.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cykph", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "henry_cejudo", 
+                    "author_url": "https://www.instagram.com/henry_cejudo", 
+                    "description": "\"The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197...\"", 
+                    "height": 584, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Instagram", 
+                    "provider_url": "https://www.instagram.com", 
+                    "thumbnail_height": 640, 
+                    "thumbnail_url": "https://scontent.cdninstagram.com/t51.2885-15/e15/11417440_595063890659785_270519436_n.jpg?ig_cache_key=MTIxOTA1NjAyMjE3MDE5MTQxNg%3D%3D.2", 
+                    "thumbnail_width": 640, 
+                    "title": "The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197 #usawrestling #ufc", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "instagram.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 584, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cykph", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cykph/cejudo_looks_to_be_in_the_best_shape_weve_seen/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "svHxtz4Z3J0GjpaNV9rBmoDoyJRXQxcMqkB-uMqCMV0", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8e5794b66c3000e92a7417897de54c82", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=aed30c2262fc231543f00a1adddcc804", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5aaadac54955f5c7f7f0fa26eb6a4cb4", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1a4970e3af0c0dc2e97439865f579376", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?s=3224d8a8757ba3ad35f5b1f93aefae3d", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459551806.509, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Zy3PWjRmdst6WUUuRxoBcAY-On-mM6iK8dyCk9PnJ_0.jpg", 
+            "title": "Cejudo looks to be in the best shape we've seen him thus far", 
+            "ups": 16, 
+            "upvote_ratio": 0.94, 
+            "url": "https://www.instagram.com/p/BDq9P5KwUY4/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578843.0, 
+            "created_utc": 1459550043.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cykph", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "henry_cejudo", 
+                    "author_url": "https://www.instagram.com/henry_cejudo", 
+                    "description": "\"The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197...\"", 
+                    "height": 584, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Instagram", 
+                    "provider_url": "https://www.instagram.com", 
+                    "thumbnail_height": 640, 
+                    "thumbnail_url": "https://scontent.cdninstagram.com/t51.2885-15/e15/11417440_595063890659785_270519436_n.jpg?ig_cache_key=MTIxOTA1NjAyMjE3MDE5MTQxNg%3D%3D.2", 
+                    "thumbnail_width": 640, 
+                    "title": "The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197 #usawrestling #ufc", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "instagram.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 584, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cykph", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cykph/cejudo_looks_to_be_in_the_best_shape_weve_seen/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "svHxtz4Z3J0GjpaNV9rBmoDoyJRXQxcMqkB-uMqCMV0", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8e5794b66c3000e92a7417897de54c82", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=aed30c2262fc231543f00a1adddcc804", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5aaadac54955f5c7f7f0fa26eb6a4cb4", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1a4970e3af0c0dc2e97439865f579376", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?s=3224d8a8757ba3ad35f5b1f93aefae3d", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 16, 
+            "scrape_time": 1459551816.518, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Zy3PWjRmdst6WUUuRxoBcAY-On-mM6iK8dyCk9PnJ_0.jpg", 
+            "title": "Cejudo looks to be in the best shape we've seen him thus far", 
+            "ups": 16, 
+            "upvote_ratio": 0.94, 
+            "url": "https://www.instagram.com/p/BDq9P5KwUY4/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578843.0, 
+            "created_utc": 1459550043.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cykph", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "henry_cejudo", 
+                    "author_url": "https://www.instagram.com/henry_cejudo", 
+                    "description": "\"The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197...\"", 
+                    "height": 584, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Instagram", 
+                    "provider_url": "https://www.instagram.com", 
+                    "thumbnail_height": 640, 
+                    "thumbnail_url": "https://scontent.cdninstagram.com/t51.2885-15/e15/11417440_595063890659785_270519436_n.jpg?ig_cache_key=MTIxOTA1NjAyMjE3MDE5MTQxNg%3D%3D.2", 
+                    "thumbnail_width": 640, 
+                    "title": "The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197 #usawrestling #ufc", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "instagram.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 584, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cykph", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cykph/cejudo_looks_to_be_in_the_best_shape_weve_seen/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "svHxtz4Z3J0GjpaNV9rBmoDoyJRXQxcMqkB-uMqCMV0", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8e5794b66c3000e92a7417897de54c82", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=aed30c2262fc231543f00a1adddcc804", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5aaadac54955f5c7f7f0fa26eb6a4cb4", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1a4970e3af0c0dc2e97439865f579376", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?s=3224d8a8757ba3ad35f5b1f93aefae3d", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459552406.584, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Zy3PWjRmdst6WUUuRxoBcAY-On-mM6iK8dyCk9PnJ_0.jpg", 
+            "title": "Cejudo looks to be in the best shape we've seen him thus far", 
+            "ups": 17, 
+            "upvote_ratio": 0.95, 
+            "url": "https://www.instagram.com/p/BDq9P5KwUY4/", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "imhungry4444", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459578843.0, 
+            "created_utc": 1459550043.0, 
+            "distinguished": null, 
+            "domain": "instagram.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cykph", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "img", 
+            "link_flair_text": "Image/GIF", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "henry_cejudo", 
+                    "author_url": "https://www.instagram.com/henry_cejudo", 
+                    "description": "\"The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197...\"", 
+                    "height": 584, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Instagram", 
+                    "provider_url": "https://www.instagram.com", 
+                    "thumbnail_height": 640, 
+                    "thumbnail_url": "https://scontent.cdninstagram.com/t51.2885-15/e15/11417440_595063890659785_270519436_n.jpg?ig_cache_key=MTIxOTA1NjAyMjE3MDE5MTQxNg%3D%3D.2", 
+                    "thumbnail_width": 640, 
+                    "title": "The majority of great athletes all have great balance and core strength. I like to end my workouts by ripping my core and explosive training. #ufc197 #usawrestling #ufc", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "instagram.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fscontent.cdninstagram.com%2Ft50.2886-16%2F12946625_1534929260144384_1384236275_n.mp4&src_secure=1&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FBDq9P5KwUY4%2F&image=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11417440_595063890659785_270519436_n.jpg%3Fig_cache_key%3DMTIxOTA1NjAyMjE3MDE5MTQxNg%253D%253D.2&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=video%2Fmp4&schema=instagram\" width=\"600\" height=\"584\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 584, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cykph", 
+            "num_comments": 17, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cykph/cejudo_looks_to_be_in_the_best_shape_weve_seen/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "svHxtz4Z3J0GjpaNV9rBmoDoyJRXQxcMqkB-uMqCMV0", 
+                        "resolutions": [
+                            {
+                                "height": 108, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=8e5794b66c3000e92a7417897de54c82", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 216, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=aed30c2262fc231543f00a1adddcc804", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 320, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=5aaadac54955f5c7f7f0fa26eb6a4cb4", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 640, 
+                                "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1a4970e3af0c0dc2e97439865f579376", 
+                                "width": 640
+                            }
+                        ], 
+                        "source": {
+                            "height": 640, 
+                            "url": "https://i.redditmedia.com/hilu9OjPNI6yeFX5JSYBx2J3qwdX-LCeELnAV7ufnm4.jpg?s=3224d8a8757ba3ad35f5b1f93aefae3d", 
+                            "width": 640
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 17, 
+            "scrape_time": 1459552418.525, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://a.thumbs.redditmedia.com/Zy3PWjRmdst6WUUuRxoBcAY-On-mM6iK8dyCk9PnJ_0.jpg", 
+            "title": "Cejudo looks to be in the best shape we've seen him thus far", 
+            "ups": 17, 
+            "upvote_ratio": 0.95, 
+            "url": "https://www.instagram.com/p/BDq9P5KwUY4/", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

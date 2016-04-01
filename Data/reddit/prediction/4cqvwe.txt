@@ -1,0 +1,1444 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 0, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459445575.331, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 3, 
+            "scrape_time": 1459450127.357, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 3, 
+            "upvote_ratio": 0.58, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459455031.524, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459455879.031, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 1, 
+            "scrape_time": 1459457679.54, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 1, 
+            "upvote_ratio": 0.52, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459458508.42, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459518016.842, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459520188.165, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "upvote_ratio": 0.43, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459522088.125, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "upvote_ratio": 0.5, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459523292.0, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "upvote_ratio": 0.45, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "harryteabagpotter", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "\"209 slaps for Conor\"", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459471890.0, 
+            "created_utc": 1459443090.0, 
+            "distinguished": null, 
+            "domain": "youtube.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cqvwe", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cqvwe", 
+            "num_comments": 1, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cqvwe/ufc_200_mcgregor_vs_diaz_2_trailer/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "3oDzuRe1TNff4rVifbZNCNmtbDwhRFaNHbEYqaNtpI0", 
+                        "resolutions": [
+                            {
+                                "height": 81, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=083db0432791b5779063bc68b1b45d2e", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 162, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=363cf86aad49ac46edf698d016856f28", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 240, 
+                                "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=2c1f5151cc398772e1271d32f67e2baa", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 360, 
+                            "url": "https://i.redditmedia.com/GuENPhuoDU8FG8tWD4q0M9XFPyR1zJXhTb2VgRFqc3Q.jpg?s=26fe2356576853a693dd12dc4c92bbaa", 
+                            "width": 480
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 0, 
+            "scrape_time": 1459524706.472, 
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Donald Diaz", 
+                    "author_url": "https://www.youtube.com/user/TrailerPromo", 
+                    "height": 338, 
+                    "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "YouTube", 
+                    "provider_url": "https://www.youtube.com/", 
+                    "thumbnail_height": 360, 
+                    "thumbnail_url": "https://i.ytimg.com/vi/YpVYccKY77k/hqdefault.jpg", 
+                    "thumbnail_width": 480, 
+                    "title": "UFC 200 - Conor McGregor V Nate Diaz the rematch Trailer", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "youtube.com"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/YpVYccKY77k?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 338, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/SOH7pC8N6IqBjiMkPL_evkdXWOD1rGypec-jGII0jFg.jpg", 
+            "title": "ufc 200 mcgregor vs diaz 2 trailer", 
+            "ups": 0, 
+            "upvote_ratio": 0.48, 
+            "url": "https://www.youtube.com/watch?v=YpVYccKY77k", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

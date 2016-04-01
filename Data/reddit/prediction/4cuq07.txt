@@ -1,0 +1,1012 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459529373.0, 
+            "created_utc": 1459500573.0, 
+            "distinguished": null, 
+            "domain": "vid.me", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuq07", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://d1wst0behutosd.cloudfront.net/thumbnails/8438840/8438840.jpg?v2r1459500474", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuq07", 
+            "num_comments": 6, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuq07/dana_white_playing_the_good_guy_drove_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "EI0l09hgFPm-CHn5rW4zeI8weE_wfcALRfJMGlqZTdA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2dcfbd50733c3a6e7928b9c55d6f3cb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cf05d069ded522a3b03dfc2a41a69f0a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=edb5da3a0a2e50aff0587dcdd56e3f43", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e29698c8200118ac35326bdd3b452a05", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=6f4acc3f2736eca6d909c8087698e626", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=2736f331d55870f4e8dc48c721df80ae", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 720, 
+                            "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?s=f22edd95f20f59aa91620a678b7a2cda", 
+                            "width": 1280
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459518164.858, 
+            "secure_media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5_Z1PV5cyCyU2hjdwQXThn96vvR-eKnFnVr_FBEKObc.jpg", 
+            "title": "Dana White: Playing the 'good guy' drove Jon Jones 'crazy'", 
+            "ups": 20, 
+            "upvote_ratio": 0.76, 
+            "url": "https://vid.me/fkuR", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459529373.0, 
+            "created_utc": 1459500573.0, 
+            "distinguished": null, 
+            "domain": "vid.me", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuq07", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://d1wst0behutosd.cloudfront.net/thumbnails/8438840/8438840.jpg?v2r1459500474", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuq07", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuq07/dana_white_playing_the_good_guy_drove_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "EI0l09hgFPm-CHn5rW4zeI8weE_wfcALRfJMGlqZTdA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2dcfbd50733c3a6e7928b9c55d6f3cb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cf05d069ded522a3b03dfc2a41a69f0a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=edb5da3a0a2e50aff0587dcdd56e3f43", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e29698c8200118ac35326bdd3b452a05", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=6f4acc3f2736eca6d909c8087698e626", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=2736f331d55870f4e8dc48c721df80ae", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 720, 
+                            "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?s=f22edd95f20f59aa91620a678b7a2cda", 
+                            "width": 1280
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 23, 
+            "scrape_time": 1459520322.206, 
+            "secure_media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5_Z1PV5cyCyU2hjdwQXThn96vvR-eKnFnVr_FBEKObc.jpg", 
+            "title": "Dana White: Playing the 'good guy' drove Jon Jones 'crazy'", 
+            "ups": 23, 
+            "upvote_ratio": 0.77, 
+            "url": "https://vid.me/fkuR", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459529373.0, 
+            "created_utc": 1459500573.0, 
+            "distinguished": null, 
+            "domain": "vid.me", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuq07", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://d1wst0behutosd.cloudfront.net/thumbnails/8438840/8438840.jpg?v2r1459500474", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuq07", 
+            "num_comments": 10, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuq07/dana_white_playing_the_good_guy_drove_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "EI0l09hgFPm-CHn5rW4zeI8weE_wfcALRfJMGlqZTdA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2dcfbd50733c3a6e7928b9c55d6f3cb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cf05d069ded522a3b03dfc2a41a69f0a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=edb5da3a0a2e50aff0587dcdd56e3f43", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e29698c8200118ac35326bdd3b452a05", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=6f4acc3f2736eca6d909c8087698e626", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=2736f331d55870f4e8dc48c721df80ae", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 720, 
+                            "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?s=f22edd95f20f59aa91620a678b7a2cda", 
+                            "width": 1280
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 23, 
+            "scrape_time": 1459520373.572, 
+            "secure_media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5_Z1PV5cyCyU2hjdwQXThn96vvR-eKnFnVr_FBEKObc.jpg", 
+            "title": "Dana White: Playing the 'good guy' drove Jon Jones 'crazy'", 
+            "ups": 23, 
+            "upvote_ratio": 0.77, 
+            "url": "https://vid.me/fkuR", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459529373.0, 
+            "created_utc": 1459500573.0, 
+            "distinguished": null, 
+            "domain": "vid.me", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuq07", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://d1wst0behutosd.cloudfront.net/thumbnails/8438840/8438840.jpg?v2r1459500474", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuq07", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuq07/dana_white_playing_the_good_guy_drove_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "EI0l09hgFPm-CHn5rW4zeI8weE_wfcALRfJMGlqZTdA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2dcfbd50733c3a6e7928b9c55d6f3cb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cf05d069ded522a3b03dfc2a41a69f0a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=edb5da3a0a2e50aff0587dcdd56e3f43", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e29698c8200118ac35326bdd3b452a05", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=6f4acc3f2736eca6d909c8087698e626", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=2736f331d55870f4e8dc48c721df80ae", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 720, 
+                            "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?s=f22edd95f20f59aa91620a678b7a2cda", 
+                            "width": 1280
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459522228.183, 
+            "secure_media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5_Z1PV5cyCyU2hjdwQXThn96vvR-eKnFnVr_FBEKObc.jpg", 
+            "title": "Dana White: Playing the 'good guy' drove Jon Jones 'crazy'", 
+            "ups": 28, 
+            "upvote_ratio": 0.79, 
+            "url": "https://vid.me/fkuR", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459529373.0, 
+            "created_utc": 1459500573.0, 
+            "distinguished": null, 
+            "domain": "vid.me", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuq07", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://d1wst0behutosd.cloudfront.net/thumbnails/8438840/8438840.jpg?v2r1459500474", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuq07", 
+            "num_comments": 13, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuq07/dana_white_playing_the_good_guy_drove_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "EI0l09hgFPm-CHn5rW4zeI8weE_wfcALRfJMGlqZTdA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2dcfbd50733c3a6e7928b9c55d6f3cb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cf05d069ded522a3b03dfc2a41a69f0a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=edb5da3a0a2e50aff0587dcdd56e3f43", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e29698c8200118ac35326bdd3b452a05", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=6f4acc3f2736eca6d909c8087698e626", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=2736f331d55870f4e8dc48c721df80ae", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 720, 
+                            "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?s=f22edd95f20f59aa91620a678b7a2cda", 
+                            "width": 1280
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459522286.023, 
+            "secure_media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5_Z1PV5cyCyU2hjdwQXThn96vvR-eKnFnVr_FBEKObc.jpg", 
+            "title": "Dana White: Playing the 'good guy' drove Jon Jones 'crazy'", 
+            "ups": 28, 
+            "upvote_ratio": 0.79, 
+            "url": "https://vid.me/fkuR", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459529373.0, 
+            "created_utc": 1459500573.0, 
+            "distinguished": null, 
+            "domain": "vid.me", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuq07", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://d1wst0behutosd.cloudfront.net/thumbnails/8438840/8438840.jpg?v2r1459500474", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuq07", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuq07/dana_white_playing_the_good_guy_drove_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "EI0l09hgFPm-CHn5rW4zeI8weE_wfcALRfJMGlqZTdA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2dcfbd50733c3a6e7928b9c55d6f3cb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cf05d069ded522a3b03dfc2a41a69f0a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=edb5da3a0a2e50aff0587dcdd56e3f43", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e29698c8200118ac35326bdd3b452a05", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=6f4acc3f2736eca6d909c8087698e626", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=2736f331d55870f4e8dc48c721df80ae", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 720, 
+                            "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?s=f22edd95f20f59aa91620a678b7a2cda", 
+                            "width": 1280
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459523432.036, 
+            "secure_media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5_Z1PV5cyCyU2hjdwQXThn96vvR-eKnFnVr_FBEKObc.jpg", 
+            "title": "Dana White: Playing the 'good guy' drove Jon Jones 'crazy'", 
+            "ups": 28, 
+            "upvote_ratio": 0.79, 
+            "url": "https://vid.me/fkuR", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "Bibosas", 
+            "author_flair_css_class": null, 
+            "author_flair_text": "Team Miesha", 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459529373.0, 
+            "created_utc": 1459500573.0, 
+            "distinguished": null, 
+            "domain": "vid.me", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cuq07", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": "vid", 
+            "link_flair_text": "Video", 
+            "locked": false, 
+            "media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://d1wst0behutosd.cloudfront.net/thumbnails/8438840/8438840.jpg?v2r1459500474", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "mod_reports": [], 
+            "name": "t3_4cuq07", 
+            "num_comments": 14, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cuq07/dana_white_playing_the_good_guy_drove_jon_jones/", 
+            "post_hint": "rich:video", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "EI0l09hgFPm-CHn5rW4zeI8weE_wfcALRfJMGlqZTdA", 
+                        "resolutions": [
+                            {
+                                "height": 60, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2dcfbd50733c3a6e7928b9c55d6f3cb8", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 121, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=cf05d069ded522a3b03dfc2a41a69f0a", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 180, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=edb5da3a0a2e50aff0587dcdd56e3f43", 
+                                "width": 320
+                            }, 
+                            {
+                                "height": 360, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e29698c8200118ac35326bdd3b452a05", 
+                                "width": 640
+                            }, 
+                            {
+                                "height": 540, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=6f4acc3f2736eca6d909c8087698e626", 
+                                "width": 960
+                            }, 
+                            {
+                                "height": 607, 
+                                "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=2736f331d55870f4e8dc48c721df80ae", 
+                                "width": 1080
+                            }
+                        ], 
+                        "source": {
+                            "height": 720, 
+                            "url": "https://i.redditmedia.com/dqA5nuOCZ1swx5Hc6RC5BuGer5ZsC8hxBxt3xfE6nvc.jpg?s=f22edd95f20f59aa91620a678b7a2cda", 
+                            "width": 1280
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 28, 
+            "scrape_time": 1459523505.941, 
+            "secure_media": {
+                "oembed": {
+                    "description": "Vidme is the simplest way to upload and share videos, no signup required.", 
+                    "height": 337, 
+                    "html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "provider_name": "Vidme", 
+                    "provider_url": "https://vid.me", 
+                    "thumbnail_height": 720, 
+                    "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=b1e305db91cf4aa5a86b732cc9fffceb", 
+                    "thumbnail_width": 1280, 
+                    "title": "Untitled", 
+                    "type": "video", 
+                    "version": "1.0", 
+                    "width": 600
+                }, 
+                "type": "vid.me"
+            }, 
+            "secure_media_embed": {
+                "content": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FfkuR%3Fcard%3D1&url=https%3A%2F%2Fvid.me%2FfkuR&image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F8438840%2F8438840.jpg%3Fv2r1459500474&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vid\" width=\"600\" height=\"337\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>", 
+                "height": 337, 
+                "scrolling": false, 
+                "width": 600
+            }, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/5_Z1PV5cyCyU2hjdwQXThn96vvR-eKnFnVr_FBEKObc.jpg", 
+            "title": "Dana White: Playing the 'good guy' drove Jon Jones 'crazy'", 
+            "ups": 28, 
+            "upvote_ratio": 0.79, 
+            "url": "https://vid.me/fkuR", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}

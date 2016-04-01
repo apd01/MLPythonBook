@@ -1,0 +1,1306 @@
+{
+    "Submission": [
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459447151.586, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 12, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459447273.114, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 12, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 3, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 12, 
+            "scrape_time": 1459447300.93, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 12, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459450149.573, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 20, 
+            "upvote_ratio": 0.89, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": true, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 8, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 20, 
+            "scrape_time": 1459450190.228, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 20, 
+            "upvote_ratio": 0.89, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 27, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 51, 
+            "scrape_time": 1459455053.655, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 51, 
+            "upvote_ratio": 0.93, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 27, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 51, 
+            "scrape_time": 1459455132.821, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 51, 
+            "upvote_ratio": 0.93, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 27, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 57, 
+            "scrape_time": 1459455901.088, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 57, 
+            "upvote_ratio": 0.93, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 30, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 69, 
+            "scrape_time": 1459457701.613, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 69, 
+            "upvote_ratio": 0.92, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 32, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 71, 
+            "scrape_time": 1459458530.55, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 71, 
+            "upvote_ratio": 0.92, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 72, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 153, 
+            "scrape_time": 1459518039.173, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 153, 
+            "upvote_ratio": 0.89, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 72, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 150, 
+            "scrape_time": 1459520210.713, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 150, 
+            "upvote_ratio": 0.89, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 73, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 154, 
+            "scrape_time": 1459522110.454, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 154, 
+            "upvote_ratio": 0.89, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 74, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 154, 
+            "scrape_time": 1459523314.37, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 154, 
+            "upvote_ratio": 0.89, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }, 
+        {
+            "approved_by": null, 
+            "archived": false, 
+            "author": "ronsfuckingwanson", 
+            "author_flair_css_class": null, 
+            "author_flair_text": null, 
+            "banned_by": null, 
+            "clicked": false, 
+            "created": 1459474754.0, 
+            "created_utc": 1459445954.0, 
+            "distinguished": null, 
+            "domain": "sherdog.com", 
+            "downs": 0, 
+            "edited": false, 
+            "from": null, 
+            "from_id": null, 
+            "from_kind": null, 
+            "gilded": 0, 
+            "hidden": false, 
+            "hide_score": false, 
+            "id": "4cr42c", 
+            "is_self": false, 
+            "likes": null, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "locked": false, 
+            "media": null, 
+            "media_embed": {}, 
+            "mod_reports": [], 
+            "name": "t3_4cr42c", 
+            "num_comments": 74, 
+            "num_reports": null, 
+            "over_18": false, 
+            "permalink": "/r/MMA/comments/4cr42c/cody_garbrandt_ive_cut_my_ties_with_exteam_alpha/", 
+            "post_hint": "link", 
+            "preview": {
+                "images": [
+                    {
+                        "id": "1XBaSa93h4axBwOlGd1kzbU_podc0EGhBrC1URMVEZ4", 
+                        "resolutions": [
+                            {
+                                "height": 72, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=fd38351fb3656cedfe48b7311a142dbe", 
+                                "width": 108
+                            }, 
+                            {
+                                "height": 144, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=58b6289d72b8e6d91b0eb2c4c02d4aa4", 
+                                "width": 216
+                            }, 
+                            {
+                                "height": 213, 
+                                "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=e3f890d587c07e7e21b3ae3b9f8e84d0", 
+                                "width": 320
+                            }
+                        ], 
+                        "source": {
+                            "height": 380, 
+                            "url": "https://i.redditmedia.com/RZH4jCTrM8rx4ZsUlDS7gMB-IuuNLMN2rkDJOUNbzYY.jpg?s=96252a971d9d51a5fc4bdb74841ed95e", 
+                            "width": 570
+                        }, 
+                        "variants": {}
+                    }
+                ]
+            }, 
+            "quarantine": false, 
+            "removal_reason": null, 
+            "report_reasons": null, 
+            "saved": false, 
+            "score": 155, 
+            "scrape_time": 1459524728.965, 
+            "secure_media": null, 
+            "secure_media_embed": {}, 
+            "selftext": "", 
+            "selftext_html": null, 
+            "stickied": false, 
+            "subreddit": "MMA", 
+            "subreddit_id": "t5_2qhj4", 
+            "suggested_sort": null, 
+            "thumbnail": "http://b.thumbs.redditmedia.com/FhonsgKjbW4_yaHaJ71kQt2Ct-yNXx_eubhzxsXJDyA.jpg", 
+            "title": "Cody Garbrandt: Ive Cut My Ties with Ex-Team Alpha Male Training Partner T.J. Dillashaw", 
+            "ups": 155, 
+            "upvote_ratio": 0.89, 
+            "url": "http://www.sherdog.com/news/news/Cody-Garbrandt-Ive-Cut-My-Ties-with-ExTeam-Alpha-Male-Training-Partner-TJ-Dillashaw-102659", 
+            "user_reports": [], 
+            "visited": false
+        }
+    ]
+}
