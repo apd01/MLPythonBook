@@ -1,3 +1,12 @@
+#
+# Use praw to gather details about reddit submissions - current up/downvotes and number of comments.
+# Gather data from /r/mma. Create a file for each one. Every ten minutes, search for new submissions,
+# and get another data point for older submissions by scanning for older saved files and appending
+# a new .json entry. Only collect for submissions less than 1.5 days old.
+#
+# Alan Dunne
+# Apr 2016
+
 import praw
 import json
 import os.path
@@ -43,7 +52,7 @@ while True:
         with open('data/reddit/prediction_auto/' + f + '.txt', 'r') as infile:
             read_file_json = json.load(infile)
             # Might need to try/except here
-            if read_file_json['Submission'][len(read_file_json)-1]['scrape_time'] > (datetime.utcnow() - datetime(1970, 1, 1)).total_seconds() - (60 * 60 * 24 * 3):
+            if read_file_json['Submission'][len(read_file_json)-1]['scrape_time'] > (datetime.utcnow() - datetime(1970, 1, 1)).total_seconds() - (60 * 60 * 24 * 1.5):
 
             #if read_file_json['Submission'][len(read_file_json)-1]['scrape_time'] - datetime.utcnow() > datetime.date(0,0,3):
                 get_submission_sample(f)
@@ -74,4 +83,5 @@ while True:
 
     toc = datetime.utcnow()
     time_to_delay = 600 - (toc-tic).total_seconds()
+    print(time_to_delay)
     time.sleep(time_to_delay)

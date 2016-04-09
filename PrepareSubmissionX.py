@@ -34,9 +34,25 @@ files = [file[0:len(file)-4] for file in files]
 
 X_data = []
 y_data = []
+single_submission = []
 for file in  files:
     with open('data/reddit/prediction_auto/' + file + '.txt', 'r') as infile:
         read_file_json = json.load(infile)
+
+        # If a sub hasn't received 50 upvotes (yet), ignore it
+        if read_file_json['Submission'][-1]['ups'] < 50:
+            continue
+
+        # if the 4th sample was taken more than 40 minutes after posting, ignore it
+        if read_file_json['Submission'][3]['scrape_time'] - read_file_json['Submission'][3]['created_utc']  > 2400:
+            continue
+
+        # If we don't have more than 24 hours of data, ignore it (24 * 2600 = 86400)
+        if read_file_json['Submission'][-1]['scrape_time'] - read_file_json['Submission'][-1]['created_utc']  < 86400:
+            continue
+
+
+        single_submission = []
         for sample in read_file_json['Submission']:
             #print(sample['title'])
             #print(sample['id'])
@@ -45,10 +61,14 @@ for file in  files:
             # print(int(t - t_created))
             new_sample = [int(t-t_created)]
             #print(new_sample)
+            # don't take more than 25 hours of data (the curve tends to flatten out)
+            if int(t-t_created) > 90000:
+                continue
 
             new_sample = [file, new_sample[0], sample['ups'], sample['downs'], sample['num_comments']]
             #print(new_sample)
-            X_data.append([new_sample])
+            single_submission.append(new_sample)
+    X_data.append(single_submission)
         #y_data.append(sample)
         #print(len(X_data))
 
