@@ -45,7 +45,7 @@ y = []
 # x0: Y = (base+max)/2
 
 #x = [row for row in all_data if row[0][0] == '4d2qq3']
-x = all_data[33]
+x = all_data[32]
 y = []
 
 for idx in range(0, len(x)):
@@ -71,6 +71,7 @@ p, cov, infodict, mesg, ier = scipy.optimize.leastsq(
     residuals,p_guess,args=(x,y),full_output=1)
 
 x0,y0,c,k=p
+
 print('''\
 x0 = {x0}
 y0 = {y0}
@@ -81,27 +82,20 @@ k = {k}
 xp = np.linspace(0, 1.1, 1500)
 
 #Edited 'p' to plot a manual sigmoid, taken from Analyze_Coefficients -> predict
-p = [ -0.16016791, -34.12028477 , 35.09745778 , 20.49026726]
-print(xp)
-print(1788/86400.0)
-num_upvotes_predicted = 13/sigmoid(p, 1788/86400.0)
-print(num_upvotes_predicted)
+p = [ -0.35709267, -56.8023173 ,  57.78790784 , 18.20934939]
 pxp=sigmoid(p,xp)
 
-
-xp *= 86561
-pxp *= num_upvotes_predicted
-
+'''
 x *= x_max
 y *= y_max
-
+'''
 
 # Plot the results
 plt.plot(x, y, '.', xp, pxp, '-')
 plt.xlabel('x')
 plt.ylabel('y',rotation='horizontal')
 plt.grid(True)
-plt.ylim([-.1, y_max])
-plt.xlim([-.1, x_max])
+plt.ylim([-.1, 1])
+plt.xlim([-.1, 1])
 plt.show()
 
